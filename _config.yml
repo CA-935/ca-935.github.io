@@ -4,7 +4,7 @@
 title: CA-935th - Scripps Ranch HS AFJROTC
 description: "Welcome to the page for the Scripps Ranch High School AFJROTC. CA-935th.com is run by cadets in our program and serves to showcase our events, cadets, and information about our corps."
 baseurl: ""
-url: "http://ca-935th.github.io"
+url: "https://ca-935.github.io"
 
 # Build settings
 markdown: kramdown
