@@ -6,7 +6,7 @@
     "cname": "ca-935.github.io"
   },
   "theme": {
-    "name": "casper"
+    "name": "SOLID."
   },
   "urls": {
     "site": "http://ca-935.github.io",
@@ -24,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
