@@ -1,7 +1,14 @@
 /*	################################################################
 
-	Author: Carlos Alvarez
-	URL: http://alvarez.is
+
+	CA-935th Website
+	Run by and for cadets
+	
+
+
+
+
+	Adapted from:
 
 	Project Name: SOLID - Bootstrap 3 Theme
 	Version: 1.0
@@ -504,4 +511,8 @@ a.anchor{
     position: relative; 
     top: -80px; 
     visibility: hidden;
+}
+
+.about_center {
+    text-align: center;
 }
