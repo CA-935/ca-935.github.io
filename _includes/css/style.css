@@ -1,5 +1,15 @@
 /*	################################################################
 
+
+	CA-935th Website
+
+	Run by and for cadets
+	
+
+
+
+	Adapted from:
+
 	Author: Carlos Alvarez
 	URL: http://alvarez.is
 
@@ -504,4 +514,8 @@ a.anchor{
     position: relative; 
     top: -80px; 
     visibility: hidden;
+}
+
+.about_center{
+    text-align:center;
 }
