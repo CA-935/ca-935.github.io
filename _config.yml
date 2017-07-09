@@ -33,8 +33,8 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-#  - title: facebook
-#    url:
+  - title: facebook
+    url: https://www.facebook.com/srhspublicaffairs
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -70,10 +70,9 @@ testimonial:
     author: MSgt. Toledo
     position: Aerospace Science Instructor - SRHS AFJROTC
 
-
 prose:
   rooturl: '_posts'
-  siteurl: 'http://ca-935.github.io'
+  siteurl: 'https://ca-935.github.io'
   media: 'media'
   ignore:
     - index.md
