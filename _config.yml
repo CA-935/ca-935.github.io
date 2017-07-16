@@ -36,9 +36,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - 10410 Treena Street,
-    - 92131, San Diego,
-    - United States.
+    - 10410 Treena Street
+    - San Diego, CA 92131
 #email: 
 #tel: it's in the contact us page so dont put it here
 
@@ -59,7 +58,7 @@ address:
 
 # Clients information. Shown on Home and About pages.
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Scripps Ranch High School’s Air Force Junior Reserve Officer Training Corps (AFJROTC) CA 935th program, has been the number one JROTC unit in the San Diego Unified School District for many years. We value hard-work, friendship, and achievement, pushing our cadets not only to be their best but also to perform their best."
+about: "Scripps Ranch High School’s Air Force Junior Reserve Officer Training Corps (AFJROTC) CA-935th program has been the number one JROTC unit in the San Diego Unified School District for many years. We value hard-work, friendship, and achievement, pushing our cadets not only to be their best, but also to perform their best."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
