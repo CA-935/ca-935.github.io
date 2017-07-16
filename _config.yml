@@ -25,9 +25,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
-  questions:
-    output: true
-    permalink: /questions/:title/
 
 ### CONTACT SETTINGS ###
 

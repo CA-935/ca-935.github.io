@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>
+      <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}"><img src="{{ "/assets/img/logo.png" | prepend: site.baseurl }}" style="height:30px; width:35px; margin-top:-5px;"/></a>
     </div>
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
@@ -16,8 +16,7 @@
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT US</a></li>
         <li {% if page.title == "Update" %}class="active"{% endif %}><a href="{{"/updates/" | prepend: site.baseurl }}">UPDATES</a></li>
         <li {% if page.title == "Gallery" %}class="active"{% endif %}><a href="{{"/gallery/" | prepend: site.baseurl }}">GALLERY</a></li>
-        <li {% if page.title == "Drill Teams" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">EXTRACURRICULARS</a></li>
-		<ul> Lol does this work </ul>
+        <li {% if page.title == "Extracurriculars" %}class="active"{% endif %}><a href="{{"/extracurriculars/" | prepend: site.baseurl }}">EXTRACURRICULARS</a></li>
 	<li {% if page.title == "CyberPatriot" %}class="active"{% endif %}><a href="{{"https://cybpat.ca-935.github.io" }}">CYBERPATRIOT</a></li>
 	<li {% if page.title == "Files and Syllabi" %}class="active"{% endif %}><a href="{{"/files/" | prepend: site.baseurl }}">FILES</a></li>
       </ul>
