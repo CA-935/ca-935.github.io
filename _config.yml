@@ -56,6 +56,18 @@ address:
 #        url: mailto:name@domain.com
 #      - title: twitter
 #        url: http://twitter.com/handle
+members:
+  - name: placeholder
+  - name: Shane Donahue
+    position: Technology Officer
+    img: team02.jpg
+  - name: Brandon Nguyen
+    position: Technology Sergeant
+    img: team03.jpg
+    social:
+      - title: github
+        url: https://github.com/brandonpadres
+
 
 # Clients information. Shown on Home and About pages.
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
