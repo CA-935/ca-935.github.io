@@ -40,6 +40,32 @@ permalink: /contact/
                         {{ line }} <br>
                     {% endfor %}
                 </p>
+            <head>
+                <style>
+                    #map {
+                    height: 400px;
+                    width: 100%;
+                         }
+                </style>
+            </head>
+            <body>
+            <div id="map"></div>
+            <script>
+                function initMap() {
+                var uluru = {lat: 32.908613, lng: -117.111861};
+                var map = new google.maps.Map(document.getElementById('map'), {
+                    zoom: 15,
+                    center: uluru
+                });
+                var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                });
+                }
+            </script>
+            <script async defer
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2KBB-4gk9SfJa2YdkGnrHwn3fOTqb1nY&callback=initMap">
+            </script>
 
                 <p>We will message you back as soon as possible. Thank you!</p>
         </div>
