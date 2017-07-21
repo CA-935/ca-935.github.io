@@ -78,6 +78,18 @@ members:
     position: Public Affairs Sergeant
     img: thu.jpg
 
+armedmembers:
+  - name:
+
+cgmembers:
+  - name:
+
+sabermembers:
+  - name:
+
+unarmedmembers:
+  - name:
+
 
 # Clients information. Shown on Home and About pages.
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
