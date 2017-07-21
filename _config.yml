@@ -32,7 +32,7 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: github
-  url: https://github.com/CA-935
+    url: https://github.com/CA-935
   - title: facebook
     url: https://www.facebook.com/srhspublicaffairs
 
