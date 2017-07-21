@@ -7,25 +7,25 @@ permalink: /teams/sfdt/
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row centered">
-{% for armedmember in site.armedmembers %}
+{% for sabermember in site.sabermembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/armed/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+            <img src="{{ "/assets/img/teams/saber/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
-                        {% for entry in armedmember.social %}
+                        {% for entry in sabermember.social %}
                             <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
-                </div><!-- he view -->		
+                </div><!-- he view -->      
             </div><!-- he wrap -->
-            <h4>{{ armedmember.name }}</h4>
-            <h5 class="ctitle">{{ armedmember.position }}</h5>
-            <p>{{ armedmember.text }}</p>
+            <h4>{{ sabermember.name }}</h4>
+            <h5 class="ctitle">{{ sabermember.position }}</h5>
+            <p>{{ sabermember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->	 	
+        </div><! --/col-lg-3 -->        
         {% endfor %}
         </div>
         </div>
