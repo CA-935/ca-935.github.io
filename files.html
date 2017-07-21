@@ -4,59 +4,22 @@ title: Files and Syllabi
 permalink: /files/
 ---
 
+{% include wrap.html %}
 <div id="service">
     <div class="container">
         <div class="row centered">
-            <div class="col-md-4">
-                <i class="fa fa-heart-o" aria-hidden="true"></i>
-                <span class="sr-only">An image of a love-heart</span>
-                <h4>Handsomely Crafted</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+            <div class="col-md-20">
+                <a href="https://drive.google.com/open?id=0B-MNfsPFO-NqQVJYaGZBTVNtZXc" target="_blank"" class="btn btn-primary btn-cta"> Cadet Handbook</a>
+                <a class="btn btn-primary btn-cta" href="https://drive.google.com/open?id=0B-MNfsPFO-NqUkdTcXE1Qnh4QWM" target="_blank"> Drill & Ceremonies</a>
+                <a class="btn btn-primary btn-cta" href="https://drive.google.com/open?id=0B-MNfsPFO-NqNm5UVGdNYk83RGc" target="_blank"> UYP Syllabus</a>
+                <a class="btn btn-primary btn-cta" href="https://drive.google.com/open?id=0B-MNfsPFO-NqOXNxbGdEbTlDTW8" target="_blank"> LE-400 Syllabus</a>
+                <a class="btn btn-primary btn-cta" href="https://drive.google.com/open?id=0B-MNfsPFO-NqYThPRGd5SEV2Nms" target="_blank"> A Journey Into Aviation History – Spring 2017 Syllabus</a>
+                <br>
+                <br>
+                <a class="btn btn-primary btn-cta" href="https://drive.google.com/open?id=0B-MNfsPFO-NqWG1iTkVKeDJBcTg" target="_blank"> An Introduction into Global Awareness in Africa – Spring 2017 Syllabus</a>
             </div>
-            <div class="col-md-4">
-                <i class="fa fa-flask" aria-hidden="true"></i>
-                <span class="sr-only">An image of a laboratory flask</span>
-                <h4>Retina Ready</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-trophy" aria-hidden="true"></i>
-                <span class="sr-only">An image of a trophy</span>
-                <h4>Quality Theme</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
-            </div>
-        </div>
-    </div><! --/container -->
-</div><! --/service -->
-
+        </div><! --/container -->
+    </div><! --/service -->
 {% include gallery.html title="LATEST WORKS" limit=10 %}
-
-<div class="container mtb">
-    <div class="row">
-        <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About Our Agency.</h4>
-            <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for question in site.questions %}
-                <p><a href="{{ question.url | prepend: site.baseurl }}">{{ question.title }}</a></p>
-            {% endfor %}
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Latest Posts</h4>
-            <div class="hline"></div>
-            {% for post in site.posts limit:5 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %}
-        </div>
-
-    </div><! --/row -->
+</div><! --/row -->
 </div><! --/container -->
