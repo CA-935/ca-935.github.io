@@ -79,16 +79,20 @@ members:
     img: thu.jpg
 
 armedmembers:
-  - name:
+  - name: Anton Phan
+  - name: Jordan Almaas
 
 cgmembers:
-  - name:
+  - name: William Rule
+  - name: Marlene Freerksen
 
 sabermembers:
-  - name:
+  - name: Jimmy Du 
+  - name: Nick Stone
 
 unarmedmembers:
-  - name:
+  - name: Lj Monteclar
+  - name: Amanda Ong
 
 
 # Clients information. Shown on Home and About pages.
