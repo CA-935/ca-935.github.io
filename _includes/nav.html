@@ -14,15 +14,24 @@
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT US</a></li>
-        <li {% if page.title == "Update" %}class="active"{% endif %}><a href="{{"/updates/" | prepend: site.baseurl }}">UPDATES</a></li>
+        <li {% if page.title == "Update" %}class="active"{% endif %}><a href="{{"/updates/" | prepend: site.baseurl }}">UPDATES</a>   
+        <ul>
+          <a class="dropdown_link" href="{{"/calendar/" | prepend: site.baseurl }}"><li {% if page.title == "Calendar" %}class="active"{% endif %}>Calendar</li></a>
+        </ul>
+        </li>
         <li {% if page.title == "Parents" %}class="active"{% endif %}><a href="{{"/parents/" | prepend: site.baseurl }}">PARENTS</a></li>
-        <li {% if page.title == "Calendar" %}class="active"{% endif %}><a href="{{"/calendar/" | prepend: site.baseurl }}">CALENDAR</a></li>
         <li {% if page.title == "Gallery" %}class="active"{% endif %}><a href="{{"/gallery/" | prepend: site.baseurl }}">GALLERY</a></li>
-        <li {% if page.title == "Extracurriculars" %}class="active"{% endif %}><a href="{{"/extracurriculars/" | prepend: site.baseurl }}">EXTRACURRICULARS</a></li>
-        <li {% if page.title == "Teams" %}class="active"{% endif %}><a href="{{"/teams/" | prepend: site.baseurl }}">TEAMS</a></li>
-        <li {% if page.title == "CyberPatriot" %}class="active"{% endif %}><a href="{{"https://cybpat.ca-935.github.io" }}">CYBERPATRIOT</a></li>
+        <li {% if page.title == "Extracurriculars" %}class="active"{% endif %}><a>EXTRACURRICULARS</a>
+        <ul>
+          <a class="dropdown_link" href="{{"/teams/afdt/" | prepend: site.baseurl }}"><li {% if page.title == "Armed Fancy Drill Team" %}class="active"{% endif %}>AFDT</li></a>
+          <a class="dropdown_link" href="{{"/teams/ufdt/" | prepend: site.baseurl }}"><li {% if page.title == "Unarmed Fancy Drill Team" %}class="active"{% endif %}>UFDT</li></a>
+          <a class="dropdown_link" href="{{"/teams/sfdt/" | prepend: site.baseurl }}"><li {% if page.title == "Saber Fancy Drill Team" %}class="active"{% endif %}>SFDT</li></a>
+          <a class="dropdown_link" href="{{"/teams/cg/" | prepend: site.baseurl }}"><li {% if page.title == "Color Guard" %}class="active"{% endif %}>Color Guard</li></a>
+          <a class="dropdown_link" href="{{"/teams/flagdetail/" | prepend: site.baseurl }}"><li {% if page.title == "Flag Detail" %}class="active"{% endif %}>Flag Detail</li></a>
+          <a class="dropdown_link" href="{{"https://cybpat.ca-935.github.io"}}"><li>CyberPatriot</li></a>
+        </ul>
+        </li>
         <li {% if page.title == "Files and Syllabi" %}class="active"{% endif %}><a href="{{"/files/" | prepend: site.baseurl }}">FILES</a></li>
-        <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" }}">CONTACT</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
