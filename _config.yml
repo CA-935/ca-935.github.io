@@ -26,6 +26,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+    limit: 9
 
 ### CONTACT SETTINGS ###
 
@@ -107,7 +108,7 @@ cadets not only to be their best, but also to perform their best."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "quote from sgt t here"
+    message: "It's not what you have or what you know; it's what you do with your talent, skills, knowledge, and education that will determine your perfomance and give you the competitive edge!"
     author: MSgt. Toledo
     position: Aerospace Science Instructor - SRHS AFJROTC
 
