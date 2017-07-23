@@ -84,12 +84,43 @@ armedmembers:
     position: Armed Team Commander
   - name: Jordan Almaas
     position: Armed Team Sergeant
+  - name: Jacob Butcher
+  - name: Monique Castro-Compton
+  - name: Matthew Custodio
+  - name: Arvin Espanta
+  - name: Kaelan Gordon
+  - name: Alexandria Jones
+  - name: Phoebe Lam
+  - name: Eric Lee
+  - name: Phillip Ma
+  - name: Xander Meehan
+  - name: Luke Moolmuang
+  - name: Brandy Opondo
+  - name: Thomas Phan
+  - name: Clyde Rapiñan
+  - name: Adrian Resubal
+  - name: Rem Talde
+  - name: Mariel Teng II
+  - name: David Udom
+  - name: Thitichon Viengpasertsay
 
 cgmembers:
   - name: William Rule
     position: Color Guard Commander
   - name: Marlene Freerksen
     position: Color Guard Sergeant
+  - name: Julius Bagsic
+  - name: Michael Castillo
+  - name: Lance Gallwas
+  - name: Kyrstn Hall
+  - name: Aish Kirawant
+  - name: Lauren Kogelman
+  - name: Brandon Nguyen
+  - name: Christina O
+  - name: Michelle Resubal
+  - name: Hanna Rule
+  - name: Austin Tran
+  - name: Dylan Tran
 
 flagdetailmembers:
   - name: Mariel Teng II
@@ -111,12 +142,30 @@ sabermembers:
     position: Saber Team Commander
   - name: Nick Stone
     position: Saber Team Sergeant
+  - name: Athena Amandatidis
+  - name: Evan Dicker
+  - name: Chloe Dietrich
+  - name: Shane Donahue
+  - name: Mitchell Le
+  - name: Manny Marquez
+  - name: Christine Nguyen
+  - name: Melba Nuzen
+  - name: Mia Parsons
+  - name: Alex Roh
+  - name: Mi Tran
 
 unarmedmembers:
   - name: Lj Monteclar
     position: Unarmed Team Commander
   - name: Amanda Ong
     position: Unarmed Team Sergeant
+  - name: Valerie Ho
+  - name: Johanna Kye
+  - name: Justin Luu
+  - name: Kyle Nguyen
+  - name: Emely Ton
+  - name: Namkhue Vo
+  - name: Marina Xu
 
 academicmembers:
   - name: Placeholder
