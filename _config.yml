@@ -84,94 +84,72 @@ armedmembers:
     position: Armed Team Commander
   - name: Jordan Almaas
     position: Armed Team Sergeant
-  - name: Jacob Butcher
-  - name: Monique Castro-Compton
-  - name: Matthew Custodio
-  - name: Arvin Espanta
-  - name: Kaelan Gordon
-  - name: Alexandria Jones
-  - name: Phoebe Lam
-  - name: Eric Lee
-  - name: Phillip Ma
-  - name: Xander Meehan
-  - name: Luke Moolmuang
-  - name: Brandy Opondo
-  - name: Thomas Phan
-  - name: Clyde Rapiñan
-  - name: Adrian Resubal
-  - name: Rem Talde
-  - name: Mariel Teng II
-  - name: David Udom
-  - name: Thitichon Viengpasertsay
 
 cgmembers:
   - name: William Rule
     position: Color Guard Commander
   - name: Marlene Freerksen
     position: Color Guard Sergeant
-  - name: Julius Bagsic
-  - name: Michael Castillo
-  - name: Lance Gallwas
-  - name: Kyrstn Hall
-  - name: Aish Kirawant
-  - name: Lauren Kogelman
-  - name: Brandon Nguyen
-  - name: Christina O
-  - name: Michelle Resubal
-  - name: Hanna Rule
-  - name: Austin Tran
-  - name: Dylan Tran
 
 flagdetailmembers:
   - name: Mariel Teng II
     position: Flag Detail Commander
   - name: Julius Bagsic
     position: Flag Detail Sergeant
-  - name: Lizzie Chavez
-  - name: Walter de Lorrell IV
-  - name: Marlene Freerksen
-  - name: Valerie Ho
-  - name: Evelyn Kim
-  - name: Aish Kirawant
-  - name: Brandon Nguyen
-  - name: William Park
-  - name: Nick Stone
 
 sabermembers:
   - name: Jimmy Du 
     position: Saber Team Commander
   - name: Nick Stone
     position: Saber Team Sergeant
-  - name: Athena Amandatidis
-  - name: Evan Dicker
-  - name: Chloe Dietrich
-  - name: Shane Donahue
-  - name: Mitchell Le
-  - name: Manny Marquez
-  - name: Christine Nguyen
-  - name: Melba Nuzen
-  - name: Mia Parsons
-  - name: Alex Roh
-  - name: Mi Tran
 
 unarmedmembers:
   - name: Lj Monteclar
     position: Unarmed Team Commander
   - name: Amanda Ong
     position: Unarmed Team Sergeant
-  - name: Valerie Ho
-  - name: Johanna Kye
-  - name: Justin Luu
-  - name: Kyle Nguyen
-  - name: Emely Ton
-  - name: Namkhue Vo
-  - name: Marina Xu
 
 academicmembers:
   - name: Placeholder
     position: Academic Team Commander
   - name: Placeholder
     position: Academic Team Sergeant
+
+kittyhawkmembers:
+  - name: Placeholder
+    position: Kitty Hawk Commander
+  - name: Placeholder
+    position: Kitty Hawk Sergeant
+
+alphaflightmembers:
+  - name: Placeholder
+    position: Alpha Flight Commander
+  - name: Placeholder
+    position: Alpha Flight Sergeant
+
+bravoflightmembers:
+  - name: Placeholder
+    position: Bravo Flight Commander
+  - name: Placeholder
+    position: Bravo Flight Sergeant
+
+charlieflightmembers:
+  - name: Placeholder
+    position: Charlie Flight Commander
+  - name: Placeholder
+    position: Charlie Flight Sergeant
+
+deltaflightmembers:
+  - name: Placeholder
+    position: Delta Flight Commander
+  - name: Placeholder
+    position: Delta Flight Sergeant
+
+echoflightmembers:
+  - name: Placeholder
+    position: Echo Flight Commander
+  - name: Placeholder
+    position: Echo Flight Sergeant
     
 # Clients information. Shown on Home and About pages.
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.

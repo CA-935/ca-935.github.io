@@ -21,6 +21,15 @@
         </li>
         <li {% if page.title == "Parents" %}class="active"{% endif %}><a href="{{"/parents/" | prepend: site.baseurl }}">PARENTS</a></li>
         <li {% if page.title == "Gallery" %}class="active"{% endif %}><a href="{{"/gallery/" | prepend: site.baseurl }}">GALLERY</a></li>
+		<li {% if page.title == "Flights" %}class="active"{% endif %}><a>FLIGHTS</a>
+        <ul>
+          <a class="dropdown_link" href="{{"/flights/alpha/" | prepend: site.baseurl }}"><li {% if page.title == "Alpha Flight" %}class="active"{% endif %}>Alpha</li></a>
+          <a class="dropdown_link" href="{{"/flights/bravo/" | prepend: site.baseurl }}"><li {% if page.title == "Bravo Flight" %}class="active"{% endif %}>Bravo</li></a>
+          <a class="dropdown_link" href="{{"/flights/charlie/" | prepend: site.baseurl }}"><li {% if page.title == "Charlie Flight" %}class="active"{% endif %}>Charlie</li></a>
+          <a class="dropdown_link" href="{{"/flights/delta/" | prepend: site.baseurl }}"><li {% if page.title == "Delta Flight" %}class="active"{% endif %}>Delta</li></a>
+          <a class="dropdown_link" href="{{"/flights/echo/" | prepend: site.baseurl }}"><li {% if page.title == "Echo Flight" %}class="active"{% endif %}>Echo</li></a>
+        </ul>
+		</li>
         <li {% if page.title == "Extracurriculars" %}class="active"{% endif %}><a>EXTRACURRICULARS</a>
         <ul>
           <a class="dropdown_link" href="{{"/teams/afdt/" | prepend: site.baseurl }}"><li {% if page.title == "Armed Fancy Drill Team" %}class="active"{% endif %}>AFDT</li></a>
