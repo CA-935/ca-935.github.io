@@ -18,22 +18,22 @@ permalink: /flights/alpha/
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-{% for unarmedmember in site.unarmedmembers %}
+{% for alphaflightmember in site.alphaflightmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/unarmed/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+            <img src="{{ "/assets/img/teams/alphaflight/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
-                        {% for entry in unarmedmember.social %}
+                        {% for entry in alphaflightmember.social %}
                             <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->		
             </div><!-- he wrap -->
-            <h4>{{ unarmedmember.name }}</h4>
-            <h5 class="ctitle">{{ unarmedmember.position }}</h5>
-            <p>{{ unarmedmember.text }}</p>
+            <h4>{{ alphaflightmember.name }}</h4>
+            <h5 class="ctitle">{{ alphaflightmember.position }}</h5>
+            <p>{{ alphaflightmember.text }}</p>
             <div class="hline"></div>
             <br>
         </div><! --/col-lg-3 -->	 	
