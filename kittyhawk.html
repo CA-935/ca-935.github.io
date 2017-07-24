@@ -5,3 +5,27 @@ permalink: /kittyhawk/
 ---
 
 {% include wrap.html %}
+<div class="container mtb">
+    <div class="row centered">
+{% for kittyhawkmember in site.kittyhawkmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/teams/kittyhawk/" | prepend: site.baseurl }}{{ kittyhawkmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in kittyhawkmember.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4>{{ kittyhawkmember.name }}</h4>
+            <h5 class="ctitle">{{ kittyhawkmember.position }}</h5>
+            <p>{{ kittyhawkmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div><! --/col-lg-3 -->	 	
+        {% endfor %}
+    </div>
+</div>
