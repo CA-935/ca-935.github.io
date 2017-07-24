@@ -90,26 +90,34 @@ armedmembers:
 cgmembers:
   - name: William Rule
     position: Color Guard Commander
+    img: commander.jpg
   - name: Marlene Freerksen
     position: Color Guard Sergeant
+    img: sergeant.jpg
 
 flagdetailmembers:
   - name: Mariel Teng II
     position: Flag Detail Commander
+    img: commander.jpg
   - name: Julius Bagsic
     position: Flag Detail Sergeant
+    img: sergeant.jpg
 
 sabermembers:
   - name: Jimmy Du 
     position: Saber Team Commander
+    img: commander.jpg
   - name: Nick Stone
     position: Saber Team Sergeant
+    img: sergeant.jpg
 
 unarmedmembers:
   - name: Lj Monteclar
     position: Unarmed Team Commander
+    img: commander.jpg
   - name: Amanda Ong
     position: Unarmed Team Sergeant
+    img: sergeant.jpg
 
 academicmembers:
   - name: Placeholder
