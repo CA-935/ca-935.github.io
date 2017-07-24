@@ -15,6 +15,7 @@
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT US</a>
 		<ul>
+		    <a class="dropdown_link" href="{{"/about/groupcommander/" | prepend: site.baseurl }}"><li {% if page.title == "Group Commander" %}class="active"{% endif %}>Group Commander</li></a>
 		    <a class="dropdown_link" href="{{"/about/chainofcommand/" | prepend: site.baseurl }}"><li {% if page.title == "Chain of Command" %}class="active"{% endif %}>Chain of Command</li></a>
 			<a class="dropdown_link" href="{{"/seniorstaff/" | prepend: site.baseurl }}"><li {% if page.title == "Senior Staff" %}class="active"{% endif %}>Senior Staff</li></a>
 		</ul>
