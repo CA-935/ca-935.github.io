@@ -133,35 +133,24 @@ kittyhawkmembers:
   - name: Placeholder
     position: Kitty Hawk Sergeant
 
-alphaflightmembers:
-  - name: Placeholder
-    position: Alpha Flight Commander
-  - name: Placeholder
-    position: Alpha Flight Sergeant
-
-bravoflightmembers:
-  - name: Placeholder
-    position: Bravo Flight Commander
-  - name: Placeholder
-    position: Bravo Flight Sergeant
-
-charlieflightmembers:
-  - name: Placeholder
-    position: Charlie Flight Commander
-  - name: Placeholder
-    position: Charlie Flight Sergeant
-
-deltaflightmembers:
-  - name: Placeholder
-    position: Delta Flight Commander
-  - name: Placeholder
-    position: Delta Flight Sergeant
-
-echoflightmembers:
-  - name: Placeholder
-    position: Echo Flight Commander
-  - name: Placeholder
-    position: Echo Flight Sergeant
+staffmembers:
+  - name: John Jack
+    position: Group Commander
+  - name: Namkhue Vo
+    position: Deputy Commander
+  - name: Rem Talde
+    position: Operations Commander
+  - name: Anton Phan
+    position: Teams Commander
+  - name: Andrew Kim
+    position: Mission Support Commander
+  - name: Julius Velasquez
+    position: Plans and Programs
+  - name: Mi Tran
+    position: Logistics Commander
+  - name: Lizzie Chavez
+    position: Public Affairs Commander
+   
     
 # Clients information. Shown on Home and About pages.
 sponsors:
