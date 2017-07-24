@@ -7,8 +7,15 @@ permalink: /seniorstaff/
 {% include wrap.html %}
 
 <div class="container mtb">
+    <div class="row">
+	<div class="col-lg-6">
+            <img class="img-responsive" src="{{ "/assets/img/seniorstaff/fullstaff.jpg" | prepend: site.baseurl }}" alt="">
+	</div>
+    </div><! --/row -->
+</div><! --/container -->
+<div class="container mtb">
     <div class="row centered">
-{% for staffmember in site.staffmembers %}
+		{% for staffmember in site.staffmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="">

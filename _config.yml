@@ -136,20 +136,28 @@ kittyhawkmembers:
 staffmembers:
   - name: John Jack
     position: Group Commander
+    img: john.jpg
   - name: Namkhue Vo
     position: Deputy Commander
+    img: namkhue.jpg
   - name: Rem Talde
     position: Operations Commander
+    img: rem.jpg
   - name: Anton Phan
     position: Teams Commander
+    img: anton.jpg
   - name: Andrew Kim
     position: Mission Support Commander
+    img: andrew.jpg
   - name: Julius Velasquez
     position: Plans and Programs
+    img: julius.jpg
   - name: Mi Tran
     position: Logistics Commander
+    img: mi.jpg
   - name: Lizzie Chavez
     position: Public Affairs Commander
+    img: lizzie.jpg
     
 ypfmembers:
   - name: Placeholder
