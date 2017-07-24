@@ -150,7 +150,12 @@ staffmembers:
     position: Logistics Commander
   - name: Lizzie Chavez
     position: Public Affairs Commander
-   
+    
+ypfmembers:
+  - name: Placeholder
+    position: YPF Officer
+  - name: Placeholder
+    position: YPF Sergeant  
     
 # Clients information. Shown on Home and About pages.
 sponsors:
