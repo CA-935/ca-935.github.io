@@ -12,6 +12,7 @@ permalink: /teams/ufdt/
             <img class="img-responsive" src="{{ "/assets/img/teams/unarmed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
         </div>
         <div class="col-lg-6">
+<<<<<<< HEAD
             <p>
             </div>
         </div><! --/row -->
@@ -26,6 +27,22 @@ permalink: /teams/ufdt/
                         <div class="bg a0" data-animate="fadeIn">
                             <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                             {% for entry in unarmedmember.social %}
+=======
+            <p>UFDT description will be here shortly.</p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+{% for unarmedmember in site.unarmedmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/teams/unarmed/" | prepend: site.baseurl }}{{ unarmedmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in unarmedmember.social %}
+>>>>>>> d936167569dc94006e3d226ff9dcc05b5ed72274
                             <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                             {% endfor %}
                         </div><!-- he bg -->

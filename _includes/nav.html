@@ -14,6 +14,7 @@
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT US</a>
+<<<<<<< HEAD
           <ul>
             <a class="dropdown_link" href="{{"/about/groupcommander/" | prepend: site.baseurl }}"><li {% if page.title == "Group Commander" %}class="active"{% endif %}>Group Commander</li></a>
             <a class="dropdown_link" href="{{"/about/chainofcommand/" | prepend: site.baseurl }}"><li {% if page.title == "Chain of Command" %}class="active"{% endif %}>Chain of Command</li></a>
@@ -23,6 +24,14 @@
             <a class="dropdown_link" href="{{"/contact/" | prepend: site.baseurl }}"><li {% if page.title == "Contact Us" %}class="active"{% endif %}>Contact Us</li></a>
           </ul>
         </li>
+=======
+		<ul>
+		    <a class="dropdown_link" href="{{"/about/gpcommander/" | prepend: site.baseurl }}"><li {% if page.title == "Group Commander" %}class="active"{% endif %}>Group Commander</li></a>
+		    <a class="dropdown_link" href="{{"/about/chainofcommand/" | prepend: site.baseurl }}"><li {% if page.title == "Chain of Command" %}class="active"{% endif %}>Chain of Command</li></a>
+			<a class="dropdown_link" href="{{"/seniorstaff/" | prepend: site.baseurl }}"><li {% if page.title == "Senior Staff" %}class="active"{% endif %}>Senior Staff</li></a>
+		</ul>
+		</li>
+>>>>>>> d936167569dc94006e3d226ff9dcc05b5ed72274
         <li {% if page.title == "Update" %}class="active"{% endif %}><a href="{{"/updates/" | prepend: site.baseurl }}">UPDATES</a>   
           <ul>
             <a class="dropdown_link" href="{{"/calendar/" | prepend: site.baseurl }}"><li {% if page.title == "Calendar" %}class="active"{% endif %}>Calendar</li></a>
