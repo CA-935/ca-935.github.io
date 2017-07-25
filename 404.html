@@ -4,6 +4,25 @@ title: Page not Found
 permalink: /404.html
 ---
 
-
-404 page is a work in progress. but you're at the wrong url
-
+<style>
+	html { 
+		background: url(/assets/img/404.jpg) no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	.center {
+		position: absolute;
+		width: 400px;
+		height: 200px;
+		top: 10%;
+		left: 20%;
+		margin-left: -50px; /* margin is -0.5 * dimension */
+		margin-top: -25px; 
+	}​
+</style>
+<div class="center">
+	<font color="white"><h2 style="margin-top:20px;">You can't be here!</h2></font>
+	<p style="color:white">Click <a href="javascript:history.back()">here</a> to go back.</p>
+</div>
