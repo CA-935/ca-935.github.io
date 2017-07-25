@@ -163,7 +163,19 @@ ypfmembers:
   - name: Placeholder
     position: YPF Officer
   - name: Placeholder
-    position: YPF Sergeant  
+    position: YPF Sergeant
+
+aptmembers:
+  - name: Lynn Lu
+    position: APT Commander
+  - name: Lauren Kogelman
+    position: APT Sergeant
+    
+cyberpatriotmembers:
+  - name: Adrian Resubal
+    position: CyberPatriot Commander
+  - name: Shane Donahue
+    position: CyberPatriot Sergeant
     
 # Clients information. Shown on Home and About pages.
 sponsors:
