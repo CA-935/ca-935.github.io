@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Unarmed Fancy Drill Team
@@ -9,9 +8,9 @@ permalink: /teams/ufdt/
 
 <div class="container mtb">
     <div class="row">
-<div class="col-lg-6">
+        <div class="col-lg-6">
             <img class="img-responsive" src="{{ "/assets/img/teams/unarmed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
-</div>
+        </div>
         <div class="col-lg-6">
             <p>UFDT description will be here shortly.</p>
         </div>
@@ -19,15 +18,15 @@ permalink: /teams/ufdt/
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-{% for unarmedmember in site.unarmedmembers %}
+        {% for unarmedmember in site.unarmedmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/unarmed/" | prepend: site.baseurl }}{{ unarmedmember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/unarmed/" | prepend: site.baseurl }}{{ unarmedmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in unarmedmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->      
