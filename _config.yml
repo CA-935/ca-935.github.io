@@ -92,7 +92,7 @@ armedmembers:
     img: commander.jpg
   - name: Jordan Almaas
     position: Armed Team NCO
-    img: NCO.jpg
+    img: sergeant.jpg
 
 cgmembers:
   - name: William Rule
@@ -100,7 +100,7 @@ cgmembers:
     img: commander.jpg
   - name: Marlene Freerksen
     position: Color Guard NCO
-    img: NCO.jpg
+    img: sergeant.jpg
 
 flagdetailmembers:
   - name: Mariel Teng II
@@ -108,7 +108,7 @@ flagdetailmembers:
     img: commander.jpg
   - name: Julius Bagsic
     position: Flag Detail NCO
-    img: NCO.jpg
+    img: sergeant.jpg
 
 sabermembers:
   - name: Jimmy Du 
@@ -116,7 +116,7 @@ sabermembers:
     img: commander.jpg
   - name: Nick Stone
     position: Saber Team NCO
-    img: NCO.jpg
+    img: sergeant.jpg
 
 unarmedmembers:
   - name: Lj Monteclar
@@ -124,7 +124,7 @@ unarmedmembers:
     img: commander.jpg
   - name: Amanda Ong
     position: Unarmed Team NCO
-    img: NCO.jpg
+    img: sergeant.jpg
 
 academicmembers:
   - name: Albert Gu
