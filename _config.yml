@@ -79,6 +79,8 @@ members:
     social:
       - title: github
         url: https://github.com/brandonpadres
+      - title: gitlab
+        url: https://gitlab.com/brandonpadres
   - name: Mitchell Le 
     position: Public Affairs NCO
     img: mitch.jpg
