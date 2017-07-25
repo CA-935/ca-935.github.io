@@ -47,7 +47,7 @@ permalink: /extracurriculars/
             <h4>Frequently Asked</h4>
             <div class="hline"></div>
             {% for question in site.questions %}
-                <p><a href="{{ question.url | prepend: site.baseurl }}">{{ question.title }}</a></p>
+            <p><a href="{{ question.url | prepend: site.baseurl }}">{{ question.title }}</a></p>
             {% endfor %}
         </div>
 
@@ -55,7 +55,7 @@ permalink: /extracurriculars/
             <h4>Latest Posts</h4>
             <div class="hline"></div>
             {% for post in site.posts limit:5 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endfor %}
         </div>
 

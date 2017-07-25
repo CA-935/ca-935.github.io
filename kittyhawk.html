@@ -14,15 +14,15 @@ permalink: /kittyhawk/
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-{% for kittyhawkmember in site.kittyhawkmembers %}
+        {% for kittyhawkmember in site.kittyhawkmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/kittyhawk/" | prepend: site.baseurl }}{{ kittyhawkmember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/kittyhawk/" | prepend: site.baseurl }}{{ kittyhawkmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in kittyhawkmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->		

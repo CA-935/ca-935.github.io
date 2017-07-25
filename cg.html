@@ -7,25 +7,25 @@ permalink: /teams/cg/
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row">
-	<div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/teams/colorguard/fullteam.jpg" | prepend: site.baseurl }}" alt="">
-	</div>
-        <div class="col-lg-6">
-            <p>Color Guard is a ceremonious  team which consist of two flags and two rifle man. Throughout out the school year we present the colors at numerous  school events and community events, providing the cadets with numerous hours of community service. Our color guard was the number one color guard in the SDUSD placing first for varsity and 1st year team at the brigade drill competition. In the 2016-2017 school year the varsity color guard was chosen to compete at a national drill competition in Daytona Florida. This year the team is led by c/2nd Lt William Rule and c/2nd Lt Marlene Freerksen, whose goals are to prepare the team for success and to keep the title as the number one color guard.</p>
-        </div>
-    </div><! --/row -->
+       <div class="col-lg-6">
+        <img class="img-responsive" src="{{ "/assets/img/teams/colorguard/fullteam.jpg" | prepend: site.baseurl }}" alt="">
+    </div>
+    <div class="col-lg-6">
+        <p>Color Guard is a ceremonious  team which consist of two flags and two rifle man. Throughout out the school year we present the colors at numerous  school events and community events, providing the cadets with numerous hours of community service. Our color guard was the number one color guard in the SDUSD placing first for varsity and 1st year team at the brigade drill competition. In the 2016-2017 school year the varsity color guard was chosen to compete at a national drill competition in Daytona Florida. This year the team is led by c/2nd Lt William Rule and c/2nd Lt Marlene Freerksen, whose goals are to prepare the team for success and to keep the title as the number one color guard.</p>
+    </div>
+</div><! --/row -->
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-{% for cgmember in site.cgmembers %}
+        {% for cgmember in site.cgmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/colorguard/" | prepend: site.baseurl }}{{ cgmember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/colorguard/" | prepend: site.baseurl }}{{ cgmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in cgmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->		

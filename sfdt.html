@@ -8,27 +8,27 @@ permalink: /teams/sfdt/
 
 <div class="container mtb">
     <div class="row">
-    <div class="col-lg-6">
+        <div class="col-lg-6">
             <img class="img-responsive" style="max-width:100%;" src="{{ "/assets/img/teams/saber/fullteam.jpg" | prepend: site.baseurl }}" alt="Saber Fancy Drill Team 2016-2017">
-</div>
+        </div>
         <div class="col-lg-6">
             <p>Saber Team is a group of dedicated and hard-working individuals who constantly hone their skills in fancy drill. Members work together to be an efficient, effective, and consistent drill team capable of facing any challenge. Incoming team members will be taught all necessary movements to perform alongside their teammates in competitions. They will be required to maintain discipline, coordination, and good work ethic that current members of Saber Team deem acceptable. If you are interested in joining the team, report in to c/2nd Lt Jimmy Du and c/MSgt Nicholas Stone at tryouts. We hope to see you there.</p>
-    
+            
             <p>Below are some of our proudest achievements:</p>
         </div>
     </div><! --/row -->
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-    {% for sabermember in site.sabermembers %}
+        {% for sabermember in site.sabermembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/saber/" | prepend: site.baseurl }}{{ sabermember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/saber/" | prepend: site.baseurl }}{{ sabermember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in sabermember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->      

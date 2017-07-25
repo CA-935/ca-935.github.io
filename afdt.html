@@ -7,25 +7,25 @@ permalink: /teams/afdt/
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row">
-	<div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/teams/armed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
-	</div>
-        <div class="col-lg-6">
-            <p>Armed Team requires a combination of strength, coordination, skill, timing, and consistency to perfect the movements that are taught. We work together as a family to teach all members of the team how to perform in sync with precision. It is required that incoming members of armed fancy drill team would learn how to be fearless, strong, and have a motivation to practice after school every day. Our instructors for the year of 17-18 will be c/Capt Anton Phan and c/MSgt Jordan Almaas.</p>
-        </div>
-    </div><! --/row -->
+       <div class="col-lg-6">
+        <img class="img-responsive" src="{{ "/assets/img/teams/armed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
+    </div>
+    <div class="col-lg-6">
+        <p>Armed Team requires a combination of strength, coordination, skill, timing, and consistency to perfect the movements that are taught. We work together as a family to teach all members of the team how to perform in sync with precision. It is required that incoming members of armed fancy drill team would learn how to be fearless, strong, and have a motivation to practice after school every day. Our instructors for the year of 17-18 will be c/Capt Anton Phan and c/MSgt Jordan Almaas.</p>
+    </div>
+</div><! --/row -->
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
         {% for armedmember in site.armedmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/armed/" | prepend: site.baseurl }}{{ armedmember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/armed/" | prepend: site.baseurl }}{{ armedmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in armedmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->		
