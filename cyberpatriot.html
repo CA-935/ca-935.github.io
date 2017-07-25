@@ -7,9 +7,9 @@ permalink: /cyberpatriot/
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row">
-    <div class="col-lg-6">
+        <div class="col-lg-6">
             <img class="img-responsive" src="{{ "/assets/img/extracurriculars/cyberpatriot/fullteam.jpg" | prepend: site.baseurl }}" alt="">
-    </div>
+        </div>
         <div class="col-lg-6">
             <p>CyberPatriot is the National Youth Cyber Education Program.  At the center of CyberPatriot is the National Youth Cyber Defense Competition. The competition puts teams of high school and middle school students in the position of newly hired IT professionals tasked with managing the network of a small company. In the rounds of competition, teams are given a set of virtual images that represent operating systems and are tasked with finding cybersecurity vulnerabilities within the images and hardening the system while maintaining critical services in a six hour period.  Teams compete for the top placement within their state and region, and the top teams in the nation earn all-expenses paid trips to Baltimore, MD for the National Finals Competition where they can earn national recognition and scholarship money.​</p>
         </div>
@@ -21,9 +21,9 @@ permalink: /cyberpatriot/
         <div class="row centered">
             <h3>OUR SPONSORS</h3>
             {% for sponsor in site.sponsors %}
-                <div class="col-lg-3 col-md-3 col-sm-3">
-                    <img src="{{ "/assets/img/sponsors/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive">
-                </div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+                <img src="{{ "/assets/img/sponsors/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive">
+            </div>
             {% endfor %}
         </div><! --/row -->
     </div><! --/container -->
@@ -33,12 +33,12 @@ permalink: /cyberpatriot/
         {% for cyberpatriotmember in site.cyberpatriotmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/teams/cyberpatriot/" | prepend: site.baseurl }}{{ cyberpatriotmember.img }}" alt="">
+                <img src="{{ "/assets/img/teams/cyberpatriot/" | prepend: site.baseurl }}{{ cyberpatriotmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in cyberpatriotmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
                     </div><!-- he bg -->
                 </div><!-- he view -->      

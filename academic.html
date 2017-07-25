@@ -8,17 +8,17 @@ permalink: /teams/academic/
 
 <div class="container mtb">
     <div class="row centered">
-{% for academicmember in site.academicmembers %}
+        {% for academicmember in site.academicmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-				<img src="{{ "/assets/img/teams/academic/" | prepend: site.baseurl }}{{ member.img }}" alt="">
-				<div class="he-view">
+                <img src="{{ "/assets/img/teams/academic/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in academicmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
-					</div><!-- he bg -->
+                    </div><!-- he bg -->
                 </div><!-- he view -->		
             </div><!-- he wrap -->
             <h4>{{ academicmember.name }}</h4>

@@ -10,72 +10,72 @@ permalink: /contact/
         <div class="col-lg-8">
             <h4>Just Get In Touch!</h4>
             <div class="hline"></div>
-                <p>{{ site.about }}</p>
-        <b><a href="http://jrotc.sdccte.org/">Joint Brigade Website</a><br></b>
-		<p><b>Senior Aerospace Science Instructor:</b><br>
-		Lieutenant Colonel Michael Sheldon<br>
-        <br>
+            <p>{{ site.about }}</p>
+            <b><a href="http://jrotc.sdccte.org/">Joint Brigade Website</a><br></b>
+            <p><b>Senior Aerospace Science Instructor:</b><br>
+              Lieutenant Colonel Michael Sheldon<br>
+              <br>
 
-        <b>Aerospace Science Instructor:</b><br>
-        Master Sergeant Ferdinand Toledo<br>
-        (858) 621-9020 x 4422<br>
-        <a href="mailto:ftoledo@sandi.net">ftoledo@sandi.net</a><br>
-        <br>
+              <b>Aerospace Science Instructor:</b><br>
+              Master Sergeant Ferdinand Toledo<br>
+              (858) 621-9020 x 4422<br>
+              <a href="mailto:ftoledo@sandi.net">ftoledo@sandi.net</a><br>
+              <br>
 
-		<b>Group Commander:</b><br>
-        c/Colonel John Jack<br>
-        (619) 643-8270<br>
-        <a href="mailto:jjac9734@gmail.com">jjac9734@gmail.com</a><br>
-        <br>
+              <b>Group Commander:</b><br>
+              c/Colonel John Jack<br>
+              (619) 643-8270<br>
+              <a href="mailto:jjac9734@gmail.com">jjac9734@gmail.com</a><br>
+              <br>
 
-        <b>Deputy Commander:</b><br>
-        c/Lieutenant Colonel Namkhue Vo<br>
-        (858) 776-1433<br>
-        <a href="mailto:namkhuevo@gmail.com">namkhuevo@gmail.com</a><br>
-        <br>
+              <b>Deputy Commander:</b><br>
+              c/Lieutenant Colonel Namkhue Vo<br>
+              (858) 776-1433<br>
+              <a href="mailto:namkhuevo@gmail.com">namkhuevo@gmail.com</a><br>
+              <br>
 
-        <b>Public Affairs Squadron:</b><br>
-        <a href="mailto:srhspa@gmail.com">srhspa@gmail.com</a><br>
-		</p>
+              <b>Public Affairs Squadron:</b><br>
+              <a href="mailto:srhspa@gmail.com">srhspa@gmail.com</a><br>
+          </p>
 
-        </div><! --/col-lg-8 -->
+      </div><! --/col-lg-8 -->
 
-        <div class="col-lg-4">
-            <h4>Our Address</h4>
-            <div class="hline"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
-            <head>
-                <style>
-                    #map {
+      <div class="col-lg-4">
+        <h4>Our Address</h4>
+        <div class="hline"></div>
+        <p>
+            {% for line in site.address.first.lines %}
+            {{ line }} <br>
+            {% endfor %}
+        </p>
+        <head>
+            <style>
+                #map {
                     height: 400px;
                     width: 100%;
-                         }
-                </style>
-            </head>
-            <body>
+                }
+            </style>
+        </head>
+        <body>
             <div id="map"></div>
             <script>
                 function initMap() {
-                var uluru = {lat: 32.908613, lng: -117.111861};
-                var map = new google.maps.Map(document.getElementById('map'), {
-                    zoom: 15,
-                    center: uluru
-                });
-                var marker = new google.maps.Marker({
-                    position: uluru,
-                    map: map
-                });
+                    var uluru = {lat: 32.908613, lng: -117.111861};
+                    var map = new google.maps.Map(document.getElementById('map'), {
+                        zoom: 15,
+                        center: uluru
+                    });
+                    var marker = new google.maps.Marker({
+                        position: uluru,
+                        map: map
+                    });
                 }
             </script>
             <script async defer
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBac-2Z2HQYuvqh_lvH5oje_yagRM3XQk0&callback=initMap">
-            </script>
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBac-2Z2HQYuvqh_lvH5oje_yagRM3XQk0&callback=initMap">
+        </script>
 
-                <p>We will message you back as soon as possible. Thank you!</p>
-        </div>
-    </div><! --/row -->
+        <p>We will message you back as soon as possible. Thank you!</p>
+    </div>
+</div><! --/row -->
 </div><! --/container -->
