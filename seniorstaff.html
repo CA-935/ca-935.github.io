@@ -7,21 +7,13 @@ permalink: /seniorstaff/
 {% include wrap.html %}
 
 <div class="container mtb">
-    <div class="row">
-<<<<<<< HEAD
-       <div class="col-lg-6">
+	<div class="col-lg-6">
         <img class="img-responsive" src="{{ "/assets/img/seniorstaff/fullstaff.jpg" | prepend: site.baseurl }}" alt="">
     </div>
-</div><! --/row -->
-=======
-	<div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/seniorstaff/fullstaff.jpg" | prepend: site.baseurl }}" alt="">
-	</div>
-	<div class="col-lg-6">
+    <div class="col-lg-6">
         <p>Senior staff description coming soon.</p>
     </div>
-    </div><! --/row -->
->>>>>>> d936167569dc94006e3d226ff9dcc05b5ed72274
+</div><! --/row -->
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
@@ -29,7 +21,6 @@ permalink: /seniorstaff/
       <div class="col-lg-3 col-md-3 col-sm-3">
         <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="">
-<<<<<<< HEAD
             <div class="he-view">
                 <div class="bg a0" data-animate="fadeIn">
                     <h3 class="a1" data-animate="fadeInDown">Links:</h3>
@@ -48,23 +39,3 @@ permalink: /seniorstaff/
     {% endfor %}
 </div>
 </div>
-=======
-                <div class="he-view">
-                    <div class="bg a0" data-animate="fadeIn">
-                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
-                        {% for entry in staffmember.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
-                        {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
-            <h4>{{ staffmember.name }}</h4>
-            <h5 class="ctitle">{{ staffmember.position }}</h5>
-            <p>{{ staffmember.text }}</p>
-            <div class="hline"></div>
-            <br>
-        </div><! --/col-lg-3 -->	 	
-        {% endfor %}
-    </div>
-</div>
->>>>>>> d936167569dc94006e3d226ff9dcc05b5ed72274
