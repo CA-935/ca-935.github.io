@@ -68,6 +68,11 @@ members:
   - name: Shane Donahue
     position: Technology Officer
     img: shane.jpg
+    social:
+      - title: github
+        url: https://github.com/sourshane
+      - title: gitlab
+        url: https://gitlab.com/sourshane
   - name: Brandon Nguyen
     position: Technology Sergeant
     img: brandon.jpg
