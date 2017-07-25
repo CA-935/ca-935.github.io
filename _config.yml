@@ -69,16 +69,16 @@ members:
     position: Technology Officer
     img: shane.jpg
   - name: Brandon Nguyen
-    position: Technology Sergeant
+    position: Technology NCO
     img: brandon.jpg
     social:
       - title: github
         url: https://github.com/brandonpadres
   - name: Mitchell Le 
-    position: Public Affairs Sergeant
+    position: Public Affairs NCO
     img: mitch.jpg
   - name: Thu Vu 
-    position: Public Affairs Sergeant
+    position: Public Affairs NCO
     img: thu.jpg
 
 armedmembers:
@@ -86,52 +86,52 @@ armedmembers:
     position: Armed Team Commander
     img: commander.jpg
   - name: Jordan Almaas
-    position: Armed Team Sergeant
-    img: sergeant.jpg
+    position: Armed Team NCO
+    img: NCO.jpg
 
 cgmembers:
   - name: William Rule
     position: Color Guard Commander
     img: commander.jpg
   - name: Marlene Freerksen
-    position: Color Guard Sergeant
-    img: sergeant.jpg
+    position: Color Guard NCO
+    img: NCO.jpg
 
 flagdetailmembers:
   - name: Mariel Teng II
     position: Flag Detail Commander
     img: commander.jpg
   - name: Julius Bagsic
-    position: Flag Detail Sergeant
-    img: sergeant.jpg
+    position: Flag Detail NCO
+    img: NCO.jpg
 
 sabermembers:
   - name: Jimmy Du 
     position: Saber Team Commander
     img: commander.jpg
   - name: Nick Stone
-    position: Saber Team Sergeant
-    img: sergeant.jpg
+    position: Saber Team NCO
+    img: NCO.jpg
 
 unarmedmembers:
   - name: Lj Monteclar
     position: Unarmed Team Commander
     img: commander.jpg
   - name: Amanda Ong
-    position: Unarmed Team Sergeant
-    img: sergeant.jpg
+    position: Unarmed Team NCO
+    img: NCO.jpg
 
 academicmembers:
-  - name: Placeholder
+  - name: Albert Gu
     position: Academic Team Commander
-  - name: Placeholder
-    position: Academic Team Sergeant
+  - name: Alan Hang
+    position: Academic Team NCO
 
 kittyhawkmembers:
-  - name: Placeholder
-    position: Kitty Hawk Commander
-  - name: Placeholder
-    position: Kitty Hawk Sergeant
+  - name: Clyde Rapiñan
+    position: Kitty Hawk Officer
+  - name: Athena Amanatidis
+    position: Kitty Hawk NCO
 
 staffmembers:
   - name: John Jack
@@ -160,22 +160,22 @@ staffmembers:
     img: lizzie.jpg
     
 ypfmembers:
-  - name: Placeholder
-    position: YPF Officer
-  - name: Placeholder
-    position: YPF Sergeant
+  - name: TBA
+    position: YPF Commander
+  - name: TBA
+    position: YPF NCO
 
 aptmembers:
   - name: Lynn Lu
-    position: APT Commander
+    position: APT Officer
   - name: Lauren Kogelman
-    position: APT Sergeant
+    position: APT NCO
     
 cyberpatriotmembers:
   - name: Adrian Resubal
     position: CyberPatriot Commander
   - name: Shane Donahue
-    position: CyberPatriot Sergeant
+    position: CyberPatriot NCO
     
 # Clients information. Shown on Home and About pages.
 sponsors:
