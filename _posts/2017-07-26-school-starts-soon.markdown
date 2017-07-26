@@ -9,6 +9,4 @@ categories:
 ---
 
 
-<b>Hey guys!</b> Welcome to the new, faster, cleaner CA-935th website. We hope you enjoy it!
-
--- PA & Tech
+School begins on August 28th, 2017. Be prepared for your new classes!
