@@ -183,6 +183,7 @@ cyberpatriotmembers:
     position: CyberPatriot Commander
   - name: Shane Donahue
     position: CyberPatriot NCO
+    img: shane.jpg
     
 # Clients information. Shown on Home and About pages.
 sponsors:
