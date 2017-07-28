@@ -131,14 +131,18 @@ unarmedmembers:
 academicmembers:
   - name: Albert Gu
     position: Academic Team Commander
+    img: placeholder.jpg
   - name: Alan Hang
     position: Academic Team NCO
+    img: placeholder.jpg
 
 kittyhawkmembers:
   - name: Clyde Rapiñan
     position: Kitty Hawk Officer
+    img: placeholder.jpg
   - name: Athena Amanatidis
     position: Kitty Hawk NCO
+    img: placeholder.jpg
 
 staffmembers:
   - name: John Jack
@@ -172,18 +176,23 @@ staffmembers:
 ypfmembers:
   - name: TBA
     position: YPF Captain
+    img: placeholder.jpg
   - name: TBA
     position: YPF Co-Captain
+    img: placeholder.jpg
 
 aptmembers:
   - name: Lynn Lu
     position: APT Commander
+    img: placeholder.jpg
   - name: Lauren Kogelman
     position: APT NCO
+    img: placeholder.jpg
     
 cyberpatriotmembers:
   - name: Adrian Resubal
     position: CyberPatriot Commander
+    img: placeholder.jpg
   - name: Shane Donahue
     position: CyberPatriot NCO
     img: shane.jpg
