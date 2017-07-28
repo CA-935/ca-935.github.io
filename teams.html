@@ -1,42 +1,38 @@
 ---
 layout: default
-title: Academic Bowl
-permalink: /teams/academic/
+title: Teams
+permalink: /teams/
 ---
 
 {% include wrap.html %}
-
 <div class="container mtb">
     <div class="row">
        <div class="col-lg-6">
-       <!-- <img class="img-responsive" src="{{ "/assets/img/extracurriculars/academic/academic.jpg" | prepend: site.baseurl }}" alt=""> -->
+        <img class="img-responsive" src="{{ "/assets/img/teams/armed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
     </div>
     <div class="col-lg-6">
-        <p>Academic Bowl description will be here soon</p>
+        <p>teams exposition will be here shortly</p>
     </div>
 </div><! --/row -->
 </div><! --/container -->
 <div class="container mtb">
     <div class="row centered">
-        {% for academicmember in site.academicmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-                <img src="{{ "/assets/img/teams/academic/" | prepend: site.baseurl }}{{ academicmember.img }}" alt="">
+                <img src="{{ "/assets/img/seniorstaff/anton.jpg" | prepend: site.baseurl }}" alt="">
                 <div class="he-view">
-                    <div class="bg a0" data-animate="fadeIn">
+                    <!-- <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
-                        {% for entry in academicmember.social %}
+                        {% for entry in armedmember.social %}
                         <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
-                    </div><!-- he bg -->
+                    </div><!-- he bg --> -->
                 </div><!-- he view -->		
             </div><!-- he wrap -->
-            <h4>{{ academicmember.name }}</h4>
-            <h5 class="ctitle">{{ academicmember.position }}</h5>
-            <p>{{ academicmember.text }}</p>
+            <h4>Anton Phan</h4>
+            <h5 class="ctitle">Teams Commander</h5>
             <div class="hline"></div>
             <br>
         </div><! --/col-lg-3 -->	 	
-        {% endfor %}
     </div>
 </div>
