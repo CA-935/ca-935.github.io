@@ -184,7 +184,7 @@ ypfmembers:
 aptmembers:
   - name: Lynn Lu
     position: APT Commander
-    img: placeholder.jpg
+    img: commander.jpg
   - name: Lauren Kogelman
     position: APT NCO
     img: placeholder.jpg
