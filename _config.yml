@@ -38,6 +38,8 @@ social:
     url: https://www.facebook.com/srhspublicaffairs
   - title: youtube-play
     url: https://www.youtube.com/channel/UC13o8MjH8SXrb1QIAHcCEdA
+  - title: table
+    url: https://docs.google.com/spreadsheets/d/1UMLIdGYtgGoYcGUewK-46Cc5A2t92IW27aDwlN6YySU/edit?usp=sharing
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
