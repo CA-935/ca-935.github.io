@@ -36,9 +36,11 @@ social:
     url: https://github.com/CA-935
   - title: facebook
     url: https://www.facebook.com/srhspublicaffairs
+  - title: snapchat-ghost
+    url: https://www.snapchat.com/add/srhspa
   - title: youtube-play
     url: https://www.youtube.com/channel/UC13o8MjH8SXrb1QIAHcCEdA
-  - title: table
+  - title: list
     url: https://docs.google.com/spreadsheets/d/1UMLIdGYtgGoYcGUewK-46Cc5A2t92IW27aDwlN6YySU/edit?usp=sharing
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
