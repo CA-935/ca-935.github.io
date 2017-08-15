@@ -36,6 +36,7 @@ permalink: /
 
 {% include gallery.html title="PHOTOS FROM CA-935" limit=10 %}
 
+
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
@@ -44,13 +45,20 @@ permalink: /
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
 
-        <div class="col-lg-6">
+        <div class="col-lg-3">
             <h4>Latest Updates</h4>
             <div class="hline"></div>
             {% for post in site.posts limit:5 %}
-            <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endfor %}
         </div>
+
+        <div class="col-lg-3">
+            <h4>Disclaimer</h4>
+            <p>The information and opinions contained in this Internet site do not reflect the official policy or position of the Unites States Government, United Sates Air Force, Jeanne M. Holm Center for Officer Accessions and Citizen Development, or the Air Force Junior Reserve Officer Training Corps.</p>
+        </div>
+
+
 
     </div><! --/row -->
 </div><! --/container -->
