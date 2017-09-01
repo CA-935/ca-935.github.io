@@ -81,7 +81,7 @@ members:
         url: https://gitlab.com/sourshane
   - name: Brandon Nguyen
     position: Technology NCO
-    img: brandon.jpgs
+    img: brandon.jpg
     social:
       - title: github
         url: https://github.com/brandonpadres
@@ -140,7 +140,7 @@ academicmembers:
     img: commander.jpg
   - name: Alan Hang
     position: Academic Team NCO
-    img: placeholder.jpg
+    img: sergeant.jpg
 
 kittyhawkmembers:
   - name: Clyde Rapiñan
