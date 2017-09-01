@@ -40,6 +40,8 @@ social:
     url: https://www.snapchat.com/add/srhspa
   - title: youtube-play
     url: https://www.youtube.com/channel/UC13o8MjH8SXrb1QIAHcCEdA
+  - title: instagram
+    url: https://www.instagram.com/srhspa
   - title: list
     url: https://docs.google.com/spreadsheets/d/1UMLIdGYtgGoYcGUewK-46Cc5A2t92IW27aDwlN6YySU/edit?usp=sharing
 
@@ -79,7 +81,7 @@ members:
         url: https://gitlab.com/sourshane
   - name: Brandon Nguyen
     position: Technology NCO
-    img: brandon.jpg
+    img: brandon.jpgs
     social:
       - title: github
         url: https://github.com/brandonpadres
@@ -134,7 +136,7 @@ unarmedmembers:
 
 academicmembers:
   - name: Albert Gu
-    position: Academic Team Commander
+    position: Academic Team NCO
     img: commander.jpg
   - name: Alan Hang
     position: Academic Team NCO
@@ -143,7 +145,7 @@ academicmembers:
 kittyhawkmembers:
   - name: Clyde Rapiñan
     position: Kitty Hawk Officer
-    img: placeholder.jpg
+    img: commander.jpg
   - name: Athena Amanatidis
     position: Kitty Hawk NCO
     img: sergeant.jpg
