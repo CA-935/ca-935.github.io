@@ -2,7 +2,7 @@
 layout: post
 published: true
 ---
-##**For upperclassmen only.**
+## For upperclassmen only.
 
 Sign up to tutor for Kitty Hawk using this link here:
 
