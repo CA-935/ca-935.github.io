@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 
 Cadets,
@@ -13,4 +12,4 @@ The Chipotle Fundraiser is on November 8th, 2017 between 1600 (4:00 PM) and 2000
 
 [Chipotle Fundraiser PDF](https://drive.google.com/drive/folders/0B9VEM479hHuuLThxOVNPaWZWS0U)
 
-Fundraisers help fund our unit, allowing us to waive fees for cadets and to finance our endeavours. Please try 
+Fundraisers help fund our unit, allowing us to waive fees for cadets and to finance our endeavours. Please try
