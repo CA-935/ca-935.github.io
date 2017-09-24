@@ -140,6 +140,7 @@ a:focus {
 
 .dropdown-menu {
 	background: {{ site.colors.secondary }};
+	display: block;
 }
 
 .dropdown-menu > li > a {
@@ -521,7 +522,6 @@ a.anchor{
 
 ul li {
   font: bold 12px/18px sans-serif;
-  display: inline-block;
   margin-right: -4px;
   position: relative;
   cursor: pointer;
@@ -558,9 +558,10 @@ ul li ul li {
   padding:10px;
   display: block; 
   color: #fff;
+  z-index: 10;
 }
 
-ul li ul li:hover { background: #00b3fe; }
+ul li ul li:hover { background: #00b3fe; z-index: 10; }
 
 ul li:hover ul {
   display: block;
@@ -570,6 +571,7 @@ ul li:hover ul {
 
 .dropdown_link {
   color:#fff;
+  display: block;
 }
 
 
