@@ -1,4 +1,4 @@
 ---
-title:  "Leadership Education (LE) Class"
+title:  "Miramar Airshow 2017"
 img: img05.jpg
 ---
