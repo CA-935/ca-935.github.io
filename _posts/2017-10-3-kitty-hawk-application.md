@@ -8,7 +8,9 @@ Sign up to tutor for Kitty Hawk using this link here:
 
 ### All previous tutors must re-sign up for this school year.
 
-#### [Kitty Hawk Tutor Application Form](https://docs.google.com/forms/d/e/1FAIpQLSennFyasOnacbuRgVjMdZloE5iWF1bQDGL7yPDXH6RpiJbJ5g/viewform?usp=sf_link)
+#### [Kitty Hawk Tutor Application Form](https://goo.gl/forms/WRJT7UXpBGXk55ey2)
+
+#### [Kitty Hawk Tutor Hour Recording Form](https://goo.gl/forms/2e4tSxy5MyuzWsst2)
 
 #### [Kitty Hawk Tutee Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdZYXYrhQ1BUX79l_GT7-bEm_tC4vHAm3v2AvPvxprL7P_WTw/viewform)
 
