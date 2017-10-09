@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: "AFJROTC HQ Newsletter"
 ---
 
 Check out the most recent AFJROTC HQ Newsletter here:
