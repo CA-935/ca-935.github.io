@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-tags: ''
 ---
 
 Cadets,
@@ -10,4 +9,4 @@ Here is our [**September 2017 Newsletter**](https://drive.google.com/open?id=0B9
 
 Enjoy!
 
-- Public Affairs
+-Public Affairs
