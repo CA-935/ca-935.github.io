@@ -17,10 +17,10 @@ How to submit photos electronically to PA:
 1. Scan and upload your photo to your computer and save to a desired folder.
 2. Email [srhspa@gmail.com](mailto:srhspa@gmail.com) with photos attached.
 3. If your images cannot all fit in your one email message, you can send them individually. Keep replying to the same email you sent.
-4. Send photos with the subject header: "**<First and last name> | Senior baby photos.**"
+4. Send photos with the subject header: "<First and last name> | Senior baby photos."
 
 If you do not want to electronically upload your photos, you can submit a hard copy to the inbox inside the senior staff room (it's right by the door):
-1. Place photos in an envelope with name and flight as so, "**<First and last name> | <Flight> | Senior baby photos**"
+1. Place photos in an envelope with name and flight as so, "<First and last name> | <Flight> | Senior baby photos"
 2. We will return your photos within *2-3 days* in flight (MSgt. T or Lt. Col. Sheldon will hand them back).
 
 To be included in the end of the year video, you must submit your pictures **NLT 27 April 2018**. Email PA if you have any further questions.
