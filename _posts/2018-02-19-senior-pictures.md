@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 ## Senior Pictures
 
@@ -25,4 +24,3 @@ If you do not want to electronically upload your photos, you can submit a hard c
 2. We will return your photos within *2-3 days* in flight (MSgt. T or Lt. Col. Sheldon will hand them back).
 
 To be included in the end of the year video, you must submit your pictures **NLT 27 April 2018**. Email PA if you have any further questions.
-
