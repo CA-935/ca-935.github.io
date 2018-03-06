@@ -71,14 +71,6 @@ members:
   - name: Lizzie Chavez
     position: Public Affairs Officer
     img: lizzie.jpg
-  - name: Shane Donahue
-    position: Technology Officer
-    img: shane.jpg
-    social:
-      - title: github
-        url: https://github.com/sourshane
-      - title: gitlab
-        url: https://gitlab.com/sourshane
   - name: Brandon Nguyen
     position: Technology NCO
     img: brandon.jpg
@@ -199,9 +191,6 @@ cyberpatriotmembers:
   - name: Adrian Resubal
     position: CyberPatriot Commander
     img: commander.jpg
-  - name: Shane Donahue
-    position: CyberPatriot NCO
-    img: shane.jpg
     
 # Clients information. Shown on Home and About pages.
 sponsors:
