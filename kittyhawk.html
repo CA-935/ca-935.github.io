@@ -1,40 +1,50 @@
----
-layout: default
-title: Kitty Hawk Air Society
-permalink: /kittyhawk/
----
-
-{% include wrap.html %}
+--- layout: default title: Kitty Hawk Air Society permalink: /kittyhawk/ --- {% include wrap.html %}
 <div class="container mtb">
-	<h3> Visit the <a href="https://sites.google.com/view/ca935-kittyhawk/" target="_blank"> Kitty Hawk wesbsite</a> for links and other news on Kitty Hawk. </h3>
+    <h3> Visit the
+        <a href="https://sites.google.com/view/ca935-kittyhawk/" target="_blank"> Kitty Hawk wesbsite</a> for links and other news on Kitty Hawk. </h3>
     <div class="row">
         <div class="col-lg-6">
-			<br>
-            <p>The Kitty Hawk Air Society is a national AFJROTC academic honor society that recognizes academic and military achievement by cadets, provides additional leadership/educational opportunities, and encourages excellence. What it means to CA-935th is all that and more. To us, Kitty Hawk is a group of individuals trying to make a difference. In Kitty Hawk, we pledge to help our fellow cadets with their struggles in school as well as within the corps. We will help train and educate cadets in all areas needed and provide additional assistance to cadets in need of support. We will help tutor cadets after school as needed. We encourage cadets to join our squadron and help better our cadets’ academic level of achievement as well as further excellence in CA-935th. We are excited to start off this new year and hope to get to know each and every one of our new cadets!</p>
+            <br>
+            <p>The Kitty Hawk Air Society is a national AFJROTC academic honor society that recognizes academic and military
+                achievement by cadets, provides additional leadership/educational opportunities, and encourages excellence.
+                What it means to CA-935th is all that and more. To us, Kitty Hawk is a group of individuals trying to make
+                a difference. In Kitty Hawk, we pledge to help our fellow cadets with their struggles in school as well as
+                within the corps. We will help train and educate cadets in all areas needed and provide additional assistance
+                to cadets in need of support. We will help tutor cadets after school as needed. We encourage cadets to join
+                our squadron and help better our cadets’ academic level of achievement as well as further excellence in CA-935th.
+                We are excited to start off this new year and hope to get to know each and every one of our new cadets!</p>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
 <div class="container mtb">
     <div class="row centered">
         {% for kittyhawkmember in site.kittyhawkmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-                <img src="{{ "/assets/img/teams/kittyhawk/" | prepend: site.baseurl }}{{ kittyhawkmember.img }}" alt="">
+                <img src="{{ " /assets/img/teams/kittyhawk/" | prepend: site.baseurl }}{{ kittyhawkmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in kittyhawkmember.social %}
-                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->
-            </div><!-- he wrap -->
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
             <h4>{{ kittyhawkmember.name }}</h4>
             <h5 class="ctitle">{{ kittyhawkmember.position }}</h5>
             <p>{{ kittyhawkmember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->
+        </div>
+        <! --/col-lg-3 -->
         {% endfor %}
     </div>
 </div>

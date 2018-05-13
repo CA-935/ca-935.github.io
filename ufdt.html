@@ -3,7 +3,6 @@ layout: default
 title: Unarmed Fancy Drill Team
 permalink: /teams/ufdt/
 ---
-
 {% include wrap.html %}
 
 <div class="container mtb">
@@ -12,16 +11,20 @@ permalink: /teams/ufdt/
             <img class="img-responsive" src="{{ "/assets/img/teams/unarmed/fullteam.jpg" | prepend: site.baseurl }}" alt="">
         </div>
         <div class="col-lg-6">
-            <p>Unarmed Fancy Drill Team is a complex drill team that consists of cadets using mainly their hands and feet to create unique sounds 
-			through stomps and slaps. Members of the team do not use any weapons or flags (hence the name Unarmed). However this doesn't stop them 
-			from being intense throughout the school year of competitions. Our Unarmed team has currently been awarded the best Unarmed Fancy Drill 
-			Team in the San Diego Unified School District as it has been for the past two years. As for the 2017-2018 school year, the team will be 
-			led by c/2nd Lt. Llana Monteclar and c/MSgt Amanda Ong. We hope to see you on our team! </p>
-			<p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
-			<p class="about_center"><b>
+            <p>Unarmed Fancy Drill Team is a complex drill team that consists of cadets using mainly their hands and feet to
+                create unique sounds through stomps and slaps. Members of the team do not use any weapons or flags (hence
+                the name Unarmed). However this doesn't stop them from being intense throughout the school year of competitions.
+                Our Unarmed team has currently been awarded the best Unarmed Fancy Drill Team in the San Diego Unified School
+                District as it has been for the past two years. As for the 2017-2018 school year, the team will be led by
+                c/2nd Lt. Llana Monteclar and c/MSgt Amanda Ong. We hope to see you on our team! </p>
+            <p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
+            <p class="about_center">
+                <b>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
 <div class="container mtb">
     <div class="row centered">
         {% for unarmedmember in site.unarmedmembers %}
@@ -32,17 +35,23 @@ permalink: /teams/ufdt/
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in unarmedmember.social %}
-                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->      
-            </div><!-- he wrap -->
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
             <h4>{{ unarmedmember.name }}</h4>
             <h5 class="ctitle">{{ unarmedmember.position }}</h5>
             <p>{{ unarmedmember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->        
+        </div>
+        <! --/col-lg-3 -->
         {% endfor %}
     </div>
 </div>

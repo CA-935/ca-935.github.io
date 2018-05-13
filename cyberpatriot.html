@@ -3,24 +3,41 @@ layout: default
 title: CyberPatriot
 permalink: /cyberpatriot/
 ---
-
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/extracurriculars/cyberpatriot/fullteam.jpg" | prepend: site.baseurl }}" alt="">
+            <img class="img-responsive" src="{{ " /assets/img/extracurriculars/cyberpatriot/fullteam.jpg
+                " | prepend: site.baseurl }}" alt="">
         </div>
         <div class="col-lg-6">
-            <p>CyberPatriot is the National Youth Cyber Education Program.  At the center of CyberPatriot is the National Youth Cyber Defense Competition. The competition puts teams of high school and middle school students in the position of newly hired IT professionals tasked with managing the network of a small company. In the rounds of competition, teams are given a set of virtual images that represent operating systems and are tasked with finding cybersecurity vulnerabilities within the images and hardening the system while maintaining critical services in a six hour period.  Teams compete for the top placement within their state and region, and the top teams in the nation earn all-expenses paid trips to Baltimore, MD for the National Finals Competition where they can earn national recognition and scholarship money.​ <br><b>Team members for CyberPatriot X from Scripps Ranch High School will be announced after tryouts conclude in fall 2017.</b></p>
+            <p>CyberPatriot is the National Youth Cyber Education Program. At the center of CyberPatriot is the National Youth
+                Cyber Defense Competition. The competition puts teams of high school and middle school students in the position
+                of newly hired IT professionals tasked with managing the network of a small company. In the rounds of competition,
+                teams are given a set of virtual images that represent operating systems and are tasked with finding cybersecurity
+                vulnerabilities within the images and hardening the system while maintaining critical services in a six hour
+                period. Teams compete for the top placement within their state and region, and the top teams in the nation
+                earn all-expenses paid trips to Baltimore, MD for the National Finals Competition where they can earn national
+                recognition and scholarship money.​
+                <br>
+                <b>Team members for CyberPatriot X from Scripps Ranch High School will be announced after tryouts conclude in
+                    fall 2017.</b>
+            </p>
             <p class="about_center">CyberPatriot IX — 2016-2017:</p>
-            <p class="about_center"><b>
-                Best Air Force Team in the Regional Round</b> [<a href="https://drive.google.com/file/d/0B-MNfsPFO-NqVjlyOUQzazRBTk0/view?usp=sharing">PDF</a>]</br>
-                <b>Best California Team in the Regional Round</b> [<a href="https://drive.google.com/open?id=0B-MNfsPFO-Nqeld2MDVLQmFJTVU">PDF</a>]</br>
-                <b>National Finalist</b> [<a href="https://drive.google.com/file/d/0B-MNfsPFO-NqeWRwY1pDQmJaY3M/view?usp=sharing">PDF</a>]</br>
+            <p class="about_center">
+                <b>
+                    Best Air Force Team in the Regional Round</b> [
+                <a href="https://drive.google.com/file/d/0B-MNfsPFO-NqVjlyOUQzazRBTk0/view?usp=sharing">PDF</a>]</br>
+                <b>Best California Team in the Regional Round</b> [
+                <a href="https://drive.google.com/open?id=0B-MNfsPFO-Nqeld2MDVLQmFJTVU">PDF</a>]</br>
+                <b>National Finalist</b> [
+                <a href="https://drive.google.com/file/d/0B-MNfsPFO-NqeWRwY1pDQmJaY3M/view?usp=sharing">PDF</a>]</br>
             </p>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
 
 <div id="cwrap">
     <div class="container">
@@ -31,9 +48,12 @@ permalink: /cyberpatriot/
                 <img src="{{ "/assets/img/sponsors/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive">
             </div>
             {% endfor %}
-        </div><! --/row -->
-    </div><! --/container -->
-</div><! --/cwrap -->
+        </div>
+        <! --/row -->
+    </div>
+    <! --/container -->
+</div>
+<! --/cwrap -->
 <div class="container mtb">
     <div class="row centered">
         {% for cyberpatriotmember in site.cyberpatriotmembers %}
@@ -44,17 +64,23 @@ permalink: /cyberpatriot/
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in cyberpatriotmember.social %}
-                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->      
-            </div><!-- he wrap -->
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
             <h4>{{ cyberpatriotmember.name }}</h4>
             <h5 class="ctitle">{{ cyberpatriotmember.position }}</h5>
             <p>{{ cyberpatriotmember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->        
+        </div>
+        <! --/col-lg-3 -->
         {% endfor %}
     </div>
 </div>

@@ -3,25 +3,29 @@ layout: default
 title: Color Guard
 permalink: /teams/cg/
 ---
-
 {% include wrap.html %}
 <div class="container mtb">
     <div class="row">
-       <div class="col-lg-6">
-        <img class="img-responsive" src="{{ "/assets/img/teams/colorguard/fullteam.jpg" | prepend: site.baseurl }}" alt="">
+        <div class="col-lg-6">
+            <img class="img-responsive" src="{{ " /assets/img/teams/colorguard/fullteam.jpg " | prepend: site.baseurl }}" alt="">
+        </div>
+        <div class="col-lg-6">
+            <p>Color Guard is a ceremonious team which consist of two flags and two rifle man. Throughout out the school year
+                we present the colors at numerous school events and community events, providing the cadets with numerous
+                hours of community service. Our color guard was the number one color guard in the SDUSD placing first for
+                varsity and 1st year team at the brigade drill competition. In the 2016-2017 school year the varsity color
+                guard was chosen to compete at a national drill competition in Daytona Florida. This year the team is led
+                by c/2nd Lt William Rule and c/2nd Lt Marlene Freerksen, whose goals are to prepare the team for success
+                and to keep the title as the number one color guard.</p>
+            <p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
+            <p class="about_center">
+                <b>Varsity Color Guard (Brigade): 1st Place</br>
+                    Novice Color Guard (Brigade): 1st Place</br>
+        </div>
     </div>
-    <div class="col-lg-6">
-        <p>Color Guard is a ceremonious  team which consist of two flags and two rifle man. Throughout out the school year we present the colors at numerous 
-		school events and community events, providing the cadets with numerous hours of community service. Our color guard was the number one color guard in the 
-		SDUSD placing first for varsity and 1st year team at the brigade drill competition. In the 2016-2017 school year the varsity color guard was chosen to compete 
-		at a national drill competition in Daytona Florida. This year the team is led by c/2nd Lt William Rule and c/2nd Lt Marlene Freerksen, whose goals are to 
-		prepare the team for success and to keep the title as the number one color guard.</p>
-		<p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
-		<p class="about_center"><b>Varsity Color Guard (Brigade): 1st Place</br>
-		Novice Color Guard (Brigade): 1st Place</br>
-    </div>
-</div><! --/row -->
-</div><! --/container -->
+    <! --/row -->
+</div>
+<! --/container -->
 <div class="container mtb">
     <div class="row centered">
         {% for cgmember in site.cgmembers %}
@@ -32,17 +36,23 @@ permalink: /teams/cg/
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in cgmember.social %}
-                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
             <h4>{{ cgmember.name }}</h4>
             <h5 class="ctitle">{{ cgmember.position }}</h5>
             <p>{{ cgmember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->	 	
+        </div>
+        <! --/col-lg-3 -->
         {% endfor %}
     </div>
 </div>

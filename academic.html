@@ -2,23 +2,27 @@
 layout: default
 title: Academic Bowl
 permalink: /teams/academic/
----
-
+--- 
 {% include wrap.html %}
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-6">
-			<img class="img-responsive" src="{{ "/assets/img/teams/academic/fullteam.jpg" | prepend: site.baseurl }}" alt="">
-		</div>
-    <div class="col-lg-6">
-        <p>Academic Bowl description will be here soon.</p>
-		<p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
-		<p class="about_center"><b>Joint Service Academic Bowl Championship: 1st Place</br>
-        Air Force Junior Reserve Officer Training Corps Academic Bowl Championship: 1st Place</br></b></p>
+            <img class="img-responsive" src="{{ " /assets/img/teams/academic/fullteam.jpg " | prepend: site.baseurl }}" alt="">
+        </div>
+        <div class="col-lg-6">
+            <p>Academic Bowl description will be here soon.</p>
+            <p>Below are some of our proudest achievements during the 2016-2017 School Year:</p>
+            <p class="about_center">
+                <b>Joint Service Academic Bowl Championship: 1st Place</br>
+                    Air Force Junior Reserve Officer Training Corps Academic Bowl Championship: 1st Place</br>
+                </b>
+            </p>
+        </div>
     </div>
-</div><! --/row -->
-</div><! --/container -->
+    <! --/row -->
+</div>
+<! --/container -->
 <div class="container mtb">
     <div class="row centered">
         {% for academicmember in site.academicmembers %}
@@ -29,17 +33,23 @@ permalink: /teams/academic/
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in academicmember.social %}
-                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
             <h4>{{ academicmember.name }}</h4>
             <h5 class="ctitle">{{ academicmember.position }}</h5>
             <p>{{ academicmember.text }}</p>
             <div class="hline"></div>
             <br>
-        </div><! --/col-lg-3 -->	 	
+        </div>
+        <! --/col-lg-3 -->
         {% endfor %}
     </div>
 </div>

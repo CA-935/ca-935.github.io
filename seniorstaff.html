@@ -3,42 +3,49 @@ layout: default
 title: Senior Staff
 permalink: /seniorstaff/
 ---
-
 {% include wrap.html %}
 
 <div class="container mtb">
-	<div class="col-lg-6">
-        <img class="img-responsive" src="{{ "/assets/img/seniorstaff/fullstaff.jpg" | prepend: site.baseurl }}" alt="">
+    <div class="col-lg-6">
+        <img class="img-responsive" src="{{ " /assets/img/seniorstaff/fullstaff.jpg " | prepend: site.baseurl }}" alt="">
     </div>
     <div class="col-lg-6">
-        <p>Senior Staff is a group of nine senior cadets who operate as a team to run our unit. Through their tenacity,
-					management and communication skills, and their passion for AFJROTC, the Senior Staff is successful in leading the
-					best JROTC corps in the nation. Each Senior Staff member is responsible for a certain facet of our unit, resulting
-					in a dynamic chain of command that functions efficiently.</p>
+        <p>Senior Staff is a group of nine senior cadets who operate as a team to run our unit. Through their tenacity, management
+            and communication skills, and their passion for AFJROTC, the Senior Staff is successful in leading the best JROTC
+            corps in the nation. Each Senior Staff member is responsible for a certain facet of our unit, resulting in a
+            dynamic chain of command that functions efficiently.</p>
     </div>
-</div><! --/row -->
-</div><! --/container -->
+</div>
+<! --/row -->
+</div>
+<! --/container -->
 <div class="container mtb">
     <div class="row centered">
-      {% for staffmember in site.staffmembers %}
-      <div class="col-lg-3 col-md-3 col-sm-3">
-        <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="">
-            <div class="he-view">
-                <div class="bg a0" data-animate="fadeIn">
-                    <h3 class="a1" data-animate="fadeInDown">Links:</h3>
-                    {% for entry in staffmember.social %}
-                    <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
-                    {% endfor %}
-                </div><!-- he bg -->
-            </div><!-- he view -->
-        </div><!-- he wrap -->
-        <h4>{{ staffmember.name }}</h4>
-        <h5 class="ctitle">{{ staffmember.position }}</h5>
-        <p>{{ staffmember.text }}</p>
-        <div class="hline"></div>
-        <br>
-    </div><! --/col-lg-3 -->
-    {% endfor %}
-</div>
+        {% for staffmember in site.staffmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in staffmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a>
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ staffmember.name }}</h4>
+            <h5 class="ctitle">{{ staffmember.position }}</h5>
+            <p>{{ staffmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
 </div>

@@ -11,10 +11,11 @@ permalink: /
                 <i class="fa fa-trophy" aria-hidden="true"></i>
                 <span class="sr-only">Stillwell trophy</span>
                 <h4>Best Unit</h4>
-                <p>Winner of the Stillwell Award<br>
-                    2016-2017, 2014-2015<br>
-                    2013-2014, 2011-2012<br>	
-                    2010-2011<br>		
+                <p>Winner of the Stillwell Award
+                    <br> 2016-2017, 2014-2015
+                    <br> 2013-2014, 2011-2012
+                    <br> 2010-2011
+                    <br>
                     <br>
                 </p>
             </div>
@@ -29,11 +30,13 @@ permalink: /
                 <span class="sr-only"></span>
                 <h4>Best Cadets</h4>
                 <p>Cadets with different strengths and weaknesses come together to work cohesively to achieve greatness.</p>
-                
+
             </div>
         </div>
-    </div><! --/container -->
-</div><! --/service -->
+    </div>
+    <! --/container -->
+</div>
+<! --/service -->
 
 {% include gallery.html title="PHOTOS FROM CA-935" limit=10 %}
 
@@ -43,25 +46,32 @@ permalink: /
         <div class="col-lg-4 col-lg-offset-1">
             <h4>More About Our Corps</h4>
             <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+            <p>
+                <br/>
+                <a href="{{ " /about/ " | prepend: site.baseurl }}" class="btn btn-theme">More Info</a>
+            </p>
         </div>
 
         <div class="col-lg-3">
             <h4>Latest Updates</h4>
             <div class="hline"></div>
             {% for post in site.posts limit:5 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            <p>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a>
+            </p>
             {% endfor %}
         </div>
 
         <div class="col-lg-3">
             <h4>Disclaimer</h4>
-            <p>The information and opinions contained in this Internet site do not reflect the official policy or position of the 
-			United States Government, United States Air Force, Jeanne M. Holm Center for Officer Accessions and Citizen Development, or 
-			the Air Force Junior Reserve Officer Training Corps.</p>
+            <p>The information and opinions contained in this Internet site do not reflect the official policy or position of
+                the United States Government, United States Air Force, Jeanne M. Holm Center for Officer Accessions and Citizen
+                Development, or the Air Force Junior Reserve Officer Training Corps.</p>
         </div>
 
 
 
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
