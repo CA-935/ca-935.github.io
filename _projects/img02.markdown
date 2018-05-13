@@ -1,4 +1,4 @@
 ---
-title:  "CyberPatriot National Competition 2017"
+title:  "CyberPatriot National Competition 2018"
 img: img02.jpg
 ---

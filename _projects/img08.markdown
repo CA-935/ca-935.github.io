@@ -1,4 +1,4 @@
 ---
-title:  "Joint Brigade Ball"
+title:  "Joint Brigade Ball 2018"
 img: img08.jpg
 ---

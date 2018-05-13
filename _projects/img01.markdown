@@ -1,4 +1,4 @@
 ---
-title:  "Cadet Picnic 2016"
+title:  "Cadet Picnic 2017"
 img: img01.jpg
 ---
