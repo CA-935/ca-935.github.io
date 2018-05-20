@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ## General Staff Results
 
@@ -13,5 +13,3 @@ For those who were not able to see the General Staff results, they can be found 
 Enjoy the rest of your weekend!
 
 --PA
-
-
