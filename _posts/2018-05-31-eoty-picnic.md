@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ## End of the Year Picnic
 
