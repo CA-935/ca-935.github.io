@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ## May 2018 Newsletter
 
