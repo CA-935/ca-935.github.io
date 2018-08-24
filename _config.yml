@@ -77,12 +77,12 @@ members:
     img: SGT PA.jpg
 
 armedmembers:
-  - name: Anton Phan
+  - name: Matthew Custodio
     position: Armed Team Commander
-    img: commander.jpg
-  - name: Jordan Almaas
+    img: Matthew.jpg
+  - name: Thomas Phan
     position: Armed Team NCO
-    img: sergeant.jpg
+    img: Thomas.jpg
 
 cgmembers:
   - name: William Rule
