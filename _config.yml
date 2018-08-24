@@ -101,12 +101,12 @@ flagdetailmembers:
     img: sergeant.jpg
 
 sabermembers:
-  - name: Jimmy Du 
+  - name: Nick Stone 
     position: Saber Team Commander
-    img: commander.jpg
-  - name: Nick Stone
+    img: nick.jpg
+  - name: Jeremy Doan
     position: Saber Team NCO
-    img: sergeant.jpg
+    img: sabersgt.jpg
 
 unarmedmembers:
   - name: Lj Monteclar
