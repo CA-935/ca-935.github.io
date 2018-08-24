@@ -164,31 +164,31 @@ staffmembers:
   - name: Evan Dicker
     position: Operations Commander
     img: Evan.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/evan.dicker.47371
   - name: Nick Stone
     position: Teams Commander
     img: Nick.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/profile.php?id=100004798337733
   - name: Shane Donahue
     position: Mission Support Commander
     img: Shane.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/profile.php?id=100010223324308
   - name: Lindsey Trinh 
     position: Plans and Programs
     img: Lindsey.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/lindsey.trinh.3
   - name: Christine Nguyen
     position: Logistics Commander
     img: Christine.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/profile.php?id=100005976706220
   - name: Johanna Kye
