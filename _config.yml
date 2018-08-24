@@ -143,31 +143,31 @@ kittyhawkmembers:
     img: sergeant.jpg
 
 staffmembers:
-  - name: John Jack
+  - name: Valerie Ho
     position: Group Commander
     img: john.jpg
-  - name: Namkhue Vo
+  - name: Brandon Nguyen
     position: Deputy Commander
     img: namkhue.jpg
-  - name: Xander Meehan
+  - name: Chole Dietrich
     position: First Sergeant
     img: xander.jpg
-  - name: Rem Talde
+  - name: Evan Dicker
     position: Operations Commander
     img: rem.jpg
-  - name: Anton Phan
+  - name: Nick Stone
     position: Teams Commander
     img: anton.jpg
-  - name: Andrew Kim
+  - name: Shane Donahue
     position: Mission Support Commander
     img: andrew.jpg
-  - name: Julius Velasquez
+  - name: Lindsey Trinh
     position: Plans and Programs
     img: julius.jpg
-  - name: Mi Tran
+  - name: Christine Nguyen
     position: Logistics Commander
     img: mi.jpg
-  - name: Lizzie Chavez
+  - name: Johanna Kye
     position: Public Affairs Commander
     img: lizzie.jpg
     
