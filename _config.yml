@@ -214,11 +214,11 @@ aptmembers:
 
 cyberpatriotmembers:
 - name: Alex Roh
-    position: CyberPatriot Commander
-    img: placeholderb.PNG
-    - name: Darius Yeung
-    position: CyberPatriot NCO
-    img: SGT CP.jpg
+position: CyberPatriot Commander
+img: placeholderb.PNG
+- name: Darius Yeung
+position: CyberPatriot NCO
+img: SGT CP.jpg
 
 # Clients information. Shown on Home and About pages.
 sponsors:
