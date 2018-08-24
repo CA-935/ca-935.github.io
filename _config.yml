@@ -170,6 +170,10 @@ staffmembers:
   - name: Johanna Kye
     position: Public Affairs Commander
     img: Johanna.JPG
+    social:
+      - title: Instagram
+        url: https://www.instagram.com/young_johanna/
+      
     
 ypfmembers:
   - name: TBA
