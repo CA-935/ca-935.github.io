@@ -207,10 +207,10 @@ ypfmembers:
 aptmembers:
   - name: Lynn Lu
     position: APT Commander
-    img: commander.jpg
-  - name: Lauren Kogelman
+    img: CC APT.jpg
+  - name: Nyssa Sais Montoya
     position: APT NCO
-    img: sergeant.jpg
+    img: SGT APT.jpg
 
 cyberpatriotmembers:
   - name: Adrian Resubal
