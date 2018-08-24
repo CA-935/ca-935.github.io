@@ -36,16 +36,12 @@ social:
     url: https://github.com/CA-935
   - title: facebook
     url: https://www.facebook.com/srhspublicaffairs
-  - title: snapchat-ghost  
+  - title: snapchat-ghost
     url: https://www.snapchat.com/add/srhspa
   - title: youtube-play
     url: https://www.youtube.com/channel/UC13o8MjH8SXrb1QIAHcCEdA
   - title: instagram
-    url: https://www.instagram.com/ca.935th
-  - title: google-photos
-    url: https://photos.google.com/u/2/albums
-    
-  
+    url: https://www.instagram.com/srhspa
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -76,15 +72,10 @@ members:
   - name: Brandon Nguyen
     position: Technology NCO
     img: brandon.jpg
-    social:
-      - title: github
-        url: https://github.com/brandonpadres
-      - title: gitlab
-        url: https://gitlab.com/brandonpadres
   - name: Mitchell Le 
     position: Public Affairs NCO
     img: mitch.jpg
-  - name: Thu Vu 
+  - name: Thu Vu
     position: Public Affairs NCO
     img: thu.jpg
 
@@ -143,60 +134,60 @@ kittyhawkmembers:
   - name: Athena Amanatidis
     position: Kitty Hawk NCO
     img: sergeant.jpg
-    staffmembers:
-- name: Valerie Ho
+
+staffmembers:
+  - name: Valerie Ho
     position: Group Commander
-    img: Valerie.JPG
+    img: valerie.jpg
     social:
       - title: facebook
-        url: https://www.facebook.com/profile.php?id=100004596104814  
+        url: https://www.facebook.com/profile.php?id=100004596104814
   - name: Brandon Nguyen
-    position: Deputy Commander  
-    img: Brandon.JPG   
+    position: Deputy Commander
+    img: brandon.jpg
   - name: Chloe Dietrich
     position: First Sergeant
-    img: Chloe.JPG
+    img: chloe.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/chloe.dietrich.1
+      - title: facebook 
+        url: https://www.facebook.com/chloe.dietrich.1
   - name: Evan Dicker
     position: Operations Commander
-    img: Evan.JPG
+    img: evan.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/evan.dicker.47371
+      - title: facebook 
+        url: https://www.facebook.com/evan.dicker.47371
   - name: Nick Stone
     position: Teams Commander
-    img: Nick.JPG
+    img: nick.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/profile.php?id=100004798337733
+      - title: facebook 
+        url: https://www.facebook.com/profile.php?id=100004798337733
   - name: Shane Donahue
     position: Mission Support Commander
-    img: Shane.JPG
+    img: shane.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/profile.php?id=100010223324308
+      - title: facebook 
+        url: https://www.facebook.com/profile.php?id=100010223324308
   - name: Lindsey Trinh 
     position: Plans and Programs
-    img: Lindsey.JPG
+    img: lindsey.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/lindsey.trinh.3
+      - title: facebook 
+        url: https://www.facebook.com/lindsey.trinh.3
   - name: Christine Nguyen
     position: Logistics Commander 
-    img: Christine.JPG
+    img: christine.jpg
     social:
-    - title: facebook 
-    url: https://www.facebook.com/profile.php?id=100005976706220
-   - name: Johanna Kye
+      - title: facebook 
+        url: https://www.facebook.com/profile.php?id=100005976706220
+  - name: Johanna Kye
     position: Public Affairs Commander
-    img: Johanna.JPG
+    img: johanna.jpg
     social:
       - title: facebook  
-        url: https://www.facebook.com/johana.kye
-       
-    
+        url: https://www.facebook.com/johanna.kye
+
 ypfmembers:
   - name: TBA
     position: YPF Captain
@@ -212,12 +203,12 @@ aptmembers:
   - name: Lauren Kogelman
     position: APT NCO
     img: sergeant.jpg
-    
+
 cyberpatriotmembers:
   - name: Adrian Resubal
     position: CyberPatriot Commander
     img: commander.jpg
-    
+
 # Clients information. Shown on Home and About pages.
 sponsors:
   - name: iD Tech
