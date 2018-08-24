@@ -145,31 +145,31 @@ kittyhawkmembers:
 staffmembers:
   - name: Valerie Ho
     position: Group Commander
-    img: john.jpg
+    img: valerie.jpg
   - name: Brandon Nguyen
     position: Deputy Commander
-    img: namkhue.jpg
+    img: brandon.jpg
   - name: Chole Dietrich
     position: First Sergeant
-    img: xander.jpg
+    img: chole.jpg
   - name: Evan Dicker
     position: Operations Commander
-    img: rem.jpg
+    img: evan.jpg
   - name: Nick Stone
     position: Teams Commander
-    img: anton.jpg
+    img: nick.jpg
   - name: Shane Donahue
     position: Mission Support Commander
-    img: andrew.jpg
+    img: shane.jpg
   - name: Lindsey Trinh
     position: Plans and Programs
-    img: julius.jpg
+    img: lindsey.jpg
   - name: Christine Nguyen
     position: Logistics Commander
-    img: mi.jpg
+    img: christine.jpg
   - name: Johanna Kye
     position: Public Affairs Commander
-    img: lizzie.jpg
+    img: johanna.jpg
     
 ypfmembers:
   - name: TBA
