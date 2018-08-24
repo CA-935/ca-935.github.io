@@ -148,9 +148,9 @@ staffmembers:
   - name: Valerie Ho
     position: Group Commander
     img: Valerie.JPG
-    social:
-    - title: facebook
-    url: https://www.facebook.com/profile.php?id=100004596104814    
+     social:
+      - title: facebook  
+        url: https://www.facebook.com/profile.php?id=100004596104814   
   - name: Brandon Nguyen
     position: Deputy Commander
     img: Brandon.JPG
@@ -199,7 +199,7 @@ staffmembers:
         url: https://www.instagram.com/young_johanna
       - title: facebook  
         url: https://www.facebook.com/johana.kye
-         
+       
     
 ypfmembers:
   - name: TBA
