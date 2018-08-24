@@ -213,9 +213,12 @@ aptmembers:
     img: SGT APT.jpg
 
 cyberpatriotmembers:
-  - name: Adrian Resubal
+  - name: Alex Roh
     position: CyberPatriot Commander
-    img: commander.jpg
+    img: placeholder.jpg
+   - name: Darius Yeung
+    position: CyberPatriot NCO
+    img: SGT CP.jpg
 
 # Clients information. Shown on Home and About pages.
 sponsors:
