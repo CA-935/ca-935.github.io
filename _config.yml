@@ -144,8 +144,8 @@ kittyhawkmembers:
     position: Kitty Hawk NCO
     img: sergeant.jpg
 
-staffmembers:
-  - name: Valerie Ho
+staffmembers
+- name: Valerie Ho
     position: Group Commander
     img: Valerie.JPG
     social:
