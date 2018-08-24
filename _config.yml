@@ -158,7 +158,7 @@ staffmembers:
   - name: Chloe Dietrich
     position: First Sergeant
     img: Chloe.JPG
-     social:
+    social:
     - title: facebook 
     url: https://www.facebook.com/chloe.dietrich.1
   - name: Evan Dicker
