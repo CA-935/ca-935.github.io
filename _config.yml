@@ -213,10 +213,10 @@ aptmembers:
     img: SGT APT.jpg
 
 cyberpatriotmembers:
-  - name: Alex Roh
+- name: Alex Roh
     position: CyberPatriot Commander
     img: placeholderb.PNG
-   - name: Darius Yeung
+    - name: Darius Yeung
     position: CyberPatriot NCO
     img: SGT CP.jpg
 
