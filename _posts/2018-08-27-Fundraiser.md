@@ -10,5 +10,5 @@ Most importantly, if you are interested in any of these events, please contact V
 Have a great 2nd day of school ;)
 
 -c/Lt Col Johanna Kye
+![]({{site.baseurl}}/media/Fundraiser.jpg)
 ![Fund.jpg]({{site.baseurl}}/media/Fund.jpg)
-![]({{site.baseurl}}/media/Fundraiser.jpg)![Fundraiser.jpg]({{site.baseurl}}/media/Fundraiser.jpg)
