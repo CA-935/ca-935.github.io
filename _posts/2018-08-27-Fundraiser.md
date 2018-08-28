@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Congrats on completing your 1st day of school!!!
 
