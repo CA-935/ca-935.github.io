@@ -136,12 +136,15 @@ academicmembers:
     img: sergeant.jpg
 
 kittyhawkmembers:
-  - name: Clyde Rapiñan
-    position: Kitty Hawk Officer
-    img: commander.jpg
   - name: Athena Amanatidis
+    position: Kitty Hawk Officer
+    img: 
+  - name: Tina Ton
     position: Kitty Hawk NCO
-    img: sergeant.jpg
+    img: 
+  - name: Trent Bien
+    position: Kitty Hawk NCO
+    img: 
 
 staffmembers:
   - name: Valerie Ho
