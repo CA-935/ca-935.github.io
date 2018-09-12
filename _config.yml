@@ -102,12 +102,11 @@ armedmembers:
     img: Thomas.jpg
 
 cgmembers:
-  - name: William Rule
+  - name: Christina O
     position: Color Guard Commander
-    img: commander.jpg
-  - name: Marlene Freerksen
+  - name: Derek Phan
     position: Color Guard NCO
-    img: sergeant.jpg
+
 
 flagdetailmembers:
   - name: Mariel Teng II
@@ -126,12 +125,12 @@ sabermembers:
     img: sabersgt.jpg
 
 unarmedmembers:
-  - name: Lj Monteclar
+  - name: Johanna Kye
     position: Unarmed Team Commander
-    img: commander.jpg
-  - name: Amanda Ong
+    img: johanna.jpg
+  - name: Brianna Ly
     position: Unarmed Team NCO
-    img: sergeant.jpg
+
 
 academicmembers:
   - name: Albert Gu
