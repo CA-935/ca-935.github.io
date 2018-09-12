@@ -97,7 +97,7 @@ armedmembers:
 
 cgmembers:
  - name: Christina O
- position:  Color Guard Commander
+    position:  Color Guard Commander
     img: cgCC.jpg
   - name: Derek Phan
     position: Color Guard NCO
@@ -127,13 +127,10 @@ unarmedmembers:
 
 
 academicmembers:
-  - name: Albert Gu
+  - name: Raymond Sun
     position: Academic Team NCO
-    img: commander.jpg
-  - name: Alan Hang
-    position: Academic Team NCO
-    img: sergeant.jpg
-
+    img: academic.jpg
+  
 kittyhawkmembers:
   - name: Athena Amanatidis
     position: Kitty Hawk Officer
