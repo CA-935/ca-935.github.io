@@ -96,9 +96,9 @@ armedmembers:
     img: Thomas.jpg
 
 cgmembers:
-  - name: Christina O
+ - name: Christina O
     position: Color Guard Commander
-    img:cgCC.jpg
+    img: cgCC.jpg
   - name: Derek Phan
     position: Color Guard NCO
 
