@@ -105,7 +105,7 @@ cgmembers:
 
 flagdetailmembers:
   - name: Phoebe Lam
-   img:CC Flag Detail.jpg
+    img:CC Flag Detail.jpg
     position: Flag Detail Commander
   - name: Walter de Lorrell
     position: Flag Detail NCO
