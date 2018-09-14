@@ -1,0 +1,54 @@
+---
+layout: default
+title: Bravo Flight
+permalink: /bravo/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Bravo Flight Commander: Michelle Resubal <br>
+            michresubal@gmail.com<br>(858)-375-8732<br>Hey everyone! I’m c/2nd Lt. Michelle Resubal, the Bravo Flight Commander for this year!  This is my third year in Scripps as well as AFJROTC. I really do enjoy this program a lot. It’s always fun being able to meet new people no matter what grade they’re in. Aside from being on the Operations Squadron, I’m also a member of our Color Guard. Other than that, I enjoy being a violinist in SDYS (San Diego Youth Symphony) and dancing to plenty of BTS songs;) I really can’t wait to be able to meet all of you guys! Please don’t be scared of me and feel free to come up to me and talk to me anytime. :)
+</p>
+            <br><br>
+            <p>Bravo Flight Sergeant: Aland Sinjari <br>
+            alsinjari381@gmail.com<br>(619)-456-5217<br>Hello, my name is c/TSgt Aland Sinjari, and I’m servicing you as the Bravo Flight Sergeant. Please call me Al. I can and will hold a conversation with you about anything -  if you want help drilling, if you want to know how to truly utilize this program to develop yourself, if you need help with your homework, or if need a brother to talk to, I’m always here. If I’m not, I’ll make time. Don’t worry if you’re shy, I can hold a conversation with a rock.
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for bravomember in site.bravomembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ bravomember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in bravomember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ bravomember.name }}</h4>
+            <h5 class="ctitle">{{ bravomember.position }}</h5>
+            <p>{{ bravomember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
