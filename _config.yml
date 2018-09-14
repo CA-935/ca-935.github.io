@@ -102,6 +102,55 @@ alphamembers:
   - name: Samantha Scothlas
     position: Alpha Flight Sergeant
     img: alphaSGT.jpg
+   
+ bravomembers:
+  - name: Michelle Resubal
+    position: Bravo Flight Commander
+    img: bravoCC.jpg
+  - name: Aland Sinjari
+    position: Bravo Flight Sergeant
+    img: bravoSGT.jpg
+    
+  charliemembers:
+  - name: Matthew Custodio
+    position: Charlie Flight Commander
+    img: charlieCC.jpg
+  - name: Katherine Tat
+    position: Charlie Flight Sergeant
+    img: charlieSGT.jpg
+    
+  deltamembers:
+  - name: Brandy Opondo
+    position: Delta Flight Commander
+    img: deltaCC.jpg
+  - name: Phillip Sargent
+    position: Delta Flight Sergeant
+    img: deltaSGT.jpg
+    
+  echomembers:
+  - name: Aish Kirawant
+    position: Echo Flight Commander
+    img: echoCC.jpg
+  - name: Christian Yoon
+    position: Echo Flight Sergeant
+    img: echoSGT.jpg
+    
+  foxtrotmembers:
+  - name: Athena Amanatidis
+    position: Foxtrot Flight Commander
+    img: foxtrotCC.jpg
+  - name: Nyssa Sais Montoya
+    position: Foxtrot Flight Sergeant
+    img: foxtrotSGT.jpg
+    
+  golfmembers:
+  - name: Thomas Phan
+    position: Golf Flight Commander
+    img: golfCC.jpg
+  - name: Xavier dela Cruz
+    position: Golf Flight Sergeant
+
+    
     
 
 armedmembers:
