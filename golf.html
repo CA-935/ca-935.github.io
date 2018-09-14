@@ -1,0 +1,55 @@
+---
+layout: default
+title: Golf Flight
+permalink: /golf/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Golf Flight Commander: Thomas Phan <br>
+            Thomasphan5063@gmail.com<br>(858)408-5063<br>Hello Everyone! I’m c/2nd Lt. Thomas Phan and I am the Golf Flight Commander as well as the Armed Team Sergeant this year. This is my third year being in AFJROTC and as you can tell, I did not regret joining this program. I hope to be a mentor as well as your friend so don’t hesitate to talk to me if you need help with anything! Outside of AFJROTC, I am also the club president of VSA (Vietnamese Student Association) so I hope to see some familiar faces when clubs begin! Outside of school, I like to kayak, eat sushi, travel, and play just about any sport. I look forward to having an amazing year with everyone and getting to know you all!
+</p>
+            <br><br>
+            <p>Golf Flight Sergeant: Xavier dela Cruz <br>
+            xkdelacruz831@gmail.com<br>My name is c/TSgt Xavier dela Cruz, I am the Golf flight Sergeant. I am a member of the Armed Drill team and I am a second year.  I joined AFJROTC kind of scared of the new environment but I got accustomed to all the great people really fast, my flight commander and sergeant were the best, I was influenced the most by them. I fell in love with the Ops squadron and AFJROTC in general. I’ll be the guy you first turn to when you have a problem. Don’t worry, I’ll do my best to help! Outside of this wonderful program I am a stay-at-home son. I cook (to the best of my ability), and garden (also to the best of my ability) with my dad and my brother. I like going on walks around the neighborhood in the evening and am currently working on my own comic book. I hope to have an awesome year with you all!
+
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for golfmember in site.golfmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ golfmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in golfmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ golfmember.name }}</h4>
+            <h5 class="ctitle">{{ golfmember.position }}</h5>
+            <p>{{ foxtrotmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
