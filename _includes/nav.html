@@ -33,6 +33,10 @@
         <li {% if page.title == "Parents" %}class="active"{% endif %}><a href="{{"/parents/" | prepend: site.baseurl }}">PARENTS</a></li>
         <li {% if page.title == "Gallery" %}class="active"{% endif %}><a href="{{"/gallery/" | prepend: site.baseurl }}">GALLERY</a></li>
         <li {% if page.title == "FLIGHTS" %}class="active"{% endif %}><a>FLIGHTS</a></li>
+        <ul>
+            <a class="dropdown_link" href="{{"/alpha/" | prepend: site.baseurl }}"><li {% if page.title == "Alpha Flight" %}class="active"{% endif %}>Alpha FLight</li></a>
+           
+             </li>
         <li {% if page.title == "Extracurriculars" %}class="active"{% endif %}><a>EXTRACURRICULARS</a>
           <ul>
             <a class="dropdown_link" href="{{"/teams/" | prepend: site.baseurl }}"><li {% if page.title == "Teams" %}class="active"{% endif %}>Teams</li></a>
