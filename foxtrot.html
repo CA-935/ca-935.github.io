@@ -1,0 +1,54 @@
+---
+layout: default
+title: Foxtrot Flight
+permalink: /foxtrot/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Foxtrot Flight Commander: Athena Amanatidis <br>
+            athena1326@gmail.com<br>(619)-317-8320<br>Hello everyone! *If you’re reading this, you’re awesome! I am c/2nd Lt. Athena Amanatidis (Ahh-Maa-Naa-Tee-Dees :) I am a junior at “the ranch.” I love all kinds of music, ESPECIALLY the Beatles because they’re amazing. I love learning new languages and I am fluent in Spanish, English, and American Sign Language, currently learning Greek. I am Hispanic, Greek, and American. I am obsessed with dinosaurs because, they’re amazing, and I love helping people so please don’t hesitate to talk with me if there’s anything you need help with! I hope you all have an amazing year this year! :)))))
+</p>
+            <br><br>
+            <p>Foxtrot Flight Sergeant: Nyssa Sais Montoya <br>
+            nsaismontoya@gmail.com<br>760-984-9737<br>Hello I’m c/TSgt Nyssa Sais Montoya and I am the Foxtrot flight sergeant! I am a sophomore at SRHS, I have gone to 7 different schools and moved from Canada when I was young(yes I love maple syrup and no i don’t say “eh”). Scripps Ranch is by far one of the best schools out of all of them and within AFJROTC I am the APT sergeant as well as apart of a drill team. Outside of RO I enjoy playing sports, the piano, guitar, reading and hanging out with my friends. I also love to travel and eat food(emphasis on food). I’m also extremely talkative and will make friends with anyone. I hope to have a wonderful year and make many fun memories.;)
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for foxtrotmember in site.foxtrotmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ foxtrotmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in foxtrotmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ foxtrotmember.name }}</h4>
+            <h5 class="ctitle">{{ foxtrotmember.position }}</h5>
+            <p>{{ foxtrotmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
