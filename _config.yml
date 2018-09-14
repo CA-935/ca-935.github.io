@@ -94,6 +94,15 @@ members:
     position: Technology NCO
     img: justin.jpg
     
+    
+alphamembers:
+  - name: Dylan Tran
+    position: Alpha FLight Commander
+    img: alphaCC.jpg
+  - name: Samantha Scothlas
+    position: Alpha FLight Sergeant
+    img: alphaSGT.jpg
+    
 
 armedmembers:
   - name: Matthew Custodio
