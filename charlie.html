@@ -1,0 +1,55 @@
+---
+layout: default
+title: Charlie Flight
+permalink: /charlie/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Charlie Flight Commander: Matthew Custodio <br>
+            mrcustodio1@gmail.com<br>(858)208-9797<br>Hiya everyone! I’m c/2nd lt Matthew Custodio and I am your Charlie Flight Commander as well as your Armed Fancy Drill Team Commander! I absolutely love this program so much and it means so much to me to be with so many wonderful people! In my free time, I love spending it on watching my favorite shows being anime or kdramas hehehe but I mostly enjoy going out fishing with my family. It is certainly a pleasure to be working with everyone and I am most definitely excited to be serving all of you this year! 
+</p>
+            <br><br>
+            <p>Charlie Flight Sergeant: Katherine Tat <br>
+            tkatherine2003@gmail.com<br> (858) 322-9144<br>Hello hello, everyone! I’m your Charlie Flight Sergeant c/TSgt Katherine Tat (you can call me Kat). I am a member UFDT, the 2018 BDY, a former member of APT (2017-2018) and always looking for new friends. Outside of JROTC I am the president of the Poetry Club and an active member of Teen Council. I enjoy writing poetry, playing piano, running and hiking in my spare time. Feel free to talk to me about anything (drilling, knowledge, advice, school, life, etc.).  I’m so excited to meet and motivate you all throughout this amazing year! ;)
+
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for charliemember in site.charliemembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ charliemember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in charliemember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ charliemember.name }}</h4>
+            <h5 class="ctitle">{{ charliemember.position }}</h5>
+            <p>{{ charliemember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
