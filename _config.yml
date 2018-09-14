@@ -133,8 +133,8 @@ echomembers:
     img: echoCC.jpg
  - name: Christian Yoon
     position: Echo Flight Sergeant
-    img: echoSGT.jpg
-    
+    img: echoSGT.jpg    
+
 foxtrotmembers:
  - name: Athena Amanatidis
     position: Foxtrot Flight Commander
