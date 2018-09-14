@@ -1,0 +1,56 @@
+---
+layout: default
+title: Echo Flight
+permalink: /echo/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Echo Flight Commander: Aish Kirawant <br>
+            aishkirawant@gmail.com<br>858-842-8940<br>@aishkirawant on insta. Aye!! It’s ya boy c/2nd Lt. Aish Kirawant (Ash) and I am the Echo Flight Commander! I am a senior at SRHS and this is sadly my last year here… oof. I love spicy food.. probably cause I’m Indian. I love playing sports (basketball, swimming, water polo, football). I also skateboard, breakdance, and best of all… I rap! (Yung Curry) AishRaps on Soundcloud and Spotify.. Check it out! Lol. I am also on the Color Guard and Flag Detail team. I enjoy talking to people and making new friends, so if you see me around say hi! And if you every need any help with anything, I will help don’t worry I don’t bite. Can’t wait to get to know y’all stay positive and stay LIT! 
+
+</p>
+            <br><br>
+            <p>Echo Flight Sergeant: Christian Yoon <br>
+            cky2003florida@gmail.com<br>(619) 496-2259<br>Oh! Didn’t see you there! JROTC is an amazing experience, and has helped develop me as a person so much. I personally enjoy all kinds of music, and play the piano and the beautiful instrument named the “cello”. I am involved in a string ensemble and teach the cello to peers with special needs. I also love all sports, and actively play the infatuating sport elegantly named, “tennis”. Parents, your kids are in EXCELLENT hands (hehehe), and I will do my very most best to be open, friendly, and even make them smile once or twice. Remember to take it easy and keep smiling. Oh yeah my name’s Christian by the way.
+
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for echomember in site.echomembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ echomember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in echomember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ echomember.name }}</h4>
+            <h5 class="ctitle">{{ echomember.position }}</h5>
+            <p>{{ echomember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
