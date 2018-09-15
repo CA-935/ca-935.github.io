@@ -215,6 +215,15 @@ kittyhawkmembers:
     img: kittyhawk.jpg
   - name: Trent Bien
     position: Kitty Hawk NCO
+    
+educationmembers:
+  - name: Thu Vu
+    position: Education Officer
+    img: educationCC.jpg
+  - name: Harshil Thakur
+    position: Education NCO
+    img: educationSGT.jpg
+
 
 staffmembers:
   - name: Valerie Ho
