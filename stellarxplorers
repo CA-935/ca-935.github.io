@@ -1,0 +1,52 @@
+---
+layout: default
+title: Stellar Xplorers
+permalink: /stellar/
+---
+{% include wrap.html %}
+    <div class="row">
+        <div class="col-lg-6">
+        <img src="/assets/img/stellar.JPG" width="47%" alt="Stellar Xplorer">
+
+            <br>
+            <p>StellarXplorers operates under the AFA Space Task Force and is a team that requires space, and math knowledge 
+            in order to complete different scenarios. We work together to learn and teach the  knowledge needed to complete 
+            these scenarios. When you join being able to work under some stress is a needed skill, to go along with that 
+            coming to the practice every Monday after school helps to learn these skills. Even if this is the first year we 
+            plan to win as much as possible.
+</p>
+        </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for stellarmember in site.stellarmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ stellarmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in stellarmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ stellarmember.name }}</h4>
+            <h5 class="ctitle">{{ stellarmember.position }}</h5>
+            <p>{{ stellarmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
