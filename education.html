@@ -1,0 +1,56 @@
+---
+layout: default
+title: Education
+permalink: /education/
+---
+{% include wrap.html %}
+
+<div class="container mtb">
+    <h3> Visit the
+        <a href="https://educationsawesome.weebly.com/" target="_blank"> Education wesbsite</a> for information on scholarships! </h3>
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Educational aid is a very important factor to consider to help yourself financially as well as mentally. 
+            About 3.9 million students drop out from college because of debt and non-affordability. Therefor our aim is to support
+            and help you guys to get the proper aid that we all deserve and also make college more affordable. Hello, I’m c/2nd Lt 
+            Thu Vu. As Education Officer, along with my sergeant, c/TSgt Harshil Thakur, we compile lists of possible scholarships 
+            and learning opportunities for cadets. Our goal is to provide support to those seeking out for educational benefits 
+            and aids. For more information regarding sign ups and how to attain the scholarships, please 
+            contact me at helloitsthu@gmail.com and Harshil at harshilt60k@gmail.com. 
+</p>
+        </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for educationmember in site.educationmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/" | prepend: site.baseurl }}{{ educationmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in educationmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ educationmember.name }}</h4>
+            <h5 class="ctitle">{{ educationmember.position }}</h5>
+            <p>{{ educationmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
