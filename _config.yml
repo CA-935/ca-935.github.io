@@ -201,8 +201,10 @@ academicmembers:
 kittyhawkmembers:
   - name: Athena Amanatidis
     position: Kitty Hawk Officer
+    img: hawk.jpg
   - name: Tina Ton
     position: Kitty Hawk NCO
+    img: kittyhawk.jpg
   - name: Trent Bien
     position: Kitty Hawk NCO
 
