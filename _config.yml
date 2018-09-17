@@ -90,6 +90,7 @@ members:
     img: CC TECH.jpg
   - name: Eric Kye
     position: Technology NCO
+    img: eric.jpg
   - name: Justin Bui
     position: Technology NCO
     img: justin.jpg
@@ -149,6 +150,7 @@ golfmembers:
     img: golfCC.jpg
   - name: Xavier dela Cruz
     position: Golf Flight Sergeant
+    img: golfSGT.jpg
 
     
     
@@ -167,6 +169,7 @@ cgmembers:
     img: cgCC.jpg
   - name: Derek Phan
     position: Color Guard NCO
+    img: cgSGT.jpg
 
 
 flagdetailmembers:
@@ -191,6 +194,7 @@ unarmedmembers:
     img: Johanna.JPG
   - name: Brianna Ly
     position: Unarmed Team NCO
+    img: unarmedSGT.jpg
 
 
 academicmembers:
@@ -215,6 +219,7 @@ kittyhawkmembers:
     img: kittyhawk.jpg
   - name: Trent Bien
     position: Kitty Hawk NCO
+    img: trent.jpg
     
 educationmembers:
   - name: Thu Vu
