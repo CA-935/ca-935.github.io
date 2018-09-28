@@ -88,6 +88,11 @@ members:
   - name: Mitchell Le
     position: Technology Officer
     img: CC TECH.jpg
+    social:
+      - title: instagram
+        url: https://www.instagram.com/mitch.da.glitch/
+      - title: facebook
+        url: https://m.facebook.com/home.php?_rdr
   - name: Eric Kye
     position: Technology NCO
     img: eric.jpg
