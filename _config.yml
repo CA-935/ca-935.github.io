@@ -183,6 +183,7 @@ flagdetailmembers:
     position: Flag Detail Commander
   - name: Walter de Lorrell
     position: Flag Detail NCO
+    img: fdSGT.jpg
 
 
 sabermembers:
@@ -209,10 +210,12 @@ academicmembers:
  
  
 stellarmembers:
-  - name: TBA
+  - name: Calvin Hoang
     position: Stellar Xplorers NCO
-  - name: TBA
+    img: calvin.jpg
+  - name: Johann Welch
     position: Stellar Xplorers NCO
+    img: johann.jpg
      
   
 kittyhawkmembers:
