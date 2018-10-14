@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Quick reminders for Monday:
 -BDI Inspection at 0635 behind the engineering building
