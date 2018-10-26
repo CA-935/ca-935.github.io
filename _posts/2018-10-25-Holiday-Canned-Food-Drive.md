@@ -17,7 +17,4 @@ Sincerely,
 
 MSgt Toledo
 
-F.B. TOLEDO, MSgt, USAF (ret)
-Aerospace Science Instructor
-Scripps Ranch High School
-10410 Falcon Way, San Diego, CA 92131
+
