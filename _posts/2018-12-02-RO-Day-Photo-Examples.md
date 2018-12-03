@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here are some examples of photos taken on RO Day.
 
