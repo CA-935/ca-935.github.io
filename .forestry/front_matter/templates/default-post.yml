@@ -11,3 +11,10 @@ fields:
   config:
     required: true
   description: Always put "post" here.
+- type: datetime
+  name: date
+  label: Date
+  description: Enter the date here.
+  config:
+    date_format: YYYY-MM-DD
+    required: true
