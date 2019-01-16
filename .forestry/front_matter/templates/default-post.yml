@@ -18,3 +18,5 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
+pages:
+- _posts/test-post.md
