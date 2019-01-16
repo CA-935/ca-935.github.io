@@ -17,3 +17,5 @@ fields:
   description: Always put "true" here.
   config:
     required: true
+pages:
+- _posts/test-post.md
