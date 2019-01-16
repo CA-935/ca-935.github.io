@@ -11,5 +11,9 @@ fields:
   config:
     required: true
   description: Always put "post" here.
-pages:
-- _posts/test-post.md
+- type: text
+  name: published
+  label: Published
+  description: Always put "true" here.
+  config:
+    required: true
