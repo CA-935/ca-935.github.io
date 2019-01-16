@@ -3,4 +3,10 @@ label: Default Post
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  label: Title
+  name: title
+  description: The title of the page.
+  config:
+    required: true
 - type: textarea
