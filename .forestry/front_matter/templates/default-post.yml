@@ -10,3 +10,5 @@ fields:
   config:
     required: true
 - type: textarea
+pages:
+- _posts/2019-01-20-testing.md
