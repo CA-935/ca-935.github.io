@@ -17,5 +17,9 @@ fields:
   description: Always put "true" here.
   config:
     required: true
+- type: text
+  name: title
+  label: Title
+  description: Add a descriptive title here. It does not need to include the date.
 pages:
 - _posts/test-post.md
