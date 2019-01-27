@@ -1,4 +1,4 @@
 ---
-title:  "JLAB 2018"
-img: img07.jpg
+title:  "AFJROTC Field Day #1 2018"
+img: roday.png
 ---
