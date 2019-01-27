@@ -1,4 +1,4 @@
 ---
-title:  "Summer Leadership School 2018"
-img: img05.jpg
+title:  "Halloween 2018"
+img: halloween.png
 ---
