@@ -1,4 +1,4 @@
 ---
-title:  "Pass in Review 2018"
-img: img03.jpg
+title:  "Air Show 2018"
+img: airshow2018.png
 ---
