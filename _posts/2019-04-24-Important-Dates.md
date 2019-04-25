@@ -4,11 +4,11 @@ published: true
 ---
 Here are some upcoming events.
 
-Dingeman Spring Carnival
+1) Dingeman Spring Carnival
 Friday, 26 April
 
-Golden Bear Showtime:0430
-Saturday, 27 April
+2) Golden Bear 
+Saturday, 27 April/ Showtime:0430
 
 Unit Shirt Day
 Monday, 6 May
