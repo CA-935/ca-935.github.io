@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 SENIORS!!! Don't forget to apply for the Captain Cherry Scholarship~
 Due: 9 May 2019
