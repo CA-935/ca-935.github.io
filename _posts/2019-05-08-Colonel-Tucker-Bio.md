@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 ## Colonel Dennis P. Tucker, Jr.
 
@@ -88,8 +87,3 @@ Major Sept. 1, 2002
 Lieutenant Colonel Aug. 1, 2007
 Colonel July 1, 2013
 (Current as of April 2018)
-
-
-
-
-
