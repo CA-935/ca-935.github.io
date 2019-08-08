@@ -234,57 +234,34 @@ educationmembers:
 
 
 staffmembers:
-  - name: Valerie Ho
+  - name: Matthew Custodio
     position: Group Commander
-    img: valerie.jpg
-    social:
-      - title: facebook
-        url: https://www.facebook.com/profile.php?id=100004596104814
-  - name: Brandon Nguyen
+    img: matthew.jpg
+  - name: Eric Lee
     position: Deputy Commander
-    img: brandon.jpg
-  - name: Chloe Dietrich
+    img: eric.jpg
+  - name: Thomas Phan
     position: First Sergeant
-    img: chloe.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/chloe.dietrich.1
-  - name: Evan Dicker
+    img: thomas.jpg
+  - name: Tran Dylan
     position: Operations Commander
-    img: evan.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/evan.dicker.47371
-  - name: Nick Stone
+    img: dylan.jpg
+  - name: Athena Amanatidis
     position: Teams Commander
-    img: nick.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/profile.php?id=100004798337733
-  - name: Shane Donahue
+    img: athena.jpg
+  - name: Marina Xu
     position: Mission Support Commander
-    img: shane.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/profile.php?id=100010223324308
-  - name: Lindsey Trinh 
+    img: marina.jpg
+  - name: Michelle Resubal
     position: Plans and Programs
-    img: lindsey.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/lindsey.trinh.3
-  - name: Christine Nguyen
+    img: michelle.jpg
+  - name: TBA
     position: Logistics Commander 
-    img: christine.jpg
-    social:
-      - title: facebook 
-        url: https://www.facebook.com/profile.php?id=100005976706220
-  - name: Johanna Kye
+    img: placeholder.png
+  - name: Kyrstn Hall
     position: Public Affairs Commander
-    img: johanna.jpg
-    social:
-      - title: facebook  
-        url: https://www.facebook.com/johana.kye
+    img: kyrstn.jpg
+    
 
 ypfmembers:
   - name: TBA
