@@ -243,7 +243,7 @@ staffmembers:
   - name: Thomas Phan
     position: First Sergeant
     img: thomas.jpg
-  - name: Tran Dylan
+  - name: Dylan Tran
     position: Operations Commander
     img: dylan.jpg
   - name: Athena Amanatidis
@@ -255,7 +255,7 @@ staffmembers:
   - name: Michelle Resubal
     position: Plans and Programs
     img: michelle.jpg
-  - name: TBA
+  - name: N/A
     position: Logistics Commander 
     img: placeholder.png
   - name: Kyrstn Hall
