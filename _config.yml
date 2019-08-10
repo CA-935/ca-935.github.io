@@ -236,13 +236,13 @@ educationmembers:
 staffmembers:
   - name: Matthew Custodio
     position: Group Commander
-    img: matthew.jpg
+    img: matthewpic.jpg
   - name: Eric Lee
     position: Deputy Commander
     img: eric.jpg
   - name: Thomas Phan
     position: First Sergeant
-    img: thomas.jpg
+    img: thomaspic.jpg
   - name: Dylan Tran
     position: Operations Commander
     img: dylan.jpg
