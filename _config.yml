@@ -156,12 +156,12 @@ golfmembers:
     
 
 armedmembers:
-  - name: Matthew Custodio
+  - name: EJ Buan
     position: Armed Team Commander
-    img: charlieCC.jpg
-  - name: Thomas Phan
+    img: ejarmedcc.jpg
+  - name: Thomas Rufino
     position: Armed Team NCO
-    img: golfCC.jpg
+    img: tomarmednco.jpg
 
 cgmembers:
   - name: Christina O
