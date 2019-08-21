@@ -214,15 +214,15 @@ stellarmembers:
      
   
 kittyhawkmembers:
-  - name: Athena Amanatidis
-    position: Kitty Hawk Officer
-    img: hawk.jpg
   - name: Tina Ton
+    position: Kitty Hawk Officer
+    img: tinakittyhawkcc.jpg
+  - name: Alysia Roh
     position: Kitty Hawk NCO
-    img: kittyhawk.jpg
-  - name: Trent Bien
+    img: alysiakittyhawknco.jpg	
+  - name: Samuel Chen
     position: Kitty Hawk NCO
-    img: trent.jpg
+    img: samuelkittyhawknco.jpg
     
 educationmembers:
   - name: Thu Vu
