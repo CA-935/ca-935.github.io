@@ -269,12 +269,12 @@ ypfmembers:
     img: jessicaypfnco.jpg
 
 aptmembers:
-  - name: Lynn Lu
-    position: APT Commander
-    img: CC APT.jpg
   - name: Nyssa Sais Montoya
+    position: APT Commander
+    img: aptcc1920.jpg
+  - name: Cassandra Portrey
     position: APT NCO
-    img: SGT APT.jpg
+    img: aptsgt1920.jpg
 
 cyberpatriotmembers:
   - name: Alex Roh
