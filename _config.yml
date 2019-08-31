@@ -225,12 +225,12 @@ kittyhawkmembers:
     img: samuelkittyhawknco.jpg
     
 educationmembers:
-  - name: Thu Vu
-    position: Education Officer
-    img: educationCC.jpg
   - name: Harshil Thakur
+    position: Education Officer
+    img: educationcc1920.jpg
+  - name: Neel Kumar
     position: Education NCO
-    img: educationSGT.jpg
+    img: educationsgt1920.jpg
 
 
 staffmembers:
