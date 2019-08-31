@@ -173,12 +173,12 @@ cgmembers:
 
 
 flagdetailmembers:
-  - name: Phoebe Lam
-    img: CC Flag Detail.jpg
+  - name: Trenton Bien
+    img: flagdetcc1920.jpg
     position: Flag Detail Commander
-  - name: Walter de Lorrell
+  - name: Vincent Dang
     position: Flag Detail NCO
-    img: fdSGT.jpg
+    img: flagdetsgt1920.jpg
 
 
 sabermembers:
