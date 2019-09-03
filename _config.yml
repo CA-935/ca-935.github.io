@@ -263,10 +263,10 @@ staffmembers:
 ypfmembers:
   - name: Mackenzie Trinh
     position: YPF Captain
-    img: mackenzieypfcc.jpg
+    img: mackenzieypfccFix.jpg
   - name: Jessica Tuey
     position: YPF Co-Captain
-    img: jessicaypfnco.jpg
+    img: jessicaypfncoFix.jpg
 
 aptmembers:
   - name: Nyssa Sais Montoya
