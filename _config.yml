@@ -195,8 +195,12 @@ unarmedmembers:
 
 academicmembers:
   - name: Raymond Sun
+    position: Academic Team Officer
+    img: Sun, Raymond.jpg
+  - name: Vanessa Zhou
     position: Academic Team NCO
-    img: academic.jpg
+    img: Zhou, Vanessa.jpg
+    
  
  
 stellarmembers:
