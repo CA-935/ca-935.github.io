@@ -100,52 +100,52 @@ alphamembers:
     img: alphasgt1920.jpg
    
 bravomembers:
-  - name: Michelle Resubal
+  - name: Samantha Scotchlas
     position: Bravo Flight Commander
-    img: bravoCC.jpg
-  - name: Aland Sinjari
+    img: bravocc1920.jpg
+  - name: Marcus Velasquez
     position: Bravo Flight Sergeant
-    img: bravoSGT.jpg
+    img: bravosgt1920.jpg
     
 charliemembers:
-  - name: Matthew Custodio
+  - name: Thu Vu
     position: Charlie Flight Commander
-    img: charlieCC.jpg
-  - name: Katherine Tat
+    img: charliecc1920.jpg
+  - name: Christina Nguyen
     position: Charlie Flight Sergeant
-    img: charlieSGT.jpg
+    img: charliesgt1920.jpg
     
 deltamembers:
-  - name: Brandy Opondo
+  - name: Christian Yoon
     position: Delta Flight Commander
-    img: deltaCC.jpg
-  - name: Philip Sargent
+    img: deltacc1920.jpg
+  - name: Joshua Pagaduan
     position: Delta Flight Sergeant
-    img: deltaSGT.jpg
+    img: deltasgt1920.jpg
     
 echomembers:
-  - name: Aish Kirawant
+  - name: Philip Sargent
     position: Echo Flight Commander
-    img: echoCC.jpg
-  - name: Christian Yoon
+    img: echocc1920.jpg
+  - name: Rutva Mehta
     position: Echo Flight Sergeant
-    img: echoSGT.jpg    
+    img: echosgt1920.jpg    
 
 foxtrotmembers:
-  - name: Athena Amanatidis
+  - name: Xavier dela Cruz
     position: Foxtrot Flight Commander
-    img: foxtrotCC.jpg
-  - name: Nyssa Sais Montoya
+    img: foxtrotcc1920.jpg
+  - name: Justin Nguyen
     position: Foxtrot Flight Sergeant
-    img: foxtrotSGT.jpg
+    img: foxtrotsgt1920.jpg
     
 golfmembers:
-  - name: Thomas Phan
+  - name: Ryan Ong
     position: Golf Flight Commander
-    img: golfCC.jpg
-  - name: Xavier dela Cruz
+    img: golfcc1920.jpg
+  - name: Rusell Lee
     position: Golf Flight Sergeant
-    img: golfSGT.jpg
+    img: golfsgt1920.jpg
 
     
     
