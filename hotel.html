@@ -1,0 +1,57 @@
+---
+layout: default
+title: Hotel Flight
+permalink: /hotel/
+---
+{% include wrap.html %}
+
+<div class="container mtb">    
+    <div class="row">
+        <div class="col-lg-6">
+            <br>
+            <p>Hotel Flight Commander: David Udom<br>
+            davidudom00@gmail.com<br>(858)226-9926<br>What’s up everyone, my name is David and I'm going to be your Hotel Flight Commander for the 2019-2020 school year! I’m currently in my senior year and I’ve also been a member of the Armed Fancy Drill Team since I was a freshman. Us seniors (or at least in JROTC) don’t care about a status symbol just because we’re the oldest. So if anyone would need anything to talk about (whether it's academically or otherwise), please let me know and I would do the best I could do to help you. On another note, I am very glad that Tom Rufino and I are the first individuals to command a Hotel flight for the first time in CA-935th’s 26 years of history! So I am very humbled and I cannot wait to see what’s going to be in store for this school year!
+
+</p>
+            <br><br>
+            <p>Hotel Flight Sergeant: Tom Rufino<br>
+            t.rufino72@gmail.com <br>(619) 383-4768<br>Hey, I’m c/TSgt Tom Rufino and I will be your Hotel Flight Sergeant for this year, and the first Hotel Flight Sergeant in the history of our Corps! I’m also the Armed Team NCO, so naturally I’m very excited for the experiences that this year has in store for me. When I’m not trying to desperately keep my grades up, I enjoy playing video games (mostly just TF2) and listening to music. I’m a big Weezer fan, so if you like Weezer feel free to come up to me and we can try and pinpoint when our music tastes when down the drain. In all seriousness though, I’m always there if you need me, either it be Armed Team related questions or anything in general, and we can try to make the best out of this year together. 
+Fun Fact One: the Bravo Flight Sergeant plays Demoknight because he can’t aim pills.
+Fun Fact Two: the Bravo Flight Sergeant is also a pathological liar.
+</p>
+
+       </div>
+    </div>
+    <! --/row -->
+</div>
+<! --/container -->
+<div class="container mtb">
+    <div class="row centered">
+        {% for hotelmember in site.hotelmembers %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ " /assets/img/operations/" | prepend: site.baseurl }}{{ hotelmember.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Links:</h3>
+                        {% for entry in hotelmember.social %}
+                        <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
+                            <i class="fa fa-{{ entry.title }}"></i>
+                        </a> 
+                        {% endfor %}
+                    </div>
+                    <!-- he bg -->
+                </div>
+                <!-- he view -->
+            </div>
+            <!-- he wrap -->
+            <h4>{{ hotelmember.name }}</h4>
+            <h5 class="ctitle">{{ hotelmember.position }}</h5>
+            <p>{{ hotelmember.text }}</p>
+            <div class="hline"></div>
+            <br>
+        </div>
+        <! --/col-lg-3 -->
+        {% endfor %}
+    </div>
+</div>
