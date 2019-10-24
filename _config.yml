@@ -284,12 +284,15 @@ aptmembers:
     img: aptsgt1920.jpg
 
 cyberpatriotmembers:
-  - name: Alex Roh
-    position: CyberPatriot Commander
-    img: cpcc.jpg
-  - name: Darius Yeung
+  - name: Mikella Nuzen
+    position: CyberPatriot SNCO
+    img: Nuzen, Mikella.jpg
+  - name: Jake Lee
     position: CyberPatriot NCO
-    img: SGT CP.jpg
+    img: Lee, Jake.jpg
+  - name: Patrick Ngo
+    position: CyberPatriot NCO
+    img: Ngo, Patrick.jpg
 
 # Clients information. Shown on Home and About pages.
 sponsors:
