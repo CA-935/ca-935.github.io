@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 [Here](https://docs.google.com/document/d/1xg2QYJ-BfBva6o6-aT7NCQS854y00YVSm-_wWNxI7Ew/edit?usp=sharing) is the permission slip for our movie night on the 15th. Please remember to turn it in before Friday, and don't forget your two cans. Hope to see you there!
 
