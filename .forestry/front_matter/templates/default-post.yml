@@ -1,7 +1,6 @@
 ---
 label: Default Post
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -21,6 +20,3 @@ fields:
   name: title
   label: Title
   description: Add a descriptive title here. It does not need to include the date.
-pages:
-- _posts/test-post.md
-- _posts/another-test-post.md
