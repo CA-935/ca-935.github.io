@@ -1,4 +1,4 @@
 ---
-title:  "Best Drilled Individual/Color Guard Drill Competition 2017"
-img: img10.jpg
+title:  "Best Drilled Platoon/Squadron 2019"
+img: bdpandbds2019.jpeg
 ---
