@@ -1,4 +1,4 @@
 ---
-title:  "Cadet Challenge 2018"
-img: img09.jpg
+title:  "IFly Field Trip"
+img: ifly.jpeg
 ---
