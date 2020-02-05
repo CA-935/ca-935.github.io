@@ -1,4 +1,4 @@
 ---
-title:  "Joint Brigade Ball 2018"
-img: img08.jpg
+title:  "JDRF Volunteering 2019"
+img: jdrf2019.jpeg
 ---
