@@ -1,4 +1,4 @@
 ---
-title:  "MCRD Marine Boot Camp Challenge 2018"
-img: bootcamp.png
+title:  "Congressman Scott Peters Visit"
+img: congressmanpetersvisit.jpeg
 ---
