@@ -1,4 +1,4 @@
 ---
-title:  "Brigade Exhibition Competition 2018"
-img: brigade.png
+title:  "Sweetwater Drill Competition 2019"
+img: sweetwater2019.jpg
 ---
