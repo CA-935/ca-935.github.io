@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 Check out these amazing Scholarship Opportunities!!!
