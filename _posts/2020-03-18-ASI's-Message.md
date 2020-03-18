@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Please read this letter from our ASI.
 
