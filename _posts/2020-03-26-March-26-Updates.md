@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 **Please take note on the following announcements:**
 -Exhibition drill is postponed(cancelled) until further notice. No AFJROTC unit may gather to participate and/or practice for the filming of a Drill/Color Guard video to be submitted, regarding any virtual competition participation.
@@ -20,6 +20,3 @@ published: false
 - The chat window will be enabled, so you can type questions that come up without interrupting.
 - We reccommend you come ready to take notes, as there will be a lot of info communicated during the meeting.
 - At the end, there will be a brief Q/A session with open mic/chat, allowing each cadet to ask questions. You can use the participants button to "raise your hand", which allows the moderator to see hands raised and call on people one at a time.
-
-
-
