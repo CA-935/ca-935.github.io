@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Cadet Leaders and Parents,
 
