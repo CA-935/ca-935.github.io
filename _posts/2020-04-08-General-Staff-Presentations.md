@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here is a message from our new Group Commander concerning General Staff.
 
