@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 We have received some great news regarding one of our cadets!
 
