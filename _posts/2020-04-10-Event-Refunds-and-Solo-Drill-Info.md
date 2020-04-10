@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 The following info is aimed towards Armed Team members or any cadet who wishes to participate in a solo Armed Exhibition competition. Please note that the participant must be a high school student, must use their OWN rifle(not unit/gov owned rifles), must have parent consent, participation is strictly independent and not connected to JROTC support in any way, the attire must be strictly civilian (trousers, plain collared shirt, footgear - no logos or identifying items on clothing), the routine must be 2-3 minutes with no strict area size (although 30'x30' is typical), and the participant is responsible for viewing the online SOP. The sign up sheet is [here](https://drive.google.com/file/d/1-Fcy-jqiUJVtMd5ULSQ7c6qwPA1dDJHJ/view?usp=sharing).
 
