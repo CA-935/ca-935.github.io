@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Scripps Ranch High School has launched a student tech help page that is supposed to get students up and running with setup help and access to other learning sites.
 
