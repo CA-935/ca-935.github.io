@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 - 2020-2021 Senior Staff Announcements Thursday, April 16 @2 pm with social hour 130-2 and 230-3 over Zoom; code is 952-415-911
 
