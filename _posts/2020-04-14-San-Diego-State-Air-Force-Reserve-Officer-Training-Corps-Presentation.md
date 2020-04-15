@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 If you are interested in the Air Force as a career, or AFROTC in college, SDSU is hosting an online expo on April 18, for a live info session for prospective students. This is the official info:
 
