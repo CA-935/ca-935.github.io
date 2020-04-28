@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here’s a message from your APT Commander:
 
