@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Attention all artists! The "Marines in Flight" student art contest is open to students in grades 6-8 and 9-12, there are cash prizes and winning entries will be displayed on the Flying Leatherneck Aviation Museum's website and in the museum's galleries. The online entries are due by May 15, 2020.
 
