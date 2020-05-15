@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 The United States Air Force’s Thunderbirds will be honoring local front-line healthcare workers with a series of flyovers of local hospitals in San Diego beginning at noon this Friday, May 15.
 
@@ -10,4 +10,4 @@ After leaving San Diego County, the Thunderbirds will continue their salutes ove
 
 The Thunderbirds have been honoring front-line healthcare workers with flyovers of medical facilities impacted by COVID-19 across the United States over the past few weeks.
 
-Look out for them!
+Give them a cheer!
