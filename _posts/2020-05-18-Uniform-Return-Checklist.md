@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 This is a message from your Logistics Commander concerning uniform returns. 
 Uniform Returns ONLY apply to Non-Returning RO Cadets. Cadets will be required to return ALL of these Uniform Items that are posted on the 1st attached link. DOUBLE CHECK that you have EVERYTHING on that list. Departing cadets will place all their UNIFORM ITEMS neatly in a sealed bag with the Label for the bag securely attached to it. The Label is on the second page of the 2nd attached link titled “Collection for Uniforms”.
