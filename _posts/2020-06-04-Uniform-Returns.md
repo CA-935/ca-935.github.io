@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Heyyy guys, I hope you are all ecstatic for the Virtual Awards Banquet tomorrow and please remember your attire! This post is about Uniform Returns, specifically for the Seniors and Non-Returning Cadets who were unable to return their uniforms during the previous specified dates.
 This upcoming Tuesday (6/9), ALL Seniors will have to RETURN their Regular and Team Uniforms. This will happen at the same time when you guys are picking up your graduation diplomas. There will be a station already in place for cadets to return their uniform parts.
