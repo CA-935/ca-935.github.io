@@ -1,5 +1,5 @@
 ---
 layout: post
-published: false
+published: true
 ---
-If you want to get ripped this summer, you can look over all of the previous weekly workout routines [here](https://docs.google.com/document/d/1ZzFiA7MbIUTytE5wtujTBqPVK9HYBHGdALRkxXwpWRo/edit?usp=sharing)! 
+If you want to get ripped this summer, you can look over all of the previous weekly workout routines [here](https://drive.google.com/drive/folders/1UbDGxi_ZbRkMVQBrmcwu3tOIEKHVt2Uf?usp=sharing)!
