@@ -253,9 +253,6 @@ staffmembers:
   - name: Tat, Katherine 
     position: Operations Commander
     img: Tat, Katherine.jpg
-  - name: Phan, Derek
-    position: Teams Commander
-    img: Phan, Derek.jpg
   - name: Ryan Ong
     position: Mission Support Commander
     img: Chad, Absolute.jpg
@@ -268,6 +265,9 @@ staffmembers:
   - name: Jacob Wong
     position: Logistics Commander
     img: Wong, Jacob.jpg
+  - name: Phan, Derek
+    position: Teams Commander
+    img: Phan, Derek.jpg
 
 ypfmembers:
   - name: Mackenzie Trinh
