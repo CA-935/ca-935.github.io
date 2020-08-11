@@ -24,7 +24,7 @@ permalink: /seniorstaff/
         {% for staffmember in site.staffmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-                <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="" width="100" height="100">
+                <img src="{{ "/assets/img/seniorstaff/" | prepend: site.baseurl }}{{ staffmember.img }}" alt="" width="250" height="250">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
@@ -42,6 +42,7 @@ permalink: /seniorstaff/
             <h4>{{ staffmember.name }}</h4>
             <h5 class="ctitle">{{ staffmember.position }}</h5>
             <p>{{ staffmember.text }}</p>
+            <div class="hline"></div>
             <br>
         </div>
         <! --/col-lg-3 -->
