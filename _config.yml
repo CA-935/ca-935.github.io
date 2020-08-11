@@ -265,7 +265,9 @@ staffmembers:
   - name: Justin Bui
     position: Public Affairs Commander
     img: Bui, Justin.jpeg
-    
+  - name: Jacob Wong
+    position: Logistics Commander
+    img: Wong, Jacob.jpg
 
 ypfmembers:
   - name: Mackenzie Trinh
