@@ -241,30 +241,30 @@ educationmembers:
 
 
 staffmembers:
-  - name: Matthew Custodio
+  - name: Christian Yoon
     position: Group Commander
-    img: matthewpic.jpg
-  - name: Eric Lee
+    img: Yoon, Christian.jpg
+  - name: Samantha Scotchlas
     position: Deputy Commander
-    img: eric.jpg
-  - name: Thomas Phan
+    img: Scotchlas, Samantha.jpg
+  - name: Philip Sargent
     position: First Sergeant
-    img: thomaspic.jpg
-  - name: Dylan Tran
+    img: Sargent, Philip.JPG
+  - name: Tat, Katherine 
     position: Operations Commander
-    img: dylan.jpg
-  - name: Athena Amanatidis
+    img: Tat, Katherine.jpg
+  - name: Phan, Derek
     position: Teams Commander
-    img: athena.jpg
-  - name: Marina Xu
+    img: Phan, Derek.jpg
+  - name: Ryan Ong
     position: Mission Support Commander
-    img: marina.jpg
-  - name: Michelle Resubal
+    img: Chad, Absolute.jpg
+  - name: Mackenzie Trinh
     position: Plans and Programs
-    img: michelleupdated.jpg
-  - name: Kyrstn Hall
+    img: Trinh, Mackenzie.JPG
+  - name: Justin Bui
     position: Public Affairs Commander
-    img: kyrstn.jpg
+    img: Bui, Justin.jpeg
     
 
 ypfmembers:
