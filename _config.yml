@@ -67,28 +67,28 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Kyrstn Hall 
+  - name: Justin Bui
     position: Public Affairs Officer
-    img: Hall, Kyrstn.jpg
+    img: Bui, Justin.jpeg
     
  
-  - name: Isabella Daza
-    position: Public Affairs NCO
-    img: Daza, Isabella.jpg
   - name: Khushi Chaudhari
     position: Public Affairs NCO
-    img: Chaudhari, Khushi.jpg
+    img: Chaudhari, Khushi2021.jpg
+  - name: Sanjana Santhosh
+    position: Public Affairs NCO
+    img: Santhosh, Sanjana.jpg
     
-  - name: Eric Kye
+  - name: Johann Welch
     position: Technology Officer
-    img: Kye, Eric.jpg
+    img: Welch, Johann.jpg
     
-  - name: Rohan Bharadwaj
+  - name: Sahithi Lingampalli
     position: Technology NCO
-    img: Bharadwaj, Rohan.jpg
-  - name: Justin Bui
+    img: Lingampalli, Sahithi.png
+  - name: Keshav Srinivasan
     position: Technology NCO
-    img: Bui, Justin.jpg
+    img: Srinivasan, Keshav.jpg
     
     
 alphamembers:
