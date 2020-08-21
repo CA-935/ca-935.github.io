@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Hello everyone! These are the promotion tests for vSLS! Good Luck! Remember that these close 9:56 PM tommorow, 8/22.
 
