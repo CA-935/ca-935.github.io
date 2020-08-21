@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here is a very important announcement from our StellarXplorers SNCO about joining StellarCamp:
 
