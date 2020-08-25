@@ -270,12 +270,12 @@ staffmembers:
     img: Phan, Derek.jpg
 
 ypfmembers:
-  - name: Mackenzie Trinh
-    position: YPF Captain
-    img: mackenzieypfccFix.jpg
   - name: Jessica Tuey
+    position: YPF Captain
+    img: ypfcc2021.JPG
+  - name: Sabella Ibinyopakaka
     position: YPF Co-Captain
-    img: jessicaypfncoFix.jpg
+    img: ypfsgt2021.JPG
 
 aptmembers:
   - name: Nyssa Sais Montoya
