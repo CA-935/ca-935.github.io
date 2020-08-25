@@ -272,10 +272,10 @@ staffmembers:
 ypfmembers:
   - name: Jessica Tuey
     position: YPF Captain
-    img: ypfcc2021.JPG
+    img: ypfcc2021.jpg 
   - name: Sabella Ibinyopakaka
     position: YPF Co-Captain
-    img: ypfsgt2021.JPG
+    img: ypfsgt2021.jpg
 
 aptmembers:
   - name: Nyssa Sais Montoya
