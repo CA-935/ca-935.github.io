@@ -167,10 +167,10 @@ armedmembers:
     img: armedsgt2021.jpg
 
 cgmembers:
-  - name: Elijah Bautista 
+  - name: Derek Phan
     position: Color Guard Commander
-    img: cgcc2021.jpg
-  - name: Ethan Ramirez
+    img: cgcc1920.jpg
+  - name: Elijah Bautista
     position: Color Guard NCO
     img: cgsgt1920.jpg
 
@@ -204,10 +204,10 @@ unarmedmembers:
 academicmembers:
   - name: Raymond Sun
     position: Academic Team Officer
-    img: Sun, Raymond.jpg
-  - name: Vanessa Zhou
+    img: academicbowlcc2021.jpg
+  - name: Michael He
     position: Academic Team NCO
-    img: Zhou, Vanessa.jpg
+    img: academicbowlsgt2021.jpg
     
  
  
