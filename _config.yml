@@ -167,12 +167,12 @@ armedmembers:
     img: armedsgt2021.jpg
 
 cgmembers:
-  - name: Elijah Bautista
+  - name: Derek Phan
     position: Color Guard Commander
-    img: cgcc2021.jpg
-  - name: Ethan Ramirez
+    img: cgcc1920.jpg
+  - name: Elijah Bautista
     position: Color Guard NCO
-    img: 
+    img: cgsgt1920.jpg
 
 
 flagdetailmembers:
@@ -212,12 +212,15 @@ academicmembers:
  
  
 stellarmembers:
-  - name: Marcus Velasquez
+  - name: Carter Johnson
+    position: Stellar Xplorers SNCO
+    img: stellarsnco2021.jpg
+  - name: Kaushik Vada
     position: Stellar Xplorers NCO
-    img: 20192020stellarxsgt1.jpg
-  - name: Rutva Mehta
+    img: stellarsgt2021b.jpg
+  - name: Andrew Zhang
     position: Stellar Xplorers NCO
-    img: 20192020stellarxsgt2.jpg
+    img: stellarsgt2021a.jpg  
      
   
 kittyhawkmembers:
