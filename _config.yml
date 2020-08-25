@@ -193,12 +193,12 @@ sabermembers:
     img: sabersgt2021.jpg
 
 unarmedmembers:
-  - name: Abel Hurtado
-    position: Unarmed Team Commander
-    img: ufdtcc1920.jpg
   - name: Rachelle Soriano
+    position: Unarmed Team Commander
+    img: unarmedcc2021.jpg
+  - name: Christopher Villalobos
     position: Unarmed Team NCO
-    img: ufdtsgt1920.jpg
+    img: unarmedsgt2021.jpg
 
 
 academicmembers:
