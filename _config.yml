@@ -75,6 +75,7 @@ members:
   - name: Khushi Chaudhari
     position: Public Affairs NCO
     img: Chaudhari, Khushi2021.jpg
+  
   - name: Sanjana Santhosh
     position: Public Affairs NCO
     img: Santhosh, Sanjana.jpg
@@ -167,12 +168,12 @@ armedmembers:
     img: armedsgt2021.jpg
 
 cgmembers:
-  - name: Derek Phan
-    position: Color Guard Commander
-    img: cgcc1920.jpg
   - name: Elijah Bautista
+    position: Color Guard Commander
+    img: cgcc2021.jpg
+  - name: Ethan Ramirez
     position: Color Guard NCO
-    img: cgsgt1920.jpg
+    img: cgsgt2021.jpg
 
 
 flagdetailmembers:
