@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 This is a message from Deputy Commander c/Lt. Col Samantha Scotchlas about our cadet handbook!
 
