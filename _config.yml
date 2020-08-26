@@ -281,23 +281,21 @@ ypfmembers:
     img: ypfsgt2021.JPG 
 
 aptmembers:
-  - name: Nyssa Sais Montoya
-    position: APT Commander
-    img: aptcc1920.jpg
   - name: Cassandra Portrey
+    position: APT Commander
+    img: aptcc2021.JPG
+  - name: Isabella Canales
     position: APT NCO
-    img: aptsgt1920.jpg
+    img: aptsgt2021.jpg
 
 cyberpatriotmembers:
   - name: Mikella Nuzen
-    position: CyberPatriot SNCO
-    img: Nuzen, Mikella.jpg
-  - name: Jake Lee
+    position: CyberPatriot Officer
+    img: cyberpatriotcc2021.JPG
+  - name: Michael He
     position: CyberPatriot NCO
-    img: Lee, Jake.jpg
-  - name: Patrick Ngo
-    position: CyberPatriot NCO
-    img: Ngo, Patrick.jpg
+    img: cyberpatriotsgt2021.JPG
+ 
 
 # Clients information. Shown on Home and About pages.
 sponsors:
