@@ -2,7 +2,7 @@
 layout: post
 published: true
 ---
-Here is a message from our First Sargeant about a new opportunity for you! 
+Here is a message from our First Sergeant about a new opportunity for you! 
 
 Happy Thursday, everyone!
 A.G.A. Nation is providing two opportunities for high schools and JROTC units across the country to participate in E-Sports and Gaming activities and tournaments!
