@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here is a message from our First Sargeant about a new opportunity for you! 
 
