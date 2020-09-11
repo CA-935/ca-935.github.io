@@ -4,10 +4,11 @@ published: true
 ---
 The following is a message from our Operations commander!
 
+
 Good evening!
 
 
-Our first reoccurring All Call Meeting is **Monday (14 September) from 1400-1500**! The code is the same one used for daily class (**775 351 5443**). All Call Meetings are used to distribute information to the entire corps. **All JROTC cadets are required to attend All Call Meetings every week** unless they are excused by their Flight Commander or Sergeant. There is also an optional Social Half Hour from 1500-1530. Cadets are highly encouraged to join!
+Our first reoccurring All Call Meeting is **Monday (14 September) from 1400-1500**! The code is the same one used for daily class. All Call Meetings are used to distribute information to the entire corps. **All JROTC cadets are required to attend All Call Meetings every week** unless they are excused by their Flight Commander or Sergeant. There is also an optional Social Half Hour from 1500-1530. Cadets are highly encouraged to join!
 
 
 The following is the protocol for the Zoom meeting:
