@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Kitty Hawk is looking for returning or new upperclassmen that would like to become Kitty Hawk Tutors!
 If you're interested in tutoring other cadets while also gaining community service hours, please consider applying. 
