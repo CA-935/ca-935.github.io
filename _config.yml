@@ -117,12 +117,12 @@ charliemembers:
     img: Pham, Jessica.jpg
     
 deltamembers:
-  - name: Christian Yoon
-    position: Delta Flight Commander
-    img: deltacc1920.jpg
   - name: Joshua Pagaduan
+    position: Delta Flight Commander
+    img: Pagaduan, Joshua.JPG
+  - name: Hilary Nguyen
     position: Delta Flight Sergeant
-    img: deltasgt1920.jpg
+    img: Nguyen, Hilary.PNG
     
 echomembers:
   - name: Philip Sargent
