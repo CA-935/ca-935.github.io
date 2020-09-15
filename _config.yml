@@ -93,20 +93,20 @@ members:
     
     
 alphamembers:
-  - name: Katherine Tat
+  - name: Abel Hurtado
     position: Alpha Flight Commander
-    img: alphacc1920.jpg
-  - name: Patrick Ngo
+    img: Hurtado, Abel.jpg
+  - name: Pahel Srivastava
     position: Alpha Flight Sergeant
-    img: alphasgt1920.jpg
+    img: Srivastava, Pahel.jpg
    
 bravomembers:
-  - name: Samantha Scotchlas
-    position: Bravo Flight Commander
-    img: bravocc1920.jpg
   - name: Marcus Velasquez
+    position: Bravo Flight Commander
+    img: Velasquez, Marcus.jpg
+  - name: Haleigh Quinn
     position: Bravo Flight Sergeant
-    img: bravosgt1920.jpg
+    img: Quinn, Haleigh.jpg
     
 charliemembers:
   - name: EJ Buan
