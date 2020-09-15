@@ -166,6 +166,21 @@ foxtrotmembers:
        - title: envelope
         url: mailto:luckyhonglol@gmail.com
 
+golfmembers:
+  - name: Ryan Ong
+    position: Golf Flight Commander
+    img: golfcc1920.jpg
+  - name: Rusell Lee
+    position: Golf Flight Sergeant
+    img: golfsgt1920.jpg
+
+hotelmembers:
+  - name: David Udom
+    position: Hotel Flight Commander
+    img: Udom, David.jpg
+  - name: Tom Rufino
+    position: Hotel Flight Sergeant
+    img: Rufino, Tom.jpg
     
     
 
