@@ -109,10 +109,10 @@ alphamembers:
 bravomembers:
   - name: Marcus Velasquez
     position: Bravo Flight Commander
+    img: Velazquez, Marcus.JPG
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
-    img: Velazquez, Marcus.JPG
   - name: Haleigh Quinn
     position: Bravo Flight Sergeant
     img: Quinn, Haleigh .JPG
