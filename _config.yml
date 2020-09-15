@@ -175,7 +175,7 @@ foxtrotmembers:
     img: foxtrotsgt1920.jpg
     social:
        - title: envelope
-        url: mailto:luckyhonglol@gmail.com
+         url: mailto:luckyhonglol@gmail.com
 
 golfmembers:
   - name: Ryan Ong
