@@ -102,18 +102,21 @@ alphamembers:
   - name: Pahel Srivastava
     position: Alpha Flight Sergeant
     img: Srivastava, Pahel.jpg
+    social:
       - title: envelope
         url: mailto:pahel.srivastava@gmail.com
    
 bravomembers:
   - name: Marcus Velasquez
     position: Bravo Flight Commander
+    social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
     img: Velazquez, Marcus.JPG
   - name: Haleigh Quinn
     position: Bravo Flight Sergeant
     img: Quinn, Haleigh .JPG
+    social:
       - title: envelope
         url: mailto:hkquinn4@gmail.com
     
@@ -121,11 +124,13 @@ charliemembers:
   - name: EJ Buan
     position: Charlie Flight Commander
     img: Buan, EJ.JPG
+    social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
   - name: Jessica Pham
     position: Charlie Flight Sergeant
     img: Pham, Jessica.jpg
+    social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
 
@@ -134,11 +139,13 @@ deltamembers:
   - name: Joshua Pagaduan
     position: Delta Flight Commander
     img: Pagaduan, Joshua.JPG
+    social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
   - name: Hilary Nguyen
     position: Delta Flight Sergeant
     img: Nguyen, Hilary.PNG
+    social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
     
@@ -146,11 +153,13 @@ echomembers:
   - name: Philip Sargent
     position: Echo Flight Commander
     img: echocc1920.jpg
+    social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
   - name: Rutva Mehta
     position: Echo Flight Sergeant
     img: echosgt1920.jpg  
+    social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
 
@@ -158,11 +167,13 @@ foxtrotmembers:
   - name: Xavier dela Cruz
     position: Foxtrot Flight Commander
     img: foxtrotcc1920.jpg
+    social:
       - title: envelope
         url: mailto:christinan2004@gmail.com
   - name: Justin Nguyen
     position: Foxtrot Flight Sergeant
     img: foxtrotsgt1920.jpg
+    social:
        - title: envelope
         url: mailto:luckyhonglol@gmail.com
 
