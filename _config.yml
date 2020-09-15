@@ -102,62 +102,69 @@ alphamembers:
   - name: Pahel Srivastava
     position: Alpha Flight Sergeant
     img: Srivastava, Pahel.jpg
+      - title: envelope
+        url: mailto:pahel.srivastava@gmail.com
    
 bravomembers:
   - name: Marcus Velasquez
     position: Bravo Flight Commander
+      - title: envelope
+        url: mailto:marcusvelasquez132@gmail.com
     img: Velazquez, Marcus.JPG
   - name: Haleigh Quinn
     position: Bravo Flight Sergeant
     img: Quinn, Haleigh .JPG
+      - title: envelope
+        url: mailto:hkquinn4@gmail.com
     
 charliemembers:
   - name: EJ Buan
     position: Charlie Flight Commander
     img: Buan, EJ.JPG
+      - title: envelope
+        url: mailto:ejeffeljohbuan24@gmail.com
   - name: Jessica Pham
     position: Charlie Flight Sergeant
     img: Pham, Jessica.jpg
+      - title: envelope
+        url: mailto:jphamca@yahoo.com
+
     
 deltamembers:
   - name: Joshua Pagaduan
     position: Delta Flight Commander
     img: Pagaduan, Joshua.JPG
+      - title: envelope
+        url: mailto:j3pag280@gmail.com
   - name: Hilary Nguyen
     position: Delta Flight Sergeant
     img: Nguyen, Hilary.PNG
+      - title: envelope
+        url: mailto:hi.04.nguyen@gmail.com
     
 echomembers:
   - name: Philip Sargent
     position: Echo Flight Commander
     img: echocc1920.jpg
+      - title: envelope
+        url: mailto:jusnguyen1@gmail.com
   - name: Rutva Mehta
     position: Echo Flight Sergeant
-    img: echosgt1920.jpg    
+    img: echosgt1920.jpg  
+      - title: envelope
+        url: mailto:michaelhe2016@gmail.com  
 
 foxtrotmembers:
   - name: Xavier dela Cruz
     position: Foxtrot Flight Commander
     img: foxtrotcc1920.jpg
+      - title: envelope
+        url: mailto:christinan2004@gmail.com
   - name: Justin Nguyen
     position: Foxtrot Flight Sergeant
     img: foxtrotsgt1920.jpg
-    
-golfmembers:
-  - name: Ryan Ong
-    position: Golf Flight Commander
-    img: golfcc1920.jpg
-  - name: Rusell Lee
-    position: Golf Flight Sergeant
-    img: golfsgt1920.jpg
-    
-hotelmembers:
-  - name: David Udom
-    position: Hotel Flight Commander
-    img: Udom, David.jpg
-  - name: Tom Rufino
-    position: Hotel Flight Sergeant
-    img: Rufino, Tom.jpg
+       - title: envelope
+        url: mailto:luckyhonglol@gmail.com
 
     
     
