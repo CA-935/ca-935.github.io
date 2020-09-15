@@ -96,6 +96,9 @@ alphamembers:
   - name: Abel Hurtado
     position: Alpha Flight Commander
     img: Hurtado, Abel.JPG
+    social:
+      - title: envelope
+        url: mailto:abelhurt13@gmail.com
   - name: Pahel Srivastava
     position: Alpha Flight Sergeant
     img: Srivastava, Pahel.jpg
