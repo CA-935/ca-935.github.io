@@ -152,7 +152,7 @@ deltamembers:
 echomembers:
   - name: Justin Nguyen
     position: Echo Flight Commander
-    img: Nguyen,Justin.jpg
+    img: Nguyen, Justin.jpg
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
@@ -166,7 +166,7 @@ echomembers:
 foxtrotmembers:
   - name: Christina Nguyen
     position: Foxtrot Flight Commander
-    img: Nguyen,Christina.JPG
+    img: Nguyen, Christina.JPG
     social:
       - title: envelope
         url: mailto:christinan2004@gmail.com
