@@ -150,29 +150,29 @@ deltamembers:
         url: mailto:hi.04.nguyen@gmail.com
     
 echomembers:
-  - name: Philip Sargent
+  - name: Justin Nguyen
     position: Echo Flight Commander
-    img: echocc1920.jpg
+    img: Nguyen,Justin.jpg
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
-  - name: Rutva Mehta
+  - name: Michael He
     position: Echo Flight Sergeant
-    img: echosgt1920.jpg  
+    img: He, Michael.JPG
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
 
 foxtrotmembers:
-  - name: Xavier dela Cruz
+  - name: Christina Nguyen
     position: Foxtrot Flight Commander
-    img: foxtrotcc1920.jpg
+    img: Nguyen,Christina.JPG
     social:
       - title: envelope
         url: mailto:christinan2004@gmail.com
-  - name: Justin Nguyen
+  - name: Lucky Hong
     position: Foxtrot Flight Sergeant
-    img: foxtrotsgt1920.jpg
+    img: Hong, Lucky.PNG
     social:
        - title: envelope
          url: mailto:luckyhonglol@gmail.com
