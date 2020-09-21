@@ -284,9 +284,15 @@ staffmembers:
   - name: Christian Yoon
     position: Group Commander
     img: Yoon, Christian.jpg
+    social:
+      - title: envelope
+        url: mailto:cky2003florida@gmail.com
   - name: Samantha Scotchlas
     position: Deputy Commander
     img: Scotchlas, Samantha.jpg
+    social:
+      - title: envelope
+        url: mailto:samantha.scotchlas@gmail.com
   - name: Philip Sargent
     position: First Sergeant
     img: Sargent, Philip.JPG
