@@ -296,24 +296,45 @@ staffmembers:
   - name: Philip Sargent
     position: First Sergeant
     img: Sargent, Philip.JPG
+    social:
+      - title: envelope
+        url: mailto:philipsargent005@gmail.com
   - name: Katherine Tat
     position: Operations Commander
     img: Tat, Katherine.jpg
+    social:
+      - title: envelope
+        url: mailto:tkatherine2003@gmail.com
   - name: Ryan Ong
     position: Mission Support Commander
     img: Chad, Absolute.jpg
+    social:
+      - title: envelope
+        url: mailto:r.ong40915@gmail.com
   - name: Mackenzie Trinh
     position: Plans and Programs
     img: Trinh, Mackenzie.JPG
+    social:
+      - title: envelope
+        url: mailto:mackenzietrinh@gmail.com
   - name: Justin Bui
     position: Public Affairs Commander
     img: Bui, Justin.jpeg
+    social:
+      - title: envelope
+        url: mailto:justin7354@gmail.com
   - name: Jacob Wong
     position: Logistics Commander
     img: Wong, Jacob.jpg
+    social:
+      - title: envelope
+        url: mailto:jacwub1738@gmail.com
   - name: Derek Phan
     position: Teams Commander
     img: Phan, Derek.jpg
+    social:
+      - title: envelope
+        url: mailto:derekphan2927@gmail.com
 
 ypfmembers:
   - name: Jessica Tuey
