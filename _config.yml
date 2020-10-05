@@ -198,44 +198,44 @@ hotelmembers:
 armedmembers:
   - name: Tom Rufino
     position: Armed Team Commander
-    img: armedcc2021.jpg
+    img: Rufino, Tom 20202021.jpg
   - name: Xavier Rico
     position: Armed Team NCO
-    img: armedsgt2021.jpg
+    img: Rico, Xavier 20202021.jpg
 
 cgmembers:
   - name: Elijah Bautista
     position: Color Guard Commander
-    img: cgcc2021.jpg
+    img: Bautista, Elijah 20202021.jpg
   - name: Ethan Ramirez
     position: Color Guard NCO
-    img: cgsgt2021.jpg
+    img: Ramirez, Ethan 20202021.jpg
 
 
 flagdetailmembers:
   - name: Eric Kye
-    img: flagdetailcc2021.jpg
+    img: Kye, Eric 20202021.jpg
     position: Flag Detail Commander
   - name: Lea Chanthaluxay
     position: Flag Detail NCO
-    img: flagdetailsgt2021.jpg
+    img: Chanthaluxay, Lea 20202021.jpg
 
 
 sabermembers:
   - name: Jeremy Doan 
     position: Saber Team Commander
-    img: sabercc2021.jpg
+    img: Doan, Jeremy 20202021.jpg
   - name: Jason Zhao
     position: Saber Team NCO
-    img: sabersgt2021.jpg
+    img: Zhao, Jason 20202021.jpg
 
 unarmedmembers:
   - name: Rachelle Soriano
     position: Unarmed Team Commander
-    img: unarmedcc2021.jpg
+    img: Soriano, Rachelle 20202021.jpg
   - name: Christopher Villalobos
     position: Unarmed Team NCO
-    img: unarmedsgt2021.jpg
+    img: Villalobos, Christopher 20202021.jpg
 
 
 academicmembers:
