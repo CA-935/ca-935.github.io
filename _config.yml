@@ -198,53 +198,53 @@ hotelmembers:
 armedmembers:
   - name: Tom Rufino
     position: Armed Team Commander
-    img: Rufino, Tom 20202021.jpg
+    img: Rufino, Tom 20202021.png
   - name: Xavier Rico
     position: Armed Team NCO
-    img: Rico, Xavier 20202021.jpg
+    img: Rico, Xavier 20202021.png
 
 cgmembers:
   - name: Elijah Bautista
     position: Color Guard Commander
-    img: Bautista, Elijah 20202021.jpg
+    img: Bautista, Elijah 20202021.png
   - name: Ethan Ramirez
     position: Color Guard NCO
-    img: Ramirez, Ethan 20202021.jpg
+    img: Ramirez, Ethan 20202021.png
 
 
 flagdetailmembers:
   - name: Eric Kye
-    img: Kye, Eric 20202021.jpg
+    img: Kye, Eric 20202021.png
     position: Flag Detail Commander
   - name: Lea Chanthaluxay
     position: Flag Detail NCO
-    img: Chanthaluxay, Lea 20202021.jpg
+    img: Chanthaluxay, Lea 20202021.png
 
 
 sabermembers:
   - name: Jeremy Doan 
     position: Saber Team Commander
-    img: Doan, Jeremy 20202021.jpg
+    img: Doan, Jeremy 20202021.png
   - name: Jason Zhao
     position: Saber Team NCO
-    img: Zhao, Jason 20202021.jpg
+    img: Zhao, Jason 20202021.png
 
 unarmedmembers:
   - name: Rachelle Soriano
     position: Unarmed Team Commander
-    img: Soriano, Rachelle 20202021.jpg
+    img: Soriano, Rachelle 20202021.png
   - name: Christopher Villalobos
     position: Unarmed Team NCO
-    img: Villalobos, Christopher 20202021.jpg
+    img: Villalobos, Christopher 20202021.png
 
 
 academicmembers:
   - name: Raymond Sun
     position: Academic Team Officer
-    img: academicbowlcc2021.jpg
+    img: Sun, Raymond 20202021.png
   - name: Kevin Zhao
     position: Academic Team NCO
-    img: academicbowlsgt2021.jpg
+    img: Zhao, Kevin 20202021.png
     
  
  
@@ -339,26 +339,26 @@ staffmembers:
 ypfmembers:
   - name: Jessica Tuey
     position: YPF Captain
-    img: ypfcc2021.JPG
+    img: Tuey, Jessica 20202021.JPG
   - name: Sabella Ibinyopakaka
     position: YPF Co-Captain
-    img: ypfsgt2021.JPG 
+    img: Ibinyopakaka, Sabella 20202021.JPG 
 
 aptmembers:
   - name: Cassandra Portrey
     position: APT Commander
-    img: aptcc2021.JPG
+    img: Portrey, Cassandra 20202021.JPG
   - name: Isabella Canales
     position: APT NCO
-    img: aptsgt2021.jpg
+    img: Canales, Isabella 20202021.jpg
 
 cyberpatriotmembers:
   - name: Mikella Nuzen
     position: CyberPatriot Officer
-    img: cyberpatriotcc2021.JPG
+    img: Nuzen, Mikella 20202021.JPG
   - name: Michael He
     position: CyberPatriot NCO
-    img: cyberpatriotsgt2021.JPG
+    img: He, Michael 20202021.JPG
  
 
 # Clients information. Shown on Home and About pages.
