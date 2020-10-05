@@ -69,27 +69,28 @@ address:
 members:
   - name: Justin Bui
     position: Public Affairs Officer
-    img: Bui, Justin.jpeg
+    img: Bui, Justin 20202021.png
     
  
   - name: Khushi Chaudhari
     position: Public Affairs NCO
-    img: Chaudhari, Khushi2021.jpg
+    img: Chaudhari, Khushi 20202021.png
   
   - name: Sanjana Santhosh
     position: Public Affairs NCO
-    img: Santhosh, Sanjana.jpg
+    img: Santhosh, Sanjana 20202021.png
     
   - name: Johann Welch
     position: Technology Officer
-    img: Welch, Johann.jpg
+    img: Welch, Johann 20202021.png
     
   - name: Sahithi Lingampalli
     position: Technology NCO
-    img: Lingampalli, Sahithi.png
+    img: Lingampalli, Sahithi 20202021.png
+
   - name: Keshav Srinivasan
     position: Technology NCO
-    img: Srinivasan, Keshav.jpg
+    img: Srinivasan, Keshav 20202021.png
     
     
 alphamembers:
@@ -249,36 +250,39 @@ academicmembers:
  
  
 stellarmembers:
+  - name: Rutva Mehta
+    position: Stellar Xplorers Officer
+    img: Mehta, Rutva 20202021.png
   - name: Carter Johnson
     position: Stellar Xplorers SNCO
-    img: stellarsnco2021.jpg
+    img: Johnson, Carter 20202021.jpg
   - name: Kaushik Vada
     position: Stellar Xplorers NCO
-    img: stellarsgt2021b.jpg
+    img: Vada, Kaushik 20202021.jpg
   - name: Andrew Zhang
     position: Stellar Xplorers NCO
-    img: stellarsgt2021a.jpg  
+    img: Zhang, Andrew 20202021.jpg  
      
   
 kittyhawkmembers:
   - name: Trenton Bien
     position: Kitty Hawk Officer
-    img: Bien, Trenton.jpeg
+    img: Bien, Trenton 20202021.jpeg
   - name: Britney Ton
     position: Kitty Hawk NCO
-    img: Ton, Britney.jpeg
+    img: Ton, Britney 20202021.jpeg
   - name: Shruti Natala
     position: Kitty Hawk NCO
-    img: Natala, Shruti.jpg
+    img: Natala, Shruti 20202021.jpg
     
 educationmembers:
   - name: Neel Kumar
     position: Education Officer
-    img: educationcc2021.jpeg
+    img: Kumar, Neel 20202021.jpeg
   - name: Mansi Sharma
     position: Education NCO
-    img: educationsgt2021.jpg
-
+    img: Sharma, Mansi 20202021.jpg
+    
 
 staffmembers:
   - name: Christian Yoon
