@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Good Evening Cadets! 
 
 
-The first day to dropoff donations for the care-house project will be tomorrow (10/7) from 1:30-3:30pm!!
+The first day to dropoff donations for the care-house project will be tomorrow (10/7) from 1:30 - 3:30pm!!
 
 
 If you send a picture of your receipt (to mackenzietrinh@gmail.com) you will be rewarded merits and volunteer hours: 
