@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 This is a message from our first sergeant!
 
