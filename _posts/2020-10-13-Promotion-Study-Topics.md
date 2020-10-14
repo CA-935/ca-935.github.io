@@ -23,4 +23,4 @@ Below is a list of topics to study, which corresponds to the rank that you will 
 Have a great rest of the week, everyone! Hope to see you all earn some new stripes and bars next Thursday!
 
 
-- _c/CMSgt Philip Sargent_
+_c/CMSgt Philip Sargent_
