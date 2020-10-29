@@ -284,37 +284,37 @@ educationmembers:
 staffmembers:
   - name: Christian Yoon
     position: Group Commander
-    img: Yoon, Christian.jpg
+    img: Yoon, Christian.png
     social:
       - title: envelope
         url: mailto:cky2003florida@gmail.com
   - name: Samantha Scotchlas
     position: Deputy Commander
-    img: Scotchlas, Samantha.jpg
+    img: Scotchlas, Samantha.png
     social:
       - title: envelope
         url: mailto:samantha.scotchlas@gmail.com
   - name: Philip Sargent
     position: First Sergeant
-    img: Sargent, Philip.JPG
+    img: Sargent, Philip.png
     social:
       - title: envelope
         url: mailto:philipsargent005@gmail.com
   - name: Katherine Tat
     position: Operations Commander
-    img: Tat, Katherine.jpg
+    img: Tat, Katherine.png
     social:
       - title: envelope
         url: mailto:tkatherine2003@gmail.com
   - name: Ryan Ong
     position: Mission Support Commander
-    img: Chad, Absolute.jpg
+    img: Ong, Ryan.png
     social:
       - title: envelope
         url: mailto:r.ong40915@gmail.com
   - name: Mackenzie Trinh
     position: Plans and Programs
-    img: Trinh, Mackenzie.JPG
+    img: Trinh, Mackenzie.png
     social:
       - title: envelope
         url: mailto:mackenzietrinh@gmail.com
@@ -326,13 +326,13 @@ staffmembers:
         url: mailto:justin7354@gmail.com
   - name: Jacob Wong
     position: Logistics Commander
-    img: Wong, Jacob.jpg
+    img: Wong, Jacob.png
     social:
       - title: envelope
         url: mailto:jacwub1738@gmail.com
   - name: Derek Phan
     position: Teams Commander
-    img: Phan, Derek.jpg
+    img: Phan, Derek.png
     social:
       - title: envelope
         url: mailto:derekphan2927@gmail.com
