@@ -1,7 +1,6 @@
 ---
 layout: post
 published: false
-tags: ''
 ---
 ## College Applications & FAFSA Help!
 
@@ -17,4 +16,3 @@ Time: Nov 5, 2020 04:30 PM Pacific Time (US and Canada)
 Zoom Meeting Link:
 https://sandiegounified.zoom.us/j/83406653462
 Meeting ID: 834 0665 3462
-
