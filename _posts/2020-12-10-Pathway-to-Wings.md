@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 If you are interested in flight or the Air Force, check this out!
 
