@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 Here's a message from Logistics CC,  c/Capt. Jacob Wong:
 
