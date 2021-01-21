@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 Here's a message from PA CC c/Capt Justin Bui!  
 Hello everyone! If you are interested in virtual Boys' State (which will be conducted from June 19-25, 2021) check out this flier for more info on this valuable opportunity. 
