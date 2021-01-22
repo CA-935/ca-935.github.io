@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Happy Friday everyone! I hope your finals went well.
 
