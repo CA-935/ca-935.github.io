@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Oh wonderful friends,
 Group and Deputy Commander Selections are COMING SOON!!!
