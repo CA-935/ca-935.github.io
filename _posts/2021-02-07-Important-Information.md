@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Hello everyone! [This](https://drive.google.com/file/d/1rteoe2MavB_MC_qhzvxWgcCSqtAKNMZK/view?usp=sharing) is important info for the week of February 8th. 
 
