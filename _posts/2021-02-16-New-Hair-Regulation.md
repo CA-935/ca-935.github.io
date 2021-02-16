@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 There are new female hair regulations! You can find them listed below:
 ![hairex1.png]({{site.baseurl}}/media/hairex1.png)
