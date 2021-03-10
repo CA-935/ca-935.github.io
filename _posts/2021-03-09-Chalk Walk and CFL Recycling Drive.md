@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Here's a a message from c/Capt Mackenzie Trinh!
 
