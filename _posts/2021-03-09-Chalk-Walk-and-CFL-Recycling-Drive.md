@@ -2,8 +2,6 @@
 layout: post
 published: true
 ---
-## Chalk Walk and CFL Recycling Drive
-
 Here's a a message from c/Capt Mackenzie Trinh!
 
 This month we will be participating in two community service events:
