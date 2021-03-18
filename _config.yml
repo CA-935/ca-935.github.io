@@ -240,6 +240,9 @@ academicmembers:
   - name: Raymond Sun
     position: Academic Team Officer
     img: Sun, Raymond 20202021.jpg
+    social:
+      - title: envelope
+        url: https://docs.google.com/document/d/1eYUdmOzLxk42rNqDRUjpCIHvBcIcKsicNEjYhG2BLu0/edit?usp=sharing
   - name: Kevin Zhao
     position: Academic Team NCO
     img: Zhao, Kevin 20202021.jpg
