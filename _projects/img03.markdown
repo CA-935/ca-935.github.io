@@ -1,4 +1,4 @@
 ---
 title:  "Air Show 2019"
-img: airshowqr.png
+img: airshow19.JPG
 ---
