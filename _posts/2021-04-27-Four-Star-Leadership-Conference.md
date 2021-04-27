@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 The Four Star Leadership Conference is approaching! This is an amazing opportunity and we highly suggest you apply!
 
