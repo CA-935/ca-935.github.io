@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Hello, this is an important message about applying for SDYLC!
 
