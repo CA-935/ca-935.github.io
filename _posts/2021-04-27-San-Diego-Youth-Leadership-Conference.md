@@ -25,4 +25,4 @@ Any students who attend may also attend, if still eligible, the four day three n
 The applications are attached. One is fillable online. The signatures can be electronic or pasted in. If you have questions, contact Companion Debbie Kash at applications@sdylc.org
 Thank you!
 
-[Here](sdylc.org/application/) is the website to locate both the printable and fillable applications. These are due to MSgt. Toledo or Col. Tucker by May 7!
+Here is the website to locate both the printable and fillable applications. These are due to MSgt. Toledo or Col. Tucker by May 7! http://www.sdylc.org/application/
