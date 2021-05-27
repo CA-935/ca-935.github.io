@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Check out the SRCA Newsletter Article in which your beautiful Chalk Walk photos were featured (See Page 53)!
 
