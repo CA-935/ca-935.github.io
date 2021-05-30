@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Hello everyone! Here is a message from Col. Tucker about an important and FREE opportunity!
 "
