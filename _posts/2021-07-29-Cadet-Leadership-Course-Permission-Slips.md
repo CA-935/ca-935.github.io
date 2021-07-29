@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Hello incoming and returning cadets!
 
