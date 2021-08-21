@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Congrats to everyone who graduated CLC! Here are the photos from the ceremony: [https://photos.app.goo.gl/G4MkThi7ULsUbjwd9](https://photos.app.goo.gl/G4MkThi7ULsUbjwd9)
 
