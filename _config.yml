@@ -196,10 +196,10 @@ hotelmembers:
     
 
 armedmembers:
-  - name: Tom Rufino
-    position: Armed Team Commander
-    img: Rufino, Tom 20202021.png
   - name: Xavier Rico
+    position: Armed Team Commander
+    img: Xavier Rico.JPG
+  - name: Silas dela Cruz
     position: Armed Team NCO
     img: Rico, Xavier 20202021.png
 
