@@ -67,30 +67,25 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Justin Bui
-    position: Public Affairs Officer
-    img: Bui, Justin.png
-    
- 
   - name: Khushi Chaudhari
-    position: Public Affairs NCO
-    img: Chaudhari, Khushi 20202021.png
-  
-  - name: Sanjana Santhosh
-    position: Public Affairs NCO
-    img: Santosh, Sanjana 20202021.png
+    position: Public Affairs Officer
+    img: x.png
     
-  - name: Johann Welch
-    position: Technology Officer
-    img: Welch, Johann 20202021.png
+  - name: Cassandra Portrey
+    position: Public Affairs Asst. Officer in Charge
+    img: x.png
+    
+  - name: Keshav Srinivasan
+    position: Technology Officer in Charge
+    img: x.png
     
   - name: Sahithi Lingampalli
-    position: Technology NCO
-    img: Lingampalli, Sahithi 20202021.png
+    position: Technology Asst. Officer in Charge
+    img: x.png
 
-  - name: Keshav Srinivasan
+  - name: Song-Yeon Kang
     position: Technology NCO
-    img: Srinivasan, Keshav  20202021.png
+    img: x.png
     
 alphamembers:
   - name: Abel Hurtado
@@ -237,48 +232,36 @@ unarmedmembers:
 
 
 academicmembers:
-  - name: Raymond Sun
-    position: Academic Team Officer
-    img: Sun, Raymond 20202021.jpg
+  - name: Jessica Tuey
+    position: Academic Team Officer in Charge
+    img: x.jpg
   - name: Kevin Zhao
-    position: Academic Team NCO
-    img: Zhao, Kevin 20202021.jpg
-    
- 
+    position: Academic Team Asst. Officer in Charge
+    img: x.jpg
  
 stellarmembers:
-  - name: Rutva Mehta
-    position: Stellar Xplorers Officer
-    img: Mehta, Rutva 20202021.png
-  - name: Carter Johnson
+  - name: JJ O'Connell
     position: Stellar Xplorers SNCO
-    img: Johnson, Carter 20202021.jpg
-  - name: Kaushik Vada
-    position: Stellar Xplorers NCO
-    img: Vada, Kaushik 20202021.jpg
+    img: x.jpg
   - name: Andrew Zhang
     position: Stellar Xplorers NCO
-    img: Zhang, Andrew 20202021.jpg  
+    img: x.jpg  
      
-  
 kittyhawkmembers:
-  - name: Trenton Bien
-    position: Kitty Hawk Officer
-    img: Bien, Trenton 20202021.png
   - name: Britney Ton
-    position: Kitty Hawk NCO
-    img: Ton, Britney 20202021.png
-  - name: Shruti Natala
-    position: Kitty Hawk NCO
-    img: Natala, Shruti 20202021.png
+    position: Kitty Hawk Officer in Charge
+    img: Bien, Trenton 20202021.png
+  - name: Cassandra Portrey
+    position: Kitty Hawk Asst. Officer in Charge
+    img: x.png
     
 educationmembers:
-  - name: Neel Kumar
-    position: Education Officer
-    img: Kumar, Neel 20202021.png
-  - name: Mansi Sharma
+  - name: Justin Nguyen
+    position: Education Officer in Charge
+    img: x.png
+  - name: Nasiah Burns
     position: Education NCO
-    img: Sharma, Mansi 20202021.png
+    img: x.png
     
 
 staffmembers:
@@ -338,28 +321,28 @@ staffmembers:
         url: mailto:derekphan2927@gmail.com
 
 ypfmembers:
-  - name: Jessica Tuey
-    position: YPF Captain
-    img: Tuey, Jessica 20202021.JPG
   - name: Sabella Ibinyopakaka
-    position: YPF Co-Captain
-    img: Ibinyopakaka, Sabella 20202021.JPG 
+    position: YPF Captain
+    img: x.JPG
+  - name: Maggie Kwee
+    position: YPF NCO
+    img: x.JPG 
 
 aptmembers:
-  - name: Cassandra Portrey
-    position: APT Commander
-    img: Portrey, Cassandra 20202021.JPG
-  - name: Isabella Canales
+  - name: Isabela Canales
+    position: APT Officer in Charge
+    img: x.JPG
+  - name: Kelin Gonzalez
     position: APT NCO
-    img: Canales, Isabella 20202021.jpg
+    img: x.jpg
 
 cyberpatriotmembers:
-  - name: Mikella Nuzen
-    position: CyberPatriot Officer
-    img: Nuzen, Mikella 20202021.JPG
-  - name: Michael He
-    position: CyberPatriot NCO
-    img: He, Michael 20202021.JPG
+  - name: Jake Lee
+    position: CyberPatriot Officer in Charge
+    img: x.JPG
+  - name: Saatvik Aggarwal
+    position: CyberPatriot Asst. Officer in Charge
+    img: x.JPG
  
 
 # Clients information. Shown on Home and About pages.
