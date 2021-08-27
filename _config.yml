@@ -192,7 +192,7 @@ hotelmembers:
 
 armedmembers:
   - name: Xavier Rico
-    position: Armed Team Commander
+    position: Armed Team Officer in Charge
     img: xavier,rico21-22.JPG
   - name: Silas dela Cruz
     position: Armed Team NCO
@@ -200,7 +200,7 @@ armedmembers:
 
 cgmembers:
   - name: Luke Fine
-    position: Color Guard Commander
+    position: Color Guard Officer in Charge
     img: x.png
   - name: Joylyn Lew
     position: Color Guard NCO
@@ -209,14 +209,14 @@ cgmembers:
 flagdetailmembers:
   - name: Lea Chanthaluxay
     img: Lea Chanthaluxay.jpg
-    position: Flag Detail Commander
+    position: Flag Detail Officer in Charge
   - name: Manny Monteclar
     position: Flag Detail NCO
     img: Manny Monteclar.jpg
 
 sabermembers:
   - name: Sabella Ibinyopakaka 
-    position: Saber Team Commander
+    position: Saber Team Officer in Charge
     img: Sabella Ibinyopakaka.jpg
   - name: Jonathan Jiang
     position: Saber Team NCO
@@ -224,7 +224,7 @@ sabermembers:
 
 unarmedmembers:
   - name: Christopher Villalobos
-    position: Unarmed Team Commander
+    position: Unarmed Team Officer in Charge
     img: Christopher Villalobos_.jpg
   - name: Akash Pandit
     position: Unarmed Team NCO
