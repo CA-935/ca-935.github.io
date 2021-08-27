@@ -201,39 +201,39 @@ armedmembers:
     img: xavier,rico21-22.JPG
   - name: Silas dela Cruz
     position: Armed Team NCO
-    img: Rico, Xavier 20202021.png
+    img: x.png
 
 cgmembers:
-  - name: Elijah Bautista
+  - name: Luke Fine
     position: Color Guard Commander
-    img: Bautista, Elijah 20202021.png
-  - name: Ethan Ramirez
+    img: x.png
+  - name: Joylyn Lew
     position: Color Guard NCO
-    img: Ramirez, Ethan 20202021.png
+    img: Joylyn Lew.jpg
 
 flagdetailmembers:
-  - name: Eric Kye
-    img: Kye, Eric 20202021.png
-    position: Flag Detail Commander
   - name: Lea Chanthaluxay
+    img: Lea Chanthaluxay.jpg
+    position: Flag Detail Commander
+  - name: Manny Monteclar
     position: Flag Detail NCO
-    img: Chanthaluxay, Lea 20202021.png
+    img: Manny Monteclar.jpg
 
 sabermembers:
-  - name: Jeremy Doan 
+  - name: Sabella Ibinyopakaka 
     position: Saber Team Commander
-    img: Doan, Jeremy 20202021.png
-  - name: Jason Zhao
+    img: Sabella Ibinyopakaka.jpg
+  - name: Jonathan Jiang
     position: Saber Team NCO
-    img: Zhao, Jason 20202021.png
+    img: Jonathan Jiang.jpg
 
 unarmedmembers:
-  - name: Rachelle Soriano
-    position: Unarmed Team Commander
-    img: Soriano, Rachelle 20202021.png
   - name: Christopher Villalobos
+    position: Unarmed Team Commander
+    img: Christopher Villalobos_.jpg
+  - name: Akash Pandit
     position: Unarmed Team NCO
-    img: Villalobos, Christopher 20202021.png
+    img: x.png
 
 
 academicmembers:
