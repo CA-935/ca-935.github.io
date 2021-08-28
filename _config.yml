@@ -331,10 +331,10 @@ ypfmembers:
 aptmembers:
   - name: Isabela Canales
     position: APT Officer in Charge
-    img: Isabella%20Canales.JPG
+    img: Isabella Canales.JPG
   - name: Kelin Gonzalez
     position: APT NCO
-    img: Kelin%20Gonzalez.JPG
+    img: Kelin Gonzalez.JPG
 
 cyberpatriotmembers:
   - name: Jake Lee
