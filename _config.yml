@@ -339,10 +339,10 @@ aptmembers:
 cyberpatriotmembers:
   - name: Jake Lee
     position: CyberPatriot Officer in Charge
-    img: x.JPG
+    img: Jake Lee.jpg
   - name: Saatvik Aggarwal
     position: CyberPatriot Asst. Officer in Charge
-    img: x.JPG
+    img: Saatvik Aggarwal.JPG
  
 
 # Clients information. Shown on Home and About pages.
