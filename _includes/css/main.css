@@ -574,4 +574,10 @@ ul li:hover ul {
   display: block;
 }
 
+.tooltip .tooltiptext {
+  width: 350px;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -175px;
+}
 
