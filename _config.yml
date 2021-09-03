@@ -90,27 +90,27 @@ members:
 alphamembers:
   - name: Jessica Tuey
     position: Alpha Flight Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:abelhurt13@gmail.com
   - name: Racel Ligeralde
     position: Alpha Flight Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:pahel.srivastava@gmail.com
    
 bravomembers:
-  - name: Hillary Nguyen
+  - name: Hilary Nguyen
     position: Bravo Flight Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
   - name: Andres Palacios
     position: Bravo Flight Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:hkquinn4@gmail.com
@@ -118,28 +118,27 @@ bravomembers:
 charliemembers:
   - name: Lucky Hong
     position: Charlie Flight Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
   - name: JJ O'Connell
     position: Charlie Flight Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
 
-    
 deltamembers:
   - name: Lea Chantaluxay
     position: Delta Flight Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
   - name: Tyler Hong
     position: Delta Flight Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
@@ -147,13 +146,13 @@ deltamembers:
 echomembers:
   - name: Annie Lien
     position: Echo Flight Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
   - name: Harini Akurathi
     position: Echo Flight Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
@@ -162,13 +161,13 @@ foxtrotmembers:
   - name: Christina Nguyen
     position: Foxtrot Flight Commander
     img: Nguyen, Christina 20202021.JPG
-    social:
+    social: x.png
       - title: envelope
         url: mailto:christinan2004@gmail.com
   - name: Lucky Hong
     position: Foxtrot Flight Sergeant
     img: Hong, Lucky 20202021.PNG
-    social:
+    social: x.png
        - title: envelope
          url: mailto:luckyhonglol@gmail.com
 
@@ -189,7 +188,6 @@ hotelmembers:
     img: Rufino, Tom.jpg
     
     
-
 armedmembers:
   - name: Xavier Rico
     position: Armed Team Officer in Charge
