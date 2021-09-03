@@ -265,63 +265,63 @@ educationmembers:
 staffmembers:
   - name: Jessica Pham
     position: Group Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:cky2003florida@gmail.com
  
  - name: Christina Nguyen
     position: Deputy Commander
-    img: Scotchlas, Samantha.png
+    img: x.png
     social:
       - title: envelope
         url: mailto:samantha.scotchlas@gmail.com
  
  - name: Elijah Bautista
     position: First Sergeant
-    img: 
+    img: x.png
     social:
       - title: envelope
         
  
  - name: Marcus Velasquez
     position: Operations Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:tkatherine2003@gmail.com
  
  - name: Rutva Mehta
     position: Mission Support Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:r.ong40915@gmail.com
   
   - name: Russell Lee
     position: Plans and Programs
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:mackenzietrinh@gmail.com
   
   - name: Khushi Chaudhari
     position: Public Affairs Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:justin7354@gmail.com
   
   - name: Jake Lee
     position: Logistics Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:jacwub1738@gmail.com
   
   - name: Tom Rufino
     position: Teams Commander
-    img: 
+    img: x.png
     social:
       - title: envelope
         url: mailto:derekphan2927@gmail.com
