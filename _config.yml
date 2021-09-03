@@ -161,13 +161,13 @@ foxtrotmembers:
   - name: Christina Nguyen
     position: Foxtrot Flight Commander
     img: Nguyen, Christina 20202021.JPG
-    social: x.png
+    social:
       - title: envelope
         url: mailto:christinan2004@gmail.com
   - name: Lucky Hong
     position: Foxtrot Flight Sergeant
     img: Hong, Lucky 20202021.PNG
-    social: x.png
+    social:
        - title: envelope
          url: mailto:luckyhonglol@gmail.com
 
