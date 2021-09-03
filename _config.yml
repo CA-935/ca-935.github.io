@@ -88,72 +88,72 @@ members:
     img: x.png
     
 alphamembers:
-  - name: Abel Hurtado
+  - name: Jessica Tuey
     position: Alpha Flight Commander
-    img: Hurtado, Abel 20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:abelhurt13@gmail.com
-  - name: Pahel Srivastava
+  - name: Racel Ligeralde
     position: Alpha Flight Sergeant
-    img: Srivastava, Pahel 20202021.jpg
+    img: 
     social:
       - title: envelope
         url: mailto:pahel.srivastava@gmail.com
    
 bravomembers:
-  - name: Marcus Velasquez
+  - name: Hillary Nguyen
     position: Bravo Flight Commander
-    img: Velazquez, Marcus 20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
-  - name: Haleigh Quinn
+  - name: Andres Palacios
     position: Bravo Flight Sergeant
-    img: Quinn, Haleigh  20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:hkquinn4@gmail.com
     
 charliemembers:
-  - name: EJ Buan
+  - name: Lucky Hong
     position: Charlie Flight Commander
-    img: Buan, EJ 20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
-  - name: Jessica Pham
+  - name: JJ O'Connell
     position: Charlie Flight Sergeant
-    img: Pham, Jessica 20202021.jpg
+    img: 
     social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
 
     
 deltamembers:
-  - name: Joshua Pagaduan
+  - name: Lea Chantaluxay
     position: Delta Flight Commander
-    img: Pagaduan, Joshua 20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
-  - name: Hilary Nguyen
+  - name: Tyler Hong
     position: Delta Flight Sergeant
-    img: Nguyen, Hilary 20202021.PNG
+    img: 
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
     
 echomembers:
-  - name: Justin Nguyen
+  - name: Annie Lien
     position: Echo Flight Commander
-    img: Nguyen, Justin 20202021.jpg
+    img: 
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
-  - name: Michael He
+  - name: Harini Akurathi
     position: Echo Flight Sergeant
-    img: He, Michael 20202021.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
@@ -265,57 +265,65 @@ educationmembers:
     
 
 staffmembers:
-  - name: Christian Yoon
+  - name: Jessica Pham
     position: Group Commander
-    img: Yoon, Christian.png
+    img: 
     social:
       - title: envelope
         url: mailto:cky2003florida@gmail.com
-  - name: Samantha Scotchlas
+ 
+ - name: Christina Nguyen
     position: Deputy Commander
     img: Scotchlas, Samantha.png
     social:
       - title: envelope
         url: mailto:samantha.scotchlas@gmail.com
-  - name: Philip Sargent
+ 
+ - name: Elijah Bautista
     position: First Sergeant
-    img: Sargent, Philip.png
+    img: 
     social:
       - title: envelope
         url: mailto:philipsargent005@gmail.com
-  - name: Katherine Tat
+ 
+ - name: Marcus Velasquez
     position: Operations Commander
-    img: Tat, Katherine.png
+    img: 
     social:
       - title: envelope
         url: mailto:tkatherine2003@gmail.com
-  - name: Ryan Ong
+ 
+ - name: Rutva Mehta
     position: Mission Support Commander
-    img: Ong, Ryan.png
+    img: 
     social:
       - title: envelope
         url: mailto:r.ong40915@gmail.com
-  - name: Mackenzie Trinh
+  
+  - name: Russell Lee
     position: Plans and Programs
-    img: Trinh, Mackenzie.png
+    img: 
     social:
       - title: envelope
         url: mailto:mackenzietrinh@gmail.com
-  - name: Justin Bui
+  
+  - name: Khushi Chaudhari
     position: Public Affairs Commander
-    img: Bui, Justin.png
+    img: 
     social:
       - title: envelope
         url: mailto:justin7354@gmail.com
-  - name: Jacob Wong
+  
+  - name: Jake Lee
     position: Logistics Commander
-    img: Wong, Jacob.png
+    img: 
     social:
       - title: envelope
         url: mailto:jacwub1738@gmail.com
-  - name: Derek Phan
+  
+  - name: Tom Rufino
     position: Teams Commander
-    img: Phan, Derek.png
+    img: 
     social:
       - title: envelope
         url: mailto:derekphan2927@gmail.com
