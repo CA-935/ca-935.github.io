@@ -270,28 +270,27 @@ staffmembers:
       - title: envelope
         url: mailto:cky2003florida@gmail.com
  
- - name: Christina Nguyen
+  - name: Christina Nguyen
     position: Deputy Commander
     img: x.png
     social:
       - title: envelope
         url: mailto:samantha.scotchlas@gmail.com
  
- - name: Elijah Bautista
+  - name: Elijah Bautista
     position: First Sergeant
     img: x.png
     social:
       - title: envelope
         
- 
- - name: Marcus Velasquez
+  - name: Marcus Velasquez
     position: Operations Commander
     img: x.png
     social:
       - title: envelope
         url: mailto:tkatherine2003@gmail.com
- 
- - name: Rutva Mehta
+  
+  - name: Rutva Mehta
     position: Mission Support Commander
     img: x.png
     social:
