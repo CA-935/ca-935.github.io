@@ -104,13 +104,13 @@ alphamembers:
 bravomembers:
   - name: Hilary Nguyen
     position: Bravo Flight Commander
-    img: x.png
+    img: Hilary Nguyen.JPG
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
   - name: Andres Palacios
     position: Bravo Flight Sergeant
-    img: x.png
+    img: Andres Palacios.JPG
     social:
       - title: envelope
         url: mailto:hkquinn4@gmail.com
@@ -118,13 +118,13 @@ bravomembers:
 charliemembers:
   - name: Lucky Hong
     position: Charlie Flight Commander
-    img: x.png
+    img: Lucky Hong.JPG
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
   - name: JJ O'Connell
     position: Charlie Flight Sergeant
-    img: x.png
+    img: JJ O'Connell.JPG
     social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
@@ -132,13 +132,13 @@ charliemembers:
 deltamembers:
   - name: Lea Chantaluxay
     position: Delta Flight Commander
-    img: x.png
+    img: Lea Chantaluxay.JPG
     social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
   - name: Tyler Hong
     position: Delta Flight Sergeant
-    img: x.png
+    img: Tyler Hong.JPG
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
@@ -146,13 +146,13 @@ deltamembers:
 echomembers:
   - name: Annie Lien
     position: Echo Flight Commander
-    img: x.png
+    img: Annie Lien.JPG
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
   - name: Harini Akurathi
     position: Echo Flight Sergeant
-    img: x.png
+    img: Harini Akurathi.JPG
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
