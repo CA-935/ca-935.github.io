@@ -272,7 +272,7 @@ staffmembers:
  
   - name: Christina Nguyen
     position: Deputy Commander
-    img: image0.JPG
+    img: image0.jpg
     social:
       - title: envelope
         url: mailto:samantha.scotchlas@gmail.com
@@ -299,7 +299,7 @@ staffmembers:
   
   - name: Rutva Mehta
     position: Plans and Programs
-    img: Rutva Mehta.JPG
+    img: Rutva Mehta.jpg
     social:
       - title: envelope
         url: mailto:mackenzietrinh@gmail.com
@@ -313,7 +313,7 @@ staffmembers:
   
   - name: Jake Lee
     position: Logistics Commander
-    img: Jake Lee. JPG
+    img: Jake Lee.JPG
     social:
       - title: envelope
         url: mailto:jacwub1738@gmail.com
