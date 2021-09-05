@@ -297,6 +297,13 @@ staffmembers:
       - title: envelope
         url: mailto:r.ong40915@gmail.com
   
+  - name: Jake Lee
+    position: Logistics Commander
+    img: Jake Lee.JPG
+    social:
+      - title: envelope
+        url: mailto:jacwub1738@gmail.com
+  
   - name: Rutva Mehta
     position: Plans and Programs
     img: Rutva Mehta.jpg
@@ -310,13 +317,6 @@ staffmembers:
     social:
       - title: envelope
         url: mailto:justin7354@gmail.com
-  
-  - name: Jake Lee
-    position: Logistics Commander
-    img: Jake Lee.JPG
-    social:
-      - title: envelope
-        url: mailto:jacwub1738@gmail.com
   
   - name: Tom Rufino
     position: Teams Commander
