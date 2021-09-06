@@ -118,7 +118,7 @@ bravomembers:
 charliemembers:
   - name: Lucky Hong
     position: Charlie Flight Commander
-    img: Lucky Hong.JPG
+    img: Lucky Hong .JPG
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
@@ -130,9 +130,9 @@ charliemembers:
         url: mailto:jphamca@yahoo.com
 
 deltamembers:
-  - name: Lea Chantaluxay
+  - name: Lea Chanthaluxay
     position: Delta Flight Commander
-    img: Lea Chantaluxay.JPG
+    img: Lea Chanthaluxay.JPG
     social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
@@ -146,7 +146,7 @@ deltamembers:
 echomembers:
   - name: Annie Lien
     position: Echo Flight Commander
-    img: Annie Lien.JPG
+    img: Annie Lien .JPG
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
