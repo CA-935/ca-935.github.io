@@ -194,7 +194,7 @@ armedmembers:
     img: xavier,rico21-22.JPG
   - name: Silas dela Cruz
     position: Armed Team NCO
-    img: Silas dela Cruz.HEIC
+    img: Silas dela Cruz.jpg
 
 cgmembers:
   - name: Luke Fine
@@ -226,7 +226,7 @@ unarmedmembers:
     img: Christopher Villalobos_.jpg
   - name: Akash Pandit
     position: Unarmed Team NCO
-    img: Akash Pandit.HEIC
+    img: Akash Pandit.jpg
 
 
 academicmembers:
@@ -235,7 +235,7 @@ academicmembers:
     img: Jessica Tuey.jpg
   - name: Kevin Zhao
     position: Academic Team Asst. Officer in Charge
-    img: x.jpg
+    img: Kevin Zhao.jpg
  
 stellarmembers:
   - name: JJ O'Connell
@@ -256,7 +256,7 @@ kittyhawkmembers:
 educationmembers:
   - name: Justin Nguyen
     position: Education Officer in Charge
-    img: x.png
+    img: Justin Nguyen.jpg
   - name: Nasiah Burns
     position: Education NCO
     img: x.png
@@ -326,9 +326,9 @@ staffmembers:
         url: mailto:t.rufino72@gmail.com
 
 ypfmembers:
-  - name: Sabella Ibinyopakaka
+  - name: Braden Perry
     position: YPF Captain
-    img: Sabella Ibinyopakaka.JPG
+    img: Braden Perry.JPG
   - name: Maggie Kwee
     position: YPF NCO
     img: Maggie Kwee.JPG 
