@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Our very first movie night is **November 19, 2021** from **5:30 to 9 PM**. Don't forget that you will need 3 cans on the day of to enter:) Make sure to bring your Movie pass to school on Monday!
 
