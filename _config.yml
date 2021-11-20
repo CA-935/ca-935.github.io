@@ -328,26 +328,26 @@ staffmembers:
 ypfmembers:
   - name: Braden Perry
     position: YPF Officer in Charge
-    img: Braden Perry.JPG
+    img: Braden Perry.jpeg
   - name: Sabella Ibinyopakaka
     position: YPF Asst. Officer in Charge
-    img: Sabella Ibinyopakaka.JPG
+    img: Sabella Ibinyopakaka.jpeg
 
 aptmembers:
   - name: Isabella Canales
     position: APT Officer in Charge
-    img: Isabella Canales.JPG
+    img: Isabella Canales.jpeg
   - name: Kelin Gonzalez
     position: APT NCO
-    img: Kelin Gonzalez.JPG
+    img: Kelin Gonzalez.jpeg
 
 cyberpatriotmembers:
   - name: Jake Lee
     position: CyberPatriot Officer in Charge
-    img: Jake Lee.jpg
+    img: Jake Lee.jpeg
   - name: Saatvik Aggarwal
     position: CyberPatriot Asst. Officer in Charge
-    img: Saatvik Aggarwal.JPG
+    img: Saatvik Aggarwal.jpeg
  
 
 # Clients information. Shown on Home and About pages.
