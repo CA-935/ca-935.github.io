@@ -199,10 +199,10 @@ armedmembers:
 cgmembers:
   - name: Luke Fine
     position: Color Guard Officer in Charge
-    img: Luke Fine.JPG
+    img: Luke Fine.jpeg
   - name: Joylyn Lew
     position: Color Guard NCO
-    img: Joylyn Lew.jpg
+    img: Joylyn Lew.jpeg
 
 flagdetailmembers:
   - name: Lea Chanthaluxay
