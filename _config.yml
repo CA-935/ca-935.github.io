@@ -265,7 +265,7 @@ educationmembers:
 staffmembers:
   - name: Jessica Pham
     position: Group Commander
-    img: IMG_6095.JPG
+    img: IMG_6095.jpeg
     social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
@@ -279,34 +279,34 @@ staffmembers:
  
   - name: Elijah Bautista
     position: First Sergeant
-    img: Elijah Bautista.JPG
+    img: Elijah_Bautista.png
     social:
       - title: envelope:elijahbbautista@gmail.com
         
   - name: Marcus Velasquez
     position: Operations Commander
-    img: IMG_6094.JPG
+    img: IMG_6094.jpeg
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
   
   - name: Russell Lee
     position: Mission Support Commander
-    img: Russell Lee.JPG
+    img: Russell Lee.jpeg
     social:
       - title: envelope
         url: mailto:russell7120@gmail.com
   
   - name: Jake Lee
     position: Logistics Commander
-    img: Jake Lee.JPG
+    img: Jake Lee.jpeg
     social:
       - title: envelope
         url: mailto:jalee.677@gmail.com
   
   - name: Rutva Mehta
     position: Plans and Programs
-    img: Rutva Mehta.jpg
+    img: Rutva Mehta.jpeg
     social:
       - title: envelope
         url: mailto:rutvajmehta@gmail.com
@@ -320,7 +320,7 @@ staffmembers:
   
   - name: Tom Rufino
     position: Teams Commander
-    img: Tom Rufino.JPG
+    img: Tom Rufino.jpeg
     social:
       - title: envelope
         url: mailto:t.rufino72@gmail.com
