@@ -73,11 +73,11 @@ members:
     
   - name: Cassandra Portrey
     position: Public Affairs Asst. Officer in Charge
-    img: Cassandra Portrey.JPG
+    img: Cassandra Portrey.jpeg
     
   - name: Keshav Srinivasan
     position: Technology Officer in Charge
-    img: Keshav Srinivasan.JPG
+    img: Keshav Srinivasan.jpeg
     
   - name: Sahithi Lingampalli
     position: Technology Asst. Officer in Charge
@@ -85,7 +85,7 @@ members:
 
   - name: Song-Yeon Kang
     position: Technology NCO
-    img: Song-Yeon Kang.JPG
+    img: Song-Yeon Kang.jpeg
     
 alphamembers:
   - name: Jessica Tuey
