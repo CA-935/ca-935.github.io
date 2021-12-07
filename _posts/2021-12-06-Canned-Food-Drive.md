@@ -2,7 +2,7 @@
 layout: post
 published: true
 ---
-![]({{site.baseurl}}/media/Canned_Food_Drive.png)![Canned_Food_Drive.png]({{site.baseurl}}/media/Canned_Food_Drive.png)
+![]({{site.baseurl}}/media/Canned_Food_Drive.png)![Canned_Food_Drive.png]
 
 The Holiday Canned Food Drive officially concluded, huge thank you to everyone's efforts this past month.
 
