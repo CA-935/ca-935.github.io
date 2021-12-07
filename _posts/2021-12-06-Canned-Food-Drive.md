@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ![]({{site.baseurl}}/media/Canned_Food_Drive.png)![Canned_Food_Drive.png]({{site.baseurl}}/media/Canned_Food_Drive.png)
 
