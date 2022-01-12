@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 Don't forget to check out PA's December newsletter. Click [here](https://drive.google.com/file/d/1tnMpvXA6AZ62rUyV2zsHpbNYDPfFOFLp/view) to view it!
 
