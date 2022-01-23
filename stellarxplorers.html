@@ -1,36 +1,22 @@
 ---
 layout: default
-title: StellarXplorers
+title: Academic Bowl
 permalink: /stellar/
----
+--- 
 {% include wrap.html %}
-</div>
 
-
-</div>
-<br>
-<div id="service">
+<div class="container mtb">
     <div class="row">
         <div class="col-lg-6">
-		
-            </br>
-			<img src="/assets/stellarx/StellarXplorers Team.JPG" width="50%" alt="Stellar Xplorer">
-
-            <p>
-                <br>
-                <br>
-				<br>
-				StellarXplorers operates under the AFA Space Task Force and is a team that requires space, and math knowledge 
-            in order to complete different scenarios. We work together to learn and teach the  knowledge needed to complete 
-            these scenarios. When you join being able to work under some stress is a needed skill, to go along with that 
-            coming to the practice every Monday after school helps to learn these skills. Even if this is the first year we 
-            plan to win as much as possible.
-            </p>
-	    <p>Below are some of our proudest achievements during the 2019-2020 School Year:</p>
+            <img class="img-responsive" src="{{ " /assets/stellarx/StellarXplorers Team.JPG" | prepend: site.baseurl }}" alt="">
+        </div>
+        <div class="col-lg-6">
+            <p>StellarXplorers operates under the AFA Space Task Force and is a team that requires space, and math knowledge in order to complete different scenarios. We work together to learn and teach the  knowledge needed to complete these scenarios. When you join being able to work under some stress is a needed skill, to go along with that coming to the practice every Monday after school helps to learn these skills.             
+		<p>Below are some of our proudest achievements during the 2019-2020 School Year:</p>
             <p class="about_center">
-                <b>Varisty/Junior Varsity Semifinalists</br>
+                <b>Varsity/Junior Varisty Semifinalists</br>
                 </b>
-
+            </p>
         </div>
     </div>
     <! --/row -->
@@ -41,14 +27,14 @@ permalink: /stellar/
         {% for stellarmember in site.stellarmembers %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
-                <img src="{{ " /assets/stellarx/" | prepend: site.baseurl }}{{ stellarmember.img }}" alt="">
+                <img src="{{ "/assets/stellarx/" | prepend: site.baseurl }}{{ stellarmember.img }}" alt="">
                 <div class="he-view">
                     <div class="bg a0" data-animate="fadeIn">
                         <h3 class="a1" data-animate="fadeInDown">Links:</h3>
                         {% for entry in stellarmember.social %}
                         <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp">
                             <i class="fa fa-{{ entry.title }}"></i>
-                        </a> 
+                        </a>
                         {% endfor %}
                     </div>
                     <!-- he bg -->
