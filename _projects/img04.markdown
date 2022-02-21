@@ -1,4 +1,4 @@
 ---
-title:  "14 Mile Hike 2019"
-img: 14milehike2019.jpeg
+title:  "14 Mile Hike 2021"
+img: IMG_6410.JPG
 ---
