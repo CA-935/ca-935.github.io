@@ -1,4 +1,4 @@
 ---
-title:  "AFJROTC Field Day #1 2019"
-img: roday2019-1.jpeg
+title:  "AFJROTC Field Day #1 2021"
+img: IMG_7794 (1).JPG
 ---
