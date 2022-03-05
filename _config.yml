@@ -279,7 +279,8 @@ staffmembers:
     position: First Sergeant
     img: Elijah_Bautista.png
     social:
-      - title: envelope:elijahbbautista@gmail.com
+      - title: envelope
+        url: mailto:elijahbbautista@gmail.com
         
   - name: Marcus Velasquez
     position: Operations Commander
