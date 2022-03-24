@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 Yep, you read it right. CA-935th's very own Terabyte Falcons are the national CyberPatriot All-Service Champions!
 
