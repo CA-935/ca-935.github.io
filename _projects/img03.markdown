@@ -1,4 +1,4 @@
 ---
-title:  "Air Show 2019"
-img: airshow19.JPG
+title:  "Cyber Patriot wins All-Service National Competition"
+img: IMG_9695.jpg
 ---
