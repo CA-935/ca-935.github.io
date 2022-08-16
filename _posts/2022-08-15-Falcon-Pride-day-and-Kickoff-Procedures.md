@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 The following slides were put together to facilitate cadets in the CLC procedures during FALCON Pride Day and Kickoff. They also include a brief description of both the events.
 
