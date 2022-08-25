@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 Scan the QR code from the attached file below or contact Dawn Marino (dmarino@sandi.net) for the application packet
 
