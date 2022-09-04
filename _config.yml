@@ -189,12 +189,12 @@ hotelmembers:
     
     
 armedmembers:
-  - name: Xavier Rico
-    position: Armed Team Officer in Charge
-    img: Xavier Rico.jpeg
   - name: Silas dela Cruz
+    position: Armed Team Officer in Charge
+    img: dela Cruz, Silas.JPG
+  - name: Gurjeet Birdee
     position: Armed Team NCO
-    img: Silas_dela_Cruz.png
+    img: Birdee, Gurjeet.JPG
 
 cgmembers:
   - name: Luke Fine
