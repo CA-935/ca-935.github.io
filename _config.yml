@@ -197,20 +197,20 @@ armedmembers:
     img: Birdee, Gurjeet.JPG
 
 cgmembers:
-  - name: Luke Fine
-    position: Color Guard Officer in Charge
-    img: Luke Fine.jpeg
   - name: Joylyn Lew
+    position: Color Guard Officer in Charge
+    img: Lew, Joylyn.JPG
+  - name: Elliot Mell
     position: Color Guard NCO
-    img: Joylyn Lew.jpeg
+    img: Mell, Elliot.JPG
 
 flagdetailmembers:
-  - name: Lea Chanthaluxay
-    img: Lea Chanthaluxay.jpeg
+  - name: Timothy Le
+    img: Le, Timothy.JPG
     position: Flag Detail Officer in Charge
-  - name: Manny Monteclar
+  - name: Liana Wong
     position: Flag Detail NCO
-    img: Manny Monteclar.jpeg
+    img: Wong, Liana.JPG
 
 sabermembers:
   - name: Jonathan Jiang 
