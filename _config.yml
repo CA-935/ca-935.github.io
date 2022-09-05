@@ -347,12 +347,15 @@ aptmembers:
     img: Kelin Gonzalez.jpeg
 
 cyberpatriotmembers:
-  - name: Jake Lee
+  - name: Nathan Min
     position: CyberPatriot Officer in Charge
-    img: Jake Lee.jpeg
-  - name: Saatvik Aggarwal
-    position: CyberPatriot Asst. Officer in Charge
-    img: Saatvik Aggarwal.jpeg
+    img: Min, Nathan.JPG
+  - name: Veer Chopra
+    position: CyberPatriot NCO
+    img: Chopra, Veer.JPG
+  - name: Delbert Tran
+    position: CyberPatriot NCO
+    img: Tran, Delbert.JPG
  
 
 # Clients information. Shown on Home and About pages.
