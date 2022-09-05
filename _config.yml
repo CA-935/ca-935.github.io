@@ -265,68 +265,50 @@ educationmembers:
     
 
 staffmembers:
-  - name: Jessica Pham
+  - name: Hilary Nguyen
     position: Group Commander
-    img: IMG_6095.jpeg
-    social:
-      - title: envelope
-        url: mailto:jphamca@yahoo.com
+    img: Nguyen, Hilary.JPG
+
  
-  - name: Christina Nguyen
+  - name: Xavier Rico
     position: Deputy Commander
-    img: image0.jpg
-    social:
-      - title: envelope
-        url: mailto:ChristinaN2004@gmail.com
+    img: Rico, Xavier.JPG
+
  
-  - name: Elijah Bautista
+  - name: Braden Perry
     position: First Sergeant
-    img: Elijah_Bautista.png
-    social:
-      - title: envelope
-        url: mailto:elijahbbautista@gmail.com
+    img: Perry, Braden.JPG
+
         
-  - name: Marcus Velasquez
+  - name: Lucky Hong
     position: Operations Commander
-    img: IMG_6094.jpeg
-    social:
-      - title: envelope
-        url: mailto:marcusvelasquez132@gmail.com
+    img: Hong, Lucky.JPG
+
   
-  - name: Russell Lee
+  - name: Joshua Yang
     position: Mission Support Commander
-    img: Russell Lee.jpeg
-    social:
-      - title: envelope
-        url: mailto:russell7120@gmail.com
+    img: Yang, Joshua.PNG
+
   
-  - name: Jake Lee
+  - name: Emma Mills
     position: Logistics Commander
-    img: Jake Lee.jpeg
-    social:
-      - title: envelope
-        url: mailto:jalee.677@gmail.com
+    img: Mills, Emma.PNG
+
   
-  - name: Rutva Mehta
+  - name: Isabella Canales
     position: Plans and Programs
-    img: Rutva Mehta.jpeg
-    social:
-      - title: envelope
-        url: mailto:rutvajmehta@gmail.com
+    img: Canales, Isabella.PNG
+
   
-  - name: Khushi Chaudhari
+  - name: Keshav Srinivasan
     position: Public Affairs Commander
-    img: 1315C8A8-F7C3-4539-9B8B-AD1C1185E77C.jpeg
-    social:
-      - title: envelope
-        url: mailto:khushi.chaudhari@gmail.com
+    img: Srinivasan, Keshav.PNG
+
   
-  - name: Tom Rufino
+  - name: Christopher Villalobos
     position: Teams Commander
-    img: Tom Rufino.jpeg
-    social:
-      - title: envelope
-        url: mailto:t.rufino72@gmail.com
+    img: Villalobos, Christopher.PNG
+
 
 ypfmembers:
   - name: Dallas Barksdale 
