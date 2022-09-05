@@ -246,12 +246,15 @@ stellarmembers:
     img: Andrew Zhang.jpeg 
      
 kittyhawkmembers:
-  - name: Britney Ton
+  - name: Kelin Gonzalez
     position: Kitty Hawk Officer in Charge
-    img: Britney Ton.jpeg
-  - name: Cassandra Portrey
-    position: Kitty Hawk Asst. Officer in Charge
-    img: Cassandra Portrey.jpeg
+    img: Gonzalez, Kelin.JPG
+  - name: Vianna Loam
+    position: Kitty Hawk NCO
+    img: Loam, Vianna.JPG
+  - name: Li-Na Yeh
+    position: Kitty Hawk NCO
+    img: Yeh, Li-na.JPG
     
 educationmembers:
   - name: Nasiah Burns
