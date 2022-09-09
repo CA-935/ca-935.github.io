@@ -67,25 +67,23 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Khushi Chaudhari
-    position: Public Affairs Officer
-    img: 1315C8A8-F7C3-4539-9B8B-AD1C1185E77C.jpeg
-    
-  - name: Cassandra Portrey
-    position: Public Affairs Asst. Officer in Charge
-    img: Cassandra Portrey.jpeg
-    
   - name: Keshav Srinivasan
-    position: Technology Officer in Charge
-    img: Keshav Srinivasan.jpeg
+    position: Public Affairs Officer
+    img: Srinivasan, Keshav.PNG
     
-  - name: Sahithi Lingampalli
-    position: Technology Asst. Officer in Charge
-    img: Sahithi Lingampalli.jpeg
-
-  - name: Song-Yeon Kang
+  - name: Julian Schiff
+    position: Public Affairs NCO
+    img: Schiff, Julian.JPG
+    
+  - name: Song Kang
+    position: Technology Officer in Charge
+    img: Kang, Song.JPG
+    
+  - name: Mayank Sharma
     position: Technology NCO
-    img: Song-Yeon Kang.jpeg
+    img: Sharma, Mayank.JPG
+    
+ 
     
 alphamembers:
   - name: Jessica Tuey
