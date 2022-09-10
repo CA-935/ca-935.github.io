@@ -267,47 +267,68 @@ staffmembers:
   - name: Hilary Nguyen
     position: Group Commander
     img: Nguyen, Hilary.JPG
+    social:
+      - title: envelope
+        url: mailto:hi.04.nguyen@gmail.com
+      
 
  
   - name: Xavier Rico
     position: Deputy Commander
     img: Rico, Xavier.JPG
-
+    social:
+      - title: envelope
+        url: mailto:xrrico@gmail.com
  
   - name: Braden Perry
     position: First Sergeant
     img: Perry, Braden.JPG
+    social:
+      - title: envelope
+        url: mailto:bradenperry12@gmail.com
 
         
   - name: Lucky Hong
     position: Operations Commander
     img: Hong, Lucky.JPG
-
+    social:
+      - title: envelope
+        url: mailto:luckyhong2005@gmail.com
   
   - name: Joshua Yang
     position: Mission Support Commander
     img: Yang, Joshua.JPG
-
+    social:
+      - title: envelope
+        url: mailto:jsyjosh333@gmail.com
   
   - name: Emma Mills
     position: Logistics Commander
     img: Mills, Emma.JPG
-
+    social:
+      - title: envelope
+        url: mailto:emma.mills11046@gmail.com
   
   - name: Isabella Canales
     position: Plans and Programs
     img: Canales, Isabella.JPG
-
+    social:
+      - title: envelope
+        url: mailto:ibellacan@gmail.com
   
   - name: Keshav Srinivasan
     position: Public Affairs Commander
     img: Srinivasan, Keshav.JPG
-
+    social:
+      - title: envelope
+        url: mailto:skeshav@gmail.com
   
   - name: Christopher Villalobos
     position: Teams Commander
     img: Villalobos, Christopher.JPG
-
+    social:
+      - title: envelope
+        url: mailto:christophervformal@gmail.com
 
 ypfmembers:
   - name: Dallas Barksdale 
