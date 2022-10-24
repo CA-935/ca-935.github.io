@@ -94,85 +94,85 @@ members:
  
     
 alphamembers:
-  - name: Jessica Tuey
+  - name: Tyler Hong
     position: Alpha Flight Commander
-    img: Jessica Tuey.JPG
+    img: Hong, Tyler.JPG
     social:
       - title: envelope
         url: mailto:abelhurt13@gmail.com
-  - name: Racel Ligeralde
+  - name: Amanda Nguyen
     position: Alpha Flight Sergeant
-    img: Racel Ligeralde.JPG
+    img: Nguyen, Amanda (1).JPG
     social:
       - title: envelope
         url: mailto:pahel.srivastava@gmail.com
    
 bravomembers:
-  - name: Hilary Nguyen
+  - name: JJ O'Connell
     position: Bravo Flight Commander
-    img: Hilary Nguyen.JPG
+    img: O'Connell, JJ.JPG
     social:
       - title: envelope
         url: mailto:marcusvelasquez132@gmail.com
-  - name: Andres Palacios
+  - name: Veer Chopra
     position: Bravo Flight Sergeant
-    img: Andres Palacios.JPG
+    img: Chopra, Veer.JPG
     social:
       - title: envelope
         url: mailto:hkquinn4@gmail.com
     
 charliemembers:
-  - name: Lucky Hong
+  - name: Richard Rico
     position: Charlie Flight Commander
-    img: Lucky Hong .JPG
+    img: Rico, Richard .JPG
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
-  - name: JJ O'Connell
+  - name: Angelina Dinh
     position: Charlie Flight Sergeant
-    img: JJ O'Connell.JPG
+    img: Dinh, Angelina.JPG
     social:
       - title: envelope
         url: mailto:jphamca@yahoo.com
 
 deltamembers:
-  - name: Lea Chanthaluxay
+  - name: Andres Palacios
     position: Delta Flight Commander
-    img: Lea Chanthaluxay.JPG
+    img: Palacios, Andres (1).JPG
     social:
       - title: envelope
         url: mailto:j3pag280@gmail.com
-  - name: Tyler Hong
+  - name: Rithvik Manikandan
     position: Delta Flight Sergeant
-    img: Tyler Hong.JPG
+    img: Manikandan, Rithvik.JPG
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
         
 echomembers:
-  - name: Annie Lien
+  - name: Harini Akurathi
     position: Echo Flight Commander
-    img: Annie Lien .JPG
+    img: Akurathi, Harini .JPG
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
-  - name: Harini Akurathi
+  - name: Jackeline Du
     position: Echo Flight Sergeant
-    img: Harini Akurathi.JPG
+    img: Du, Jackeline.JPG
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
 
 foxtrotmembers:
-  - name: Christina Nguyen
+  - name: Vincent Sanchez
     position: Foxtrot Flight Commander
-    img: Nguyen, Christina 20202021.JPG
+    img: Sanchez, Vincent (1).JPG
     social:
       - title: envelope
         url: mailto:christinan2004@gmail.com
-  - name: Lucky Hong
+  - name: Samiya Soman
     position: Foxtrot Flight Sergeant
-    img: Hong, Lucky 20202021.PNG
+    img: Soman, Samiya.PNG
     social:
        - title: envelope
          url: mailto:luckyhonglol@gmail.com
