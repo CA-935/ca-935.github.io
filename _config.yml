@@ -105,7 +105,7 @@ alphamembers:
     img: Nguyen, Amanda (1).JPG
     social:
       - title: envelope
-        url: mailto:pahel.srivastava@gmail.com
+        url: mailto:amanda.d.nguyenn@gmail.com
    
 bravomembers:
   - name: JJ O'Connell
@@ -113,7 +113,7 @@ bravomembers:
     img: O'Connell, JJ.JPG
     social:
       - title: envelope
-        url: mailto:marcusvelasquez132@gmail.com
+        url: mailto:jjoconnelliv@gmail.com
   - name: Veer Chopra
     position: Bravo Flight Sergeant
     img: Chopra, Veer.JPG
@@ -127,13 +127,13 @@ charliemembers:
     img: Rico, Richard.JPG
     social:
       - title: envelope
-        url: mailto:ejeffeljohbuan24@gmail.com
+        url: mailto:Rgrico001@gmail.com
   - name: Angelina Dinh
     position: Charlie Flight Sergeant
     img: Dinh, Angelina.JPG
     social:
       - title: envelope
-        url: mailto:jphamca@yahoo.com
+        url: mailto:adinh726@gmail.com
 
 deltamembers:
   - name: Andres Palacios
@@ -141,13 +141,13 @@ deltamembers:
     img: Palacios, Andres (1).JPG
     social:
       - title: envelope
-        url: mailto:j3pag280@gmail.com
+        url: mailto:ajpr1910@gmail.com
   - name: Rithvik Manikandan
     position: Delta Flight Sergeant
     img: Manikandan, Rithvik.JPG
     social:
       - title: envelope
-        url: mailto:hi.04.nguyen@gmail.com
+        url: mailto:rithviks84@gmail.com
         
 echomembers:
   - name: Harini Akurathi
@@ -155,13 +155,13 @@ echomembers:
     img: Akurathi, Harini.JPG
     social:
       - title: envelope
-        url: mailto:jusnguyen1@gmail.com
+        url: mailto:harini0731@gmail.com
   - name: Jackeline Du
     position: Echo Flight Sergeant
     img: Du, Jackeline (1).JPG
     social:
       - title: envelope
-        url: mailto:michaelhe2016@gmail.com  
+        url: mailto:Jaqqiedu8@gmail.com   
 
 foxtrotmembers:
   - name: Vincent Sanchez
@@ -169,13 +169,13 @@ foxtrotmembers:
     img: Sanchez, Vincent (1).JPG
     social:
       - title: envelope
-        url: mailto:christinan2004@gmail.com
+        url: mailto:sanchezvince@outlook.com
   - name: Samiya Soman
     position: Foxtrot Flight Sergeant
     img: Soman, Samiya.PNG
     social:
        - title: envelope
-         url: mailto:luckyhonglol@gmail.com
+         url: mailto:samiyasoman@gmail.com 
 
 golfmembers:
   - name: Ryan Ong
