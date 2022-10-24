@@ -124,7 +124,7 @@ bravomembers:
 charliemembers:
   - name: Richard Rico
     position: Charlie Flight Commander
-    img: Rico, Richard .JPG
+    img: Rico, Richard.JPG
     social:
       - title: envelope
         url: mailto:ejeffeljohbuan24@gmail.com
@@ -152,13 +152,13 @@ deltamembers:
 echomembers:
   - name: Harini Akurathi
     position: Echo Flight Commander
-    img: Akurathi, Harini .JPG
+    img: Akurathi, Harini.JPG
     social:
       - title: envelope
         url: mailto:jusnguyen1@gmail.com
   - name: Jackeline Du
     position: Echo Flight Sergeant
-    img: Du, Jackeline.JPG
+    img: Du, Jackeline (1).JPG
     social:
       - title: envelope
         url: mailto:michaelhe2016@gmail.com  
