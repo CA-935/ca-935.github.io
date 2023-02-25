@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-tags: ''
+published: true
 ---
 This month's Scripps Ranch Civic Accosication's Newsletter highlighted the hard work and the prestigious scholarships rewarded to two cadets from our unit (c/Lt. Col Xavier Rico and c/Capt. Joshua Yang) on page 14.
 
