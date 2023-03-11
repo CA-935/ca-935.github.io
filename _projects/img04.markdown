@@ -1,4 +1,4 @@
 ---
-title:  "14 Mile Hike 2021"
-img: bataan-hike-21.JPG
+title:  "General Cantwell Visit"
+img: IMG_6943.jpeg
 ---
