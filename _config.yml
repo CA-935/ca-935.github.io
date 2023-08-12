@@ -265,11 +265,11 @@ kittyhawkmembers:
     
 educationmembers:
   - name: Mia Canales
-    position: Education SNCO
-    img: Canales, Mia1.JPG
-  - name: Vivian Wang
+    position: Education Officer in Charge
+    img: Canales, Mia.JPG
+  - name: Bowie Murthy
     position: Education NCO
-    img: Wang, Vivian.JPG
+    img: Murthy, Bowie.JPG
      
     
 
@@ -341,31 +341,34 @@ staffmembers:
         url: mailto:christophervformal@gmail.com
 
 ypfmembers:
-  - name: Dallas Barksdale 
+  - name: Sean Anthony 
+    position: GPF Officer
+    img: Anthony, Sean.jpg
+  - name: Evangeline Bennett 
     position: YPF Officer
-    img: Barksdale, Dallas.jpeg
+    img: Bennett, Evangeline.jpg
   - name: Sean Anthony 
     position: YPF NCO
     img: Anthony, Sean.jpeg
 
 aptmembers:
-  - name: Navya Chiruta
-    position: APT Officer in Charge
-    img: Chiruta, Navya.JPG
   - name: Neeta Prasanna
-    position: APT NCO
+    position: APT Officer in Charge
     img: Prasanna, Neeta.JPG
+  - name: Navya Chiruta
+    position: APT Assistant Officer in Charge
+    img: Chiruta, Navya.JPG
+  - name: Kaitlyn Ly
+    position: APT NCO
+    img: Ly, Kaitlyn.JPG
 
 cyberpatriotmembers:
-  - name: Nathan Min
-    position: CyberPatriot Officer in Charge
-    img: Min, Nathan.JPG
   - name: Veer Chopra
-    position: CyberPatriot NCO
+    position: CyberPatriot Officer in Charge
     img: Chopra, Veer.JPG
-  - name: Delbert Tran
+  - name: Aarav Maheshwari
     position: CyberPatriot NCO
-    img: Tran, Delbert.JPG
+    img: Maheshwari, Aarav.JPG
  
 
 # Clients information. Shown on Home and About pages.
