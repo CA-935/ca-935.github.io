@@ -67,25 +67,25 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Keshav Srinivasan
+  - name: Song Kang
     position: Public Affairs Officer
-    img: Keshav Sri.JPG
-    
-  - name: Maggie Kwee
-    position: Public Affairs Asst. Officer in Charge
-    img: Kwee, Maggie.jpg
+    img: Kang, Song.jpg
     
   - name: Julian Schiff
+    position: Public Affairs Asst. Officer in Charge
+    img: Schiff, Julian.jpg
+    
+  - name: Anisha Chaudhari
     position: Public Affairs NCO
-    img: Schiff, Julian.JPG
+    img: Chaudhari, Anisha.jpg
     
   - name: Song Kang
     position: Technology Officer in Charge
     img: Kang, Song.JPG
     
-  - name: Mayank Sharma
+  - name: Morgan Kwee
     position: Technology NCO
-    img: Sharma, Mayank.JPG
+    img: Kwee, Morgan.jpg
     
   - name: Advik Srivastava
     position: Technology NCO
@@ -195,70 +195,73 @@ hotelmembers:
     
     
 armedmembers:
-  - name: Silas dela Cruz
+  - name: Jenish Jayswal
     position: Armed Team Officer in Charge
-    img: dela Cruz, Silas.JPG
-  - name: Gurjeet Birdee
+    img: Jayswal, Jenish.jpg
+  - name: Talan Alonza-Paulus
     position: Armed Team NCO
-    img: Birdee, Gurjeet.JPG
+    img: Alonza-Paulus, Talan.jpg
 
 cgmembers:
-  - name: Joylyn Lew
+  - name: Kai Tomasyk
     position: Color Guard Officer in Charge
-    img: Lew, Joylyn.JPG
+    img: Tomasyk, Kai.jpg
   - name: Elliot Mell
     position: Color Guard NCO
     img: Mell, Elliot.JPG
 
 flagdetailmembers:
-  - name: Timothy Le
-    img: Le, Timothy.JPG
+  - name: Liana Wong
+    img: Wong, Liana.jpg
     position: Flag Detail Officer in Charge
   - name: Liana Wong
     position: Flag Detail NCO
     img: Wong, Liana.JPG
 
 sabermembers:
-  - name: Jonathan Jiang 
-    position: Saber Team Officer in Charge
-    img: Jiang, Jonathan.JPG
   - name: Caleb Shin
+    position: Saber Team Officer in Charge
+    img: Shin, Caleb.jpg
+  - name: Bella Phan
     position: Saber Team NCO
-    img: Shin, Caleb.JPG
+    img: Phan, Bella.jpg
 
 unarmedmembers:
-  - name: Christopher Villalobos
-    position: Unarmed Team Officer in Charge
-    img: Villalobos, Christopher.JPG
   - name: Nicole Sieto
+    position: Unarmed Team Officer in Charge
+    img: Sieto, Nicole.jpg
+  - name: Katherine Kwon
     position: Unarmed Team NCO
-    img: Sieto, Nicole.JPG
+    img: Kwon, Katherine.jpg
 
 
 academicmembers:
   - name: Ryan Min
-    position: Academic Team SNCO
+    position: Academic Team Officer in Charge
     img: Min, Ryan.jpeg
-  - name: Paul Macapinlac 
+  - name: Sofia Danylova
     position: Academic Team NCO
-    img: Macapinlac, Paul.jpeg
+    img: Danylova, Sofia.jpg
  
 stellarmembers:
   - name: Calvin Corbett
-    position: Stellar Xplorers SNCO
-    img: Corbett, Calvin.JPG
+    position: Stellar Xplorers Officer in Charge
+    img: Corbett, Calvin.jpg
+  - name: Abheek Somchaudhuri
+    position: Stellar Xplorers NCO
+    img: Somchaudhuri, Abheek.jpg
 
      
 kittyhawkmembers:
-  - name: Kelin Gonzalez
-    position: Kitty Hawk Officer in Charge
-    img: Gonzalez, Kelin.JPG
   - name: Vianna Loam
+    position: Kitty Hawk Officer in Charge
+    img: Loam, Vianna.jpg
+  - name: Nathan Hoang
+    position: Kitty Hawk Assistant Officer in Charge
+    img: Hoang, Nathan.jpg
+  - name: Isabella Nguyen
     position: Kitty Hawk NCO
-    img: Loam, Vianna.JPG
-  - name: Li-Na Yeh
-    position: Kitty Hawk NCO
-    img: Yeh, Li-na.JPG
+    img: Nguyen, Isabella.jpg
     
 educationmembers:
   - name: Mia Canales
@@ -302,37 +305,37 @@ staffmembers:
       - title: envelope
         url: mailto:luckyhong2005@gmail.com
   
-  - name: Joshua Yang
+  - name: Andres Palacios
     position: Mission Support Commander
-    img: Yang, Joshua.JPG
+    img: Palacios, Andres.jpg
     social:
       - title: envelope
         url: mailto:jsyjosh333@gmail.com
   
-  - name: Emma Mills
+  - name: Elliot Mell
     position: Logistics Commander
-    img: Mills, Emma.JPG
+    img: Mell, Elliot.jpg
     social:
       - title: envelope
         url: mailto:emma.mills11046@gmail.com
   
-  - name: Isabella Canales
+  - name: Maggie Kwee
     position: Plans and Programs
-    img: Canales, Isabella.JPG
+    img: Kwee, Maggie.jpg
     social:
       - title: envelope
         url: mailto:ibellacan@gmail.com
   
-  - name: Keshav Srinivasan
+  - name: Song Kang
     position: Public Affairs Commander
-    img: Srinivasan, Keshav.JPG
+    img: Kang, Song.jpg
     social:
       - title: envelope
         url: mailto:skeshav@gmail.com
   
-  - name: Christopher Villalobos
+  - name: Silas dela Cruz
     position: Teams Commander
-    img: Villalobos, Christopher.JPG
+    img: dela Cruz, Silas.jpg
     social:
       - title: envelope
         url: mailto:christophervformal@gmail.com
