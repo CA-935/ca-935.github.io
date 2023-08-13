@@ -266,10 +266,10 @@ kittyhawkmembers:
 educationmembers:
   - name: Mia Canales
     position: Education Officer in Charge
-    img: Canales, Mia.JPG
+    img: Canales, Mia.jpg
   - name: Bowie Murthy
     position: Education NCO
-    img: Murthy, Bowie.JPG
+    img: Murthy, Bowie.jpg
      
     
 
@@ -354,21 +354,21 @@ ypfmembers:
 aptmembers:
   - name: Neeta Prasanna
     position: APT Officer in Charge
-    img: Prasanna, Neeta.JPG
+    img: Prasanna, Neeta.jpg
   - name: Navya Chiruta
     position: APT Assistant Officer in Charge
-    img: Chiruta, Navya.JPG
+    img: Chiruta, Navya.jpg
   - name: Kaitlyn Ly
     position: APT NCO
-    img: Ly, Kaitlyn.JPG
+    img: Ly, Kaitlyn.jpg
 
 cyberpatriotmembers:
   - name: Veer Chopra
     position: CyberPatriot Officer in Charge
-    img: Chopra, Veer.JPG
+    img: Chopra, Veer.jpg
   - name: Aarav Maheshwari
     position: CyberPatriot NCO
-    img: Maheshwari, Aarav.JPG
+    img: Maheshwari, Aarav.jpg
  
 
 # Clients information. Shown on Home and About pages.
