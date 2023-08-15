@@ -79,9 +79,9 @@ members:
     position: Public Affairs NCO
     img: Chaudhari, Anisha.jpg
     
-  - name: Song Kang
+  - name: -
     position: Technology Officer in Charge
-    img: Kang, Song.JPG
+    img: 
     
   - name: Morgan Kwee
     position: Technology NCO
@@ -206,17 +206,17 @@ cgmembers:
   - name: Kai Tomasyk
     position: Color Guard Officer in Charge
     img: Tomasyk, Kai.jpg
-  - name: Elliot Mell
+  - name: -
     position: Color Guard NCO
-    img: Mell, Elliot.JPG
+    img: 
 
 flagdetailmembers:
   - name: Liana Wong
     img: Wong, Liana.jpg
     position: Flag Detail Officer in Charge
-  - name: Liana Wong
+  - name: -
     position: Flag Detail NCO
-    img: Wong, Liana.JPG
+    img: 
 
 sabermembers:
   - name: Caleb Shin
@@ -274,33 +274,33 @@ educationmembers:
     
 
 staffmembers:
-  - name: Hilary Nguyen
+  - name: -
     position: Group Commander
-    img: Nguyen, Hilary.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
       
 
  
-  - name: Xavier Rico
+  - name: -
     position: Deputy Commander
-    img: Rico, Xavier.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:xrrico@gmail.com
  
-  - name: Braden Perry
+  - name: -
     position: First Sergeant
-    img: Perry, Braden.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:bradenperry12@gmail.com
 
         
-  - name: Lucky Hong
+  - name: -
     position: Operations Commander
-    img: Hong, Lucky.JPG
+    img: 
     social:
       - title: envelope
         url: mailto:luckyhong2005@gmail.com
@@ -347,9 +347,9 @@ ypfmembers:
   - name: Evangeline Bennett 
     position: YPF Officer
     img: Bennett, Evangeline.jpg
-  - name: Sean Anthony 
+  - name: -
     position: YPF NCO
-    img: Anthony, Sean.jpeg
+    img: 
 
 aptmembers:
   - name: Neeta Prasanna
@@ -366,9 +366,9 @@ cyberpatriotmembers:
   - name: Veer Chopra
     position: CyberPatriot Officer in Charge
     img: Chopra, Veer.jpg
-  - name: Aarav Maheshwari
+  - name: -
     position: CyberPatriot NCO
-    img: Maheshwari, Aarav.jpg
+    img: 
  
 
 # Clients information. Shown on Home and About pages.
