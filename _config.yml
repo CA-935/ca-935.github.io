@@ -206,7 +206,7 @@ cgmembers:
   - name: Kai Tomasyk
     position: Color Guard Officer in Charge
     img: Tomasyk, Kai.jpg
-  - name: - Elliot Mell
+  - name: Elliot Mell
     position: Color Guard NCO
     img: Mell, Elliot.JPG
 
@@ -214,7 +214,7 @@ flagdetailmembers:
   - name: Liana Wong
     img: Wong, Liana.jpg
     position: Flag Detail Officer in Charge
-  - name: - Liana Wong
+  - name: Liana Wong
     position: Flag Detail NCO
     img: Wong, Liana.JPG
 
@@ -283,9 +283,9 @@ staffmembers:
       
 
  
-  - name: -
+  - name: Xavier Rico
     position: Deputy Commander
-    img: 
+    img: Rico, Xavier.JPG
     social:
       - title: envelope
         url: mailto:xrrico@gmail.com
