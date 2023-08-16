@@ -79,9 +79,9 @@ members:
     position: Public Affairs NCO
     img: Chaudhari, Anisha.jpg
     
-  - name: -
+  - name: - Song Kang      
     position: Technology Officer in Charge
-    img: 
+    img: Kang, Song.JPG
     
   - name: Morgan Kwee
     position: Technology NCO
@@ -206,17 +206,17 @@ cgmembers:
   - name: Kai Tomasyk
     position: Color Guard Officer in Charge
     img: Tomasyk, Kai.jpg
-  - name: -
+  - name: - Elliot Mell
     position: Color Guard NCO
-    img: 
+    img: Mell, Elliot.JPG
 
 flagdetailmembers:
   - name: Liana Wong
     img: Wong, Liana.jpg
     position: Flag Detail Officer in Charge
-  - name: -
+  - name: - Liana Wong
     position: Flag Detail NCO
-    img: 
+    img: Wong, Liana.JPG
 
 sabermembers:
   - name: Caleb Shin
@@ -274,9 +274,9 @@ educationmembers:
     
 
 staffmembers:
-  - name: -
+  - name: Hilary Nguyen
     position: Group Commander
-    img: 
+    img: Nguyen, Hilary.JPG
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
@@ -290,17 +290,17 @@ staffmembers:
       - title: envelope
         url: mailto:xrrico@gmail.com
  
-  - name: -
+  - name: Braden Perry
     position: First Sergeant
-    img: 
+    img: Perry, Braden.JPG 
     social:
       - title: envelope
         url: mailto:bradenperry12@gmail.com
 
         
-  - name: -
+  - name: Lucky Hong
     position: Operations Commander
-    img: 
+    img: Hong, Lucky.JPG
     social:
       - title: envelope
         url: mailto:luckyhong2005@gmail.com
@@ -347,9 +347,9 @@ ypfmembers:
   - name: Evangeline Bennett 
     position: YPF Officer
     img: Bennett, Evangeline.jpg
-  - name: -
+  - name: Sean Anthony 
     position: YPF NCO
-    img: 
+    img: Anthony, Sean.jpeg
 
 aptmembers:
   - name: Neeta Prasanna
@@ -366,9 +366,9 @@ cyberpatriotmembers:
   - name: Veer Chopra
     position: CyberPatriot Officer in Charge
     img: Chopra, Veer.jpg
-  - name: -
+  - name: Aarav Maheshwari
     position: CyberPatriot NCO
-    img: 
+    img: Maheshwari, Aarav.jpg
  
 
 # Clients information. Shown on Home and About pages.
