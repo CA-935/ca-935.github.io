@@ -69,15 +69,15 @@ address:
 members:
   - name: Song Kang
     position: Public Affairs Officer
-    img: Kang, Song.jpg
+    img: Kang, Song2.jpg
     
   - name: Julian Schiff
     position: Public Affairs Asst. Officer in Charge
-    img: Schiff, Julian.jpg
+    img: Schiff, Julian2.jpg
     
   - name: Anisha Chaudhari
     position: Public Affairs NCO
-    img: Chaudhari, Anisha.jpg
+    img: Chaudhari, Anisha2.jpg
     
   - name: Song Kang  
     position: Technology Officer in Charge
@@ -85,11 +85,11 @@ members:
     
   - name: Morgan Kwee
     position: Technology NCO
-    img: Kwee, Morgan.jpg
+    img: Kwee, Morgan2.jpg
     
   - name: Advik Srivastava
     position: Technology NCO
-    img: Srivastava, Advik.jpg
+    img: Srivastava, Advik2.jpg
     
  
     
@@ -197,22 +197,22 @@ hotelmembers:
 armedmembers:
   - name: Jenish Jayswal
     position: Armed Team Officer in Charge
-    img: Jayswal, Jenish.jpg
+    img: Jayswal, Jenish2.jpg
   - name: Talan Alonza-Paulus
     position: Armed Team NCO
-    img: Alonza-Paulus, Talan.jpg
+    img: Alonza-Paulus, Talan2.jpg
 
 cgmembers:
   - name: Kai Tomasyk
     position: Color Guard Officer in Charge
-    img: Tomasyk, Kai.jpg
+    img: Tomasyk, Kai2.jpg
   - name: Elliot Mell
     position: Color Guard NCO
     img: Mell, Elliot.JPG
 
 flagdetailmembers:
   - name: Liana Wong
-    img: Wong, Liana.jpg
+    img: Wong, Liana2.jpg
     position: Flag Detail Officer in Charge
   - name: Liana Wong
     position: Flag Detail NCO
@@ -221,55 +221,55 @@ flagdetailmembers:
 sabermembers:
   - name: Caleb Shin
     position: Saber Team Officer in Charge
-    img: Shin, Caleb.jpg
+    img: Shin, Caleb2.jpg
   - name: Bella Phan
     position: Saber Team NCO
-    img: Phan, Bella.jpg
+    img: Phan, Bella2.jpg
 
 unarmedmembers:
   - name: Nicole Sieto
     position: Unarmed Team Officer in Charge
-    img: Sieto, Nicole.jpg
+    img: Sieto, Nicole2.jpg
   - name: Katherine Kwon
     position: Unarmed Team NCO
-    img: Kwon, Katherine.jpg
+    img: Kwon, Katherine2.jpg
 
 
 academicmembers:
   - name: Ryan Min
     position: Academic Team Officer in Charge
-    img: Min, Ryan.jpeg
+    img: Min, Ryan2.jpg
   - name: Sofia Danylova
     position: Academic Team NCO
-    img: Danylova, Sofia.jpg
+    img: Danylova, Sofia2.jpg
  
 stellarmembers:
   - name: Calvin Corbett
     position: Stellar Xplorers Officer in Charge
-    img: Corbett, Calvin.jpg
+    img: Corbett, Calvin2.jpg
   - name: Abheek Somchaudhuri
     position: Stellar Xplorers NCO
-    img: Somchaudhuri, Abheek.jpg
+    img: Somchaudhuri, Abheek2.jpg
 
      
 kittyhawkmembers:
   - name: Vianna Loam
     position: Kitty Hawk Officer in Charge
-    img: Loam, Vianna.jpg
+    img: Loam, Vianna2.jpg
   - name: Nathan Hoang
     position: Kitty Hawk Assistant Officer in Charge
-    img: Hoang, Nathan.jpg
+    img: Hoang, Nathan2.jpg
   - name: Isabella Nguyen
     position: Kitty Hawk NCO
-    img: Nguyen, Isabella.jpg
+    img: Nguyen, Isabella2.jpg
     
 educationmembers:
   - name: Mia Canales
     position: Education Officer in Charge
-    img: Canales, Mia.jpg
+    img: Canales, Mia2.jpg
   - name: Bowie Murthy
     position: Education NCO
-    img: Murthy, Bowie.jpg
+    img: Murthy, Bowie2.jpg
      
     
 
@@ -307,35 +307,35 @@ staffmembers:
   
   - name: Andres Palacios
     position: Mission Support Commander
-    img: Palacios, Andres.jpg
+    img: Palacios, Andres2.jpg
     social:
       - title: envelope
         url: mailto:jsyjosh333@gmail.com
   
   - name: Elliot Mell
     position: Logistics Commander
-    img: Mell, Elliot.jpg
+    img: Mell, Elliot2.jpg
     social:
       - title: envelope
         url: mailto:emma.mills11046@gmail.com
   
   - name: Maggie Kwee
     position: Plans and Programs
-    img: Kwee, Maggie.jpg
+    img: Kwee, Maggie2.jpg
     social:
       - title: envelope
         url: mailto:ibellacan@gmail.com
   
   - name: Song Kang
     position: Public Affairs Commander
-    img: Kang, Song.jpg
+    img: Kang, Song2.jpg
     social:
       - title: envelope
         url: mailto:skeshav@gmail.com
   
   - name: Silas dela Cruz
     position: Teams Commander
-    img: dela Cruz, Silas.jpg
+    img: dela Cruz, Silas2.jpg
     social:
       - title: envelope
         url: mailto:christophervformal@gmail.com
@@ -343,10 +343,10 @@ staffmembers:
 ypfmembers:
   - name: Sean Anthony 
     position: GPF Officer
-    img: Anthony, Sean.jpg
+    img: Anthony, Sean2.jpg
   - name: Evangeline Bennett 
     position: YPF Officer
-    img: Bennett, Evangeline.jpg
+    img: Bennett, Evangeline2.jpg
   - name: Sean Anthony 
     position: YPF NCO
     img: Anthony, Sean.jpeg
@@ -354,18 +354,18 @@ ypfmembers:
 aptmembers:
   - name: Neeta Prasanna
     position: APT Officer in Charge
-    img: Prasanna, Neeta.jpg
+    img: Prasanna, Neeta2.jpg
   - name: Navya Chiruta
     position: APT Assistant Officer in Charge
-    img: Chiruta, Navya.jpg
+    img: Chiruta, Navya2.jpg
   - name: Kaitlyn Ly
     position: APT NCO
-    img: Ly, Kaitlyn.jpg
+    img: Ly, Kaitlyn2.jpg
 
 cyberpatriotmembers:
   - name: Veer Chopra
     position: CyberPatriot Officer in Charge
-    img: Chopra, Veer.jpg
+    img: Chopra, Veer2.jpg
   - name: Aarav Maheshwari
     position: CyberPatriot NCO
     img: Maheshwari, Aarav.jpg
