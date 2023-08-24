@@ -274,25 +274,25 @@ educationmembers:
     
 
 staffmembers:
-  - name: Hilary Nguyen
+  - name: JJ O'Connell
     position: Group Commander
-    img: Nguyen, Hilary.JPG
+    img: o_Connell, John Joseph.JPG
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
       
 
  
-  - name: Xavier Rico
+  - name: Jonathan Jiang
     position: Deputy Commander
-    img: Rico, Xavier.JPG
+    img: Jiang, Jonathan.JPG
     social:
       - title: envelope
         url: mailto:xrrico@gmail.com
  
-  - name: Braden Perry
+  - name: Tyler Hong
     position: First Sergeant
-    img: Perry, Braden.JPG 
+    img: Hong, Tyler.JPG
     social:
       - title: envelope
         url: mailto:bradenperry12@gmail.com
