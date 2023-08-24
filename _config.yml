@@ -276,7 +276,7 @@ educationmembers:
 staffmembers:
   - name: JJ O'Connell
     position: Group Commander
-    img: o_Connell, John Joseph2.JPG
+    img: o_Connell, John Joseph2.jpg
     social:
       - title: envelope
         url: mailto:hi.04.nguyen@gmail.com
@@ -285,14 +285,14 @@ staffmembers:
  
   - name: Jonathan Jiang
     position: Deputy Commander
-    img: Jiang, Jonathan2.JPG
+    img: Jiang, Jonathan2.jpg
     social:
       - title: envelope
         url: mailto:xrrico@gmail.com
  
   - name: Tyler Hong
     position: First Sergeant
-    img: Hong, Tyler2.JPG
+    img: Hong, Tyler2.jpg
     social:
       - title: envelope
         url: mailto:bradenperry12@gmail.com
