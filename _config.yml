@@ -206,17 +206,17 @@ cgmembers:
   - name: Kai Tomasyk
     position: Color Guard Officer in Charge
     img: Tomasyk, Kai2.jpg
-  - name: Elliot Mell
+  - name: Maya Rudi
     position: Color Guard NCO
-    img: Mell, Elliot.JPG
+    img: Rudi, Maya.jpg
 
 flagdetailmembers:
   - name: Liana Wong
     img: Wong, Liana2.jpg
     position: Flag Detail Officer in Charge
-  - name: Liana Wong
+  - name: Khyla Adams
     position: Flag Detail NCO
-    img: Wong, Liana.JPG
+    img: Adams, Khyla.jpg
 
 sabermembers:
   - name: Caleb Shin
@@ -347,9 +347,9 @@ ypfmembers:
   - name: Evangeline Bennett 
     position: YPF Officer
     img: Bennett, Evangeline2.jpg
-  - name: Sean Anthony 
+  - name: Rowan Sullivan
     position: YPF NCO
-    img: Anthony, Sean.jpeg
+    img: Sullivan, Rowan.jpg
 
 aptmembers:
   - name: Neeta Prasanna
