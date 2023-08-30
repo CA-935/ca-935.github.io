@@ -93,97 +93,103 @@ members:
     
  
     
-alphamembers:
-  - name: Tyler Hong
-    position: Alpha Flight Commander
-    img: Hong, Tyler.JPG
-    social:
-      - title: envelope
-        url: mailto:abelhurt13@gmail.com
+alphamembers: 
   - name: Amanda Nguyen
-    position: Alpha Flight Sergeant
-    img: Nguyen, Amanda (1).JPG
+    position: Alpha Flight Commander
+    img: Nguyen, Amanda.jpg
     social:
       - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
+        url: amanda.d.nguyenn@gmail.com 
+  - name: Julia Zou
+    position: Alpha Flight Sergeant
+    img: Zou, Julia.jpg
+    social:
+      - title: envelope
+        url: juliazou71@gmail.com
    
 bravomembers:
-  - name: JJ O'Connell
+  - name: Jackeline Du
     position: Bravo Flight Commander
     img: O'Connell, JJ.JPG
     social:
       - title: envelope
-        url: mailto:jjoconnelliv@gmail.com
-  - name: Veer Chopra
+        url: jaqqiedu8@gmail.com
+  - name: Ellie Huang
     position: Bravo Flight Sergeant
-    img: Chopra, Veer.JPG
+    img: Huang, Ellie.jpg
     social:
       - title: envelope
-        url: mailto:hkquinn4@gmail.com
+        url: elliehng08@gmail.com 
     
 charliemembers:
-  - name: Richard Rico
+  - name: Kenny Kim
     position: Charlie Flight Commander
-    img: Rico, Richard.JPG
+    img: Kim, Kenny.jpg
     social:
       - title: envelope
-        url: mailto:Rgrico001@gmail.com
-  - name: Angelina Dinh
+        url: kenny10975.kim@gmail.com
+  - name: Hailey Shin
     position: Charlie Flight Sergeant
-    img: Dinh, Angelina.JPG
+    img: Shin, Hailey.jpg
     social:
       - title: envelope
-        url: mailto:adinh726@gmail.com
+        url: haileyshin2008@gmail.com
 
 deltamembers:
-  - name: Andres Palacios
-    position: Delta Flight Commander
-    img: Palacios, Andres (1).JPG
-    social:
-      - title: envelope
-        url: mailto:ajpr1910@gmail.com
   - name: Nicholas Bai
-    position: Delta Flight Sergeant
-    img: Bai, Nicholas.JPG
+    position: Delta Flight Commander
+    img: Bai, Nicholas.jpg
     social:
       - title: envelope
         url: nicholaszybai@gmail.com
+  - name: Yoonah Lee
+    position: Delta Flight Sergeant
+    img: Lee, Yoonah.jpg
+    social:
+      - title: envelope
+        url: 2808ylee@gmail.com
         
 echomembers:
-  - name: Harini Akurathi
+  - name: Rithvik Manikandan
     position: Echo Flight Commander
-    img: Akurathi, Harini.JPG
+    img: Manikandan, Rithvik.jpg
     social:
       - title: envelope
-        url: mailto:harini0731@gmail.com
-  - name: Jackeline Du
+        url: rithviks84@gmail.com
+  - name: Sahana Balu
     position: Echo Flight Sergeant
-    img: Du, Jackeline (1).JPG
+    img: Balu, Sahana.jpg
     social:
       - title: envelope
-        url: mailto:Jaqqiedu8@gmail.com   
+        url: balusahana@gmail.com
 
 foxtrotmembers:
-  - name: Vincent Sanchez
+  - name: Isabella Lo
     position: Foxtrot Flight Commander
-    img: Sanchez, Vincent (1).JPG
+    img: Lo, Isabella.png
     social:
       - title: envelope
-        url: mailto:sanchezvince@outlook.com
-  - name: Samiya Soman
+        url: mailto:isabellalo2025@gmail.com
+  - name: Isabella Nguyen
     position: Foxtrot Flight Sergeant
-    img: Soman, Samiya.JPG
+    img: Nguyen, Isabella.jpg
     social:
        - title: envelope
-         url: mailto:samiyasoman@gmail.com 
+         url: isabellanguyen.10.26@gmail.com 
 
 golfmembers:
-  - name: Ryan Ong
+  - name: Angelina Dinh
     position: Golf Flight Commander
-    img: golfcc1920.jpg
-  - name: Rusell Lee
+    img: Dinh, Angie.jpg
+    social:
+      - title: envelope
+      - url: adinh726@gmail.com
+  - name: Tanisi Chauhan
     position: Golf Flight Sergeant
-    img: golfsgt1920.jpg
+    img: Chauhan, Tanisi.jpg
+    social:
+      - title: envelope
+      - url: tanisichauhan10@gmail.com 
 
 hotelmembers:
   - name: David Udom
@@ -198,7 +204,7 @@ armedmembers:
   - name: Jenish Jayswal
     position: Armed Team Officer in Charge
     img: Jayswal, Jenish2.jpg
-  - name: Talan Alonza-Paulus
+  - name: Talan Alzona-Paulus
     position: Armed Team NCO
     img: Alonza-Paulus, Talan2.jpg
 
