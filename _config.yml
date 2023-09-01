@@ -99,13 +99,13 @@ alphamembers:
     img: Nguyen, Amanda.jpg
     social:
       - title: envelope
-        url: amanda.d.nguyenn@gmail.com 
+        url: mailto:amanda.d.nguyenn@gmail.com 
   - name: Julia Zou
     position: Alpha Flight Sergeant
     img: Zou, Julia.jpg
     social:
       - title: envelope
-        url: juliazou71@gmail.com
+        url: mailto:juliazou71@gmail.com
    
 bravomembers:
   - name: Jackeline Du
@@ -113,13 +113,13 @@ bravomembers:
     img: Du, Jaqqie.jpg
     social:
       - title: envelope
-        url: jaqqiedu8@gmail.com
+        url: mailto:jaqqiedu8@gmail.com
   - name: Ellie Huang
     position: Bravo Flight Sergeant
     img: Huang, Ellie.jpg
     social:
       - title: envelope
-        url: elliehng08@gmail.com 
+        url: mailto:elliehng08@gmail.com 
     
 charliemembers:
   - name: Kenny Kim
@@ -127,13 +127,13 @@ charliemembers:
     img: Kim, Kenny.jpg
     social:
       - title: envelope
-        url: kenny10975.kim@gmail.com
+        url: mailto:kenny10975.kim@gmail.com
   - name: Hailey Shin
     position: Charlie Flight Sergeant
     img: Shin, Hailey.jpg
     social:
       - title: envelope
-        url: haileyshin2008@gmail.com
+        url: mailto:haileyshin2008@gmail.com
 
 deltamembers:
   - name: Nicholas Bai
@@ -141,13 +141,13 @@ deltamembers:
     img: Bai, Nicholas.jpg
     social:
       - title: envelope
-        url: nicholaszybai@gmail.com
+        url: mailto:nicholaszybai@gmail.com
   - name: Yoonah Lee
     position: Delta Flight Sergeant
     img: Lee, Yoonah.jpg
     social:
       - title: envelope
-        url: 2808ylee@gmail.com
+        url: mailto:2808ylee@gmail.com
         
 echomembers:
   - name: Rithvik Manikandan
@@ -155,13 +155,13 @@ echomembers:
     img: Manikandan, Rithvik.jpg
     social:
       - title: envelope
-        url: rithviks84@gmail.com
+        url: mailto:rithviks84@gmail.com
   - name: Sahana Balu
     position: Echo Flight Sergeant
     img: Balu, Sahana.jpg
     social:
       - title: envelope
-        url: balusahana@gmail.com
+        url: mailto:balusahana@gmail.com
 
 foxtrotmembers:
   - name: Isabella Lo
@@ -175,7 +175,7 @@ foxtrotmembers:
     img: Nguyen, Isabella.jpg
     social:
        - title: envelope
-         url: isabellanguyen.10.26@gmail.com 
+         url: mailto:isabellanguyen.10.26@gmail.com 
 
 golfmembers:
   - name: Angelina Dinh
@@ -183,13 +183,13 @@ golfmembers:
     img: Dinh, Angie.jpg
     social:
       - title: envelope
-      - url: adinh726@gmail.com
+        url: mailto:adinh726@gmail.com
   - name: Tanisi Chauhan
     position: Golf Flight Sergeant
     img: Chauhan, Tanisi.jpg
     social:
       - title: envelope
-      - url: tanisichauhan10@gmail.com 
+        url: mailto:tanisichauhan10@gmail.com 
 
 hotelmembers:
   - name: David Udom
