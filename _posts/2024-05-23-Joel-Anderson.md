@@ -2,7 +2,7 @@
 layout: post
 published: true
 ---
-![joelanderson.pdf]({{site.baseurl}}/media/joelanderson.pdf)
+![joelanderson.jpg]({{site.baseurl}}/media/joelanderson.jpg)
 
 I am pleased to share with you an excellent internship opportunity in San Diego County with the office of County Supervisor Joel Anderson, District 2. An internship position with the County of San Diego offers a variety of valuable responsibilities and experience which range from essential office tasks, policy research, constituent correspondence, working with government agencies, research projects, aiding in community outreach programs, public speaking, attending community events on behalf of the Supervisor, and creating & presenting certificates of recognition. They also have a media department where interns have the opportunity to research, write, and polish articles and stories for publication in local newspapers, their newsletter, and select Online outlets.
 
