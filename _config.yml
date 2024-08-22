@@ -280,71 +280,71 @@ educationmembers:
     
 
 staffmembers:
-  - name: Ryan Min
+  - name: JJ O'Connell
     position: Group Commander
-    img: Min, Ryan.JPG
+    img: o_Connell, John Joseph2.jpg
     social:
       - title: envelope
-        url: mailto:ryankmin7@gmail.com
+        url: mailto:jjoconnelliv@gmail.com
       
 
  
-  - name: Jackeline Du
+  - name: Jonathan Jiang
     position: Deputy Commander
-    img: Du, Jackeline.JPG
+    img: Jiang, Jonathan2.jpg
     social:
       - title: envelope
-        url: mailto:jaqqiedu8@gmail.com
+        url: mailto:jonathan.m.jiang@gmail.com
  
-  - name: Rithvik Manikandan
+  - name: Tyler Hong
     position: First Sergeant
-    img: Manikandan, Rithvik.JPG
+    img: Hong, Tyler2.jpg
     social:
       - title: envelope
-        url: mailto:rithviks84@gmail.com
+        url: mailto:tylerhong43@gmail.com
 
         
-  - name: Amanda Nguyen
+  - name: Harini Akurathi
     position: Operations Commander
-    img: Nguyen, Amanda.JPG
+    img: Akurathi, Harini.jpg
     social:
       - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
+        url: mailto:harini0731@gmail.com
   
-  - name: Vianna Loam
+  - name: Andres Palacios
     position: Mission Support Commander
-    img: Loam, Vianna.JPG
+    img: Palacios, Andres2.jpg
     social:
       - title: envelope
-        url: mailto:veloam312@gmail.com
+        url: mailto:ajpr1910@gmail.com
   
-  - name: Isabella Lo
+  - name: Elliot Mell
     position: Logistics Commander
-    img: Lo, Isabella.JPG
+    img: Mell, Elliot2.jpg
     social:
       - title: envelope
-        url: mailto:isabellalo2025@gmail.com
+        url: mailto:elliotangelomell@gmail.com
   
-  - name: Veer Chopra
+  - name: Maggie Kwee
     position: Plans and Programs
-    img: Chopra, Veer.JPG
+    img: Kwee, Maggie2.jpg
     social:
       - title: envelope
-        url: mailto:veerchopra28@gmail.com
+        url: mailto:mvkwee082@gmail.com
   
-  - name: Valencia Dinh
+  - name: Song Kang
     position: Public Affairs Commander
-    img: Dinh, Valencia.JPG
+    img: Kang, Song2.jpg
     social:
       - title: envelope
-        url: mailto:dinhvalencia@gmail.com
+        url: mailto:song06.jrotc@gmail.com
   
-  - name: Angie Dinh
+  - name: Silas dela Cruz
     position: Teams Commander
-    img: Dinh, Angie.JPG
+    img: dela Cruz, Silas2.jpg
     social:
       - title: envelope
-        url: mailto:adinh726@gmail.com
+        url: mailto:skirandelacruz@gmail.com
 
 ypfmembers:
   - name: Sean Anthony 
