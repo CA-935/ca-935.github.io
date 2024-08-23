@@ -285,12 +285,12 @@ educationmembers:
     
 
 staffmembers:
-  - name: JJ O'Connell
+  - name: Ryan Min
     position: Group Commander
-    img: o_Connell, John Joseph2.jpg
+    img: Min, Ryan.JPG
     social:
       - title: envelope
-        url: mailto:jjoconnelliv@gmail.com
+        url: mailto:ryankmin7@gmail.com
       
 
  
