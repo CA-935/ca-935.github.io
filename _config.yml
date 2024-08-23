@@ -305,6 +305,13 @@ staffmembers:
     social:
       - title: envelope
         url: mailto:rithviks84@gmail.com
+        
+  - name: Amanda Nguyen
+    position: Operations Commander
+    img: Nguyen, Amanda.JPG
+    social:
+      - title: envelope
+        url: mailto:amanda.d.nguyenn@gmail.com
   
   - name: Vianna Loam
     position: Mission Support Commander
@@ -340,13 +347,6 @@ staffmembers:
     social:
       - title: envelope
         url: mailto:adinh726@gmail.com
-
-    - name: Amanda Nguyen
-    position: Operations Commander
-    img: Nguyen, Amanda.JPG
-    social:
-      - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
 
 ypfmembers:
   - name: Sean Anthony 
