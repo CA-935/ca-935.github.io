@@ -164,41 +164,46 @@ echomembers:
         url: mailto:balusahana@gmail.com
 
 foxtrotmembers:
-  - name: Isabella Lo
+  - name: Crystal Hooi
     position: Foxtrot Flight Commander
-    img: Lo, Isabella.png
+    img: Hooi, Crystal.JPG
     social:
       - title: envelope
-        url: mailto:isabellalo2025@gmail.com
-  - name: Isabella Nguyen
+        url: mailto:cry.h837@gmail.com
+  - name: Noah Beyer
     position: Foxtrot Flight Sergeant
-    img: Nguyen, Isabella.jpg
+    img: Beyer, Noah.JPG
     social:
        - title: envelope
-         url: mailto:isabellanguyen.10.26@gmail.com 
+         url: mailto:noahrbeyer@gmail.com 
 
 golfmembers:
-  - name: Angie Dinh
+  - name: Sonakshi Kanakala
     position: Golf Flight Commander
-    img: Dinh, Angie.jpg
+    img: Kanakala, Sonakshi.JPG
     social:
       - title: envelope
-        url: mailto:adinh726@gmail.com
-  - name: Tanisi Chauhan
+        url: mailto:sonakshikanakala@gmail.com
+  - name: Monica Chan
     position: Golf Flight Sergeant
-    img: Chauhan, Tanisi.jpg
+    img: Chan, Monica.JPG
     social:
       - title: envelope
-        url: mailto:tanisichauhan10@gmail.com 
+        url: mailto:monicayschan@gmail.com 
 
 hotelmembers:
-  - name: David Udom
+  - name: Isabella Nguyen
     position: Hotel Flight Commander
-    img: Udom, David.jpg
-  - name: 
+    img: Nguyen, Isabella.JPG
+    social:
+      - title: envelope
+        url: mailto:isabellanguyen.10.26.2@gmail.com
+  - name: Shayne Maddox
     position: Hotel Flight Sergeant
-    img: 
-    
+    img: Maddox, Shayne.JPG
+    social:
+      - title: envelope
+        url: mailto:smadman4811@gmail.com
     
 armedmembers:
   - name: Julian Schiff
