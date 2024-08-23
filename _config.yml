@@ -291,15 +291,13 @@ staffmembers:
     social:
       - title: envelope
         url: mailto:ryankmin7@gmail.com
-      
-
  
-  - name: Jonathan Jiang
+  - name: Jackeline Du
     position: Deputy Commander
-    img: Jiang, Jonathan2.jpg
+    img: Du, Jackeline.JPG
     social:
       - title: envelope
-        url: mailto:jonathan.m.jiang@gmail.com
+        url: mailto:jaqqiedu8@gmail.com
  
   - name: Tyler Hong
     position: First Sergeant
