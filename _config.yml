@@ -201,44 +201,44 @@ hotelmembers:
     
     
 armedmembers:
-  - name: Jenish Jayswal
+  - name: Julian Schiff
     position: Armed Team Officer in Charge
-    img: Jayswal, Jenish2.jpg
-  - name: 
+    img: Schiff, Julian.JPG
+  - name: Bridge Han
     position: Armed Team NCO
-    img: 
+    img: Han, Bridge.JPG
 
 cgmembers:
-  - name: Kai Tomasyk
-    position: Color Guard Officer in Charge
-    img: Tomasyk, Kai2.jpg
   - name: Maya Rudi
+    position: Color Guard Officer in Charge
+    img: Rudi, Maya.JPG
+  - name: David Nasi
     position: Color Guard NCO
-    img: Rudi, Maya.jpg
+    img: Nasi, David.JPG
 
 flagdetailmembers:
-  - name: Liana Wong
-    img: Wong, Liana2.jpg
+  - name: Tiffany Le
+    img: Le, Tiffany.JPG
     position: Flag Detail Officer in Charge
-  - name: Khyla Adams
+  - name: Jadelynn Doan
     position: Flag Detail NCO
-    img: Adams, Khyla.jpg
+    img: Doan, Jadelynn.JPG
 
 sabermembers:
-  - name: Caleb Shin
-    position: Saber Team Officer in Charge
-    img: Shin, Caleb2.jpg
   - name: Bella Phan
+    position: Saber Team Officer in Charge
+    img: Phan, Bella.JPG
+  - name: Daniel Yang
     position: Saber Team NCO
-    img: Phan, Bella2.jpg
+    img: Yang, David.JPG
 
 unarmedmembers:
-  - name: Nicole Sieto
-    position: Unarmed Team Officer in Charge
-    img: Sieto, Nicole2.jpg
   - name: Katherine Kwon
+    position: Unarmed Team Officer in Charge
+    img: Kwon, Katherine.JPG
+  - name: Ryan Mansour
     position: Unarmed Team NCO
-    img: Kwon, Katherine2.jpg
+    img: Mansour, Ryan.JPG
 
 
 academicmembers:
