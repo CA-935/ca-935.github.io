@@ -305,13 +305,6 @@ staffmembers:
     social:
       - title: envelope
         url: mailto:rithviks84@gmail.com
-        
-  - name: Amanda Nguyen
-    position: Operations Commander
-    img: Nguyen, Amanda.JPG
-    social:
-      - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
   
   - name: Vianna Loam
     position: Mission Support Commander
@@ -320,33 +313,40 @@ staffmembers:
       - title: envelope
         url: mailto:veloam312@gmail.com
   
-  - name: Elliot Mell
+  - name: Isabella Lo
     position: Logistics Commander
-    img: Mell, Elliot2.jpg
+    img: Lo, Isabella.JPG
     social:
       - title: envelope
-        url: mailto:elliotangelomell@gmail.com
+        url: mailto:isabellalo2025@gmail.com
   
-  - name: Maggie Kwee
+  - name: Veer Chopra
     position: Plans and Programs
-    img: Kwee, Maggie2.jpg
+    img: Chopra, Veer.JPG
     social:
       - title: envelope
-        url: mailto:mvkwee082@gmail.com
+        url: mailto:veerchopra28@gmail.com
   
-  - name: Song Kang
+  - name: Valencia Dinh
     position: Public Affairs Commander
-    img: Kang, Song2.jpg
+    img: Dinh, Valencia.JPG
     social:
       - title: envelope
-        url: mailto:song06.jrotc@gmail.com
+        url: mailto:dinhvalencia@gmail.com
   
-  - name: Silas dela Cruz
+  - name: Angie Dinh
     position: Teams Commander
-    img: dela Cruz, Silas2.jpg
+    img: Dinh, Angie.JPG
     social:
       - title: envelope
-        url: mailto:skirandelacruz@gmail.com
+        url: mailto:adinh726@gmail.com
+
+    - name: Amanda Nguyen
+    position: Operations Commander
+    img: Nguyen, Amanda.JPG
+    social:
+      - title: envelope
+        url: mailto:amanda.d.nguyenn@gmail.com
 
 ypfmembers:
   - name: Sean Anthony 
