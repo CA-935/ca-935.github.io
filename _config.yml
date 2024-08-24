@@ -306,19 +306,19 @@ staffmembers:
       - title: envelope
         url: mailto:rithviks84@gmail.com
         
-  - name: Amanda Nguyen
-    position: Operations Commander
-    img: Nguyen, Amanda.JPG
-    social:
-      - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
-  
   - name: Vianna Loam
     position: Mission Support Commander
     img: Loam, Vianna.JPG
     social:
       - title: envelope
         url: mailto:veloam312@gmail.com
+  
+  - name: Amanda Nguyen
+    position: Operations Commander
+    img: Nguyen, Amanda.JPG
+    social:
+      - title: envelope
+        url: mailto:amanda.d.nguyenn@gmail.com
   
   - name: Isabella Lo
     position: Logistics Commander
