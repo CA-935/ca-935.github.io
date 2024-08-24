@@ -94,46 +94,46 @@ members:
  
     
 alphamembers: 
-  - name: Amanda Nguyen
+  - name: Samiya Soman
     position: Alpha Flight Commander
-    img: Nguyen, Amanda.jpg
+    img: Soman, Samiya.JPG
     social:
       - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com 
-  - name: Julia Zou
+        url: mailto:samiyasoman@gmail.com
+  - name: Ethan Sim
     position: Alpha Flight Sergeant
-    img: Zou, Julia.jpg
+    img: Sim, Ethan.JPG
+    social:
+      - title: envelope
+        url: mailto:iethansim21@gmail.com
+   
+bravomembers:
+  - name: Liana Wong
+    position: Bravo Flight Commander
+    img: Wong, Liana.JPG
+    social:
+      - title: envelope
+        url: mailto:
+  - name: Jadelynn Doan
+    position: Bravo Flight Sergeant
+    img: Doan, Jadelynn.JPG
+    social:
+      - title: envelope
+        url: mailto:jadelynnd2009@gmail.com
+    
+charliemembers:
+  - name: Julia Zou
+    position: Charlie Flight Commander
+    img: Zou, Julia.JPG
     social:
       - title: envelope
         url: mailto:juliazou71@gmail.com
-   
-bravomembers:
-  - name: Jackeline Du
-    position: Bravo Flight Commander
-    img: Du, Jaqqie.jpg
-    social:
-      - title: envelope
-        url: mailto:jaqqiedu8@gmail.com
-  - name: Ellie Huang
-    position: Bravo Flight Sergeant
-    img: Huang, Ellie.jpg
-    social:
-      - title: envelope
-        url: mailto:elliehng08@gmail.com 
-    
-charliemembers:
-  - name: Kenny Kim
-    position: Charlie Flight Commander
-    img: Kim, Kenny.jpg
-    social:
-      - title: envelope
-        url: mailto:kenny10975.kim@gmail.com
-  - name: Hailey Shin
+  - name: Sol Pham
     position: Charlie Flight Sergeant
-    img: Shin, Hailey.jpg
+    img: Pham, Sol.JPG
     social:
       - title: envelope
-        url: mailto:haileyshin2008@gmail.com
+        url: mailto:ashpham2008@gmail.com
 
 deltamembers:
   - name: Nicholas Bai
