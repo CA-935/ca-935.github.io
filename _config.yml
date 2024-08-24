@@ -255,12 +255,15 @@ academicmembers:
     img: Liu, Kamryn.JPG
  
 stellarmembers:
-  - name: Calvin Corbett
+  - name: Sofia Danylova
     position: Stellar Xplorers Officer in Charge
-    img: Corbett, Calvin2.jpg
-  - name: Abheek Somchaudhuri
+    img: Danylova, Sofia.JPG
+  - name: Calvin Corbett
+    position: Stellar Xplorers Assistant Officer in Charge
+    img: Corbett, Calvin.JPG
+  - name: Heather Ngo
     position: Stellar Xplorers NCO
-    img: Somchaudhuri, Abheek2.jpg
+    img: Ngo, Heather.JPG
 
      
 kittyhawkmembers:
