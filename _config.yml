@@ -362,15 +362,15 @@ ypfmembers:
     position: YPF NCO
 
 aptmembers:
-  - name: Neeta Prasanna
-    position: APT Officer in Charge
-    img: Prasanna, Neeta2.jpg
-  - name: Navya Chiruta
-    position: APT Assistant Officer in Charge
-    img: Chiruta, Navya2.jpg
   - name: Kaitlyn Ly
+    position: APT Officer in Charge
+    img: Ly, Kaitlyn.JPG
+  - name: Sonakshi Kanakala
+    position: APT Assistant Officer in Charge
+    img: Kanakala, Sonakshi.JPG
+  - name: Siri Chiruta
     position: APT NCO
-    img: Ly, Kaitlyn2.jpg
+    img: Chiruta, Siri.JPG
 
 cyberpatriotmembers:
   - name: Veer Chopra
