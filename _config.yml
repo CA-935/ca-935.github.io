@@ -352,14 +352,12 @@ staffmembers:
         url: mailto:adinh726@gmail.com
 
 ypfmembers:
-  - name: Sean Anthony 
-    position: GPF Officer
-    img: Anthony, Sean2.jpg
-  - name: Evangeline Bennett 
-    position: YPF Officer
-    img: Bennett, Evangeline2.jpg
-  - name: Rowan Sullivan 
-    position: YPF NCO
+  - name: Tiendat Banh
+    position: GPF/YPF Officer
+    img: Banh, Tiendat.JPG
+  - name: Gael Perez 
+    position: GPF/YPF NCO
+    img: Perez, Gael.JPG
 
 aptmembers:
   - name: Kaitlyn Ly
