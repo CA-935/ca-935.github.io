@@ -1,4 +1,4 @@
 ---
-title:  "Sweetwater Drill Competition 2019"
-img: sweetwater2019.jpg
+title:  "Fontana Drill Competition 2024"
+img: Fontana 2024.jpg.JPG
 ---
