@@ -371,12 +371,12 @@ aptmembers:
     img: Chiruta, Siri.JPG
 
 cyberpatriotmembers:
-  - name: Veer Chopra
-    position: CyberPatriot Officer in Charge
-    img: Chopra, Veer2.jpg
-  - name: Aarav Maheshwari
+  - name: Audrey Li
+    position: CyberPatriot Senior NCO
+    img: Li, Audrey.JPG
+  - name: Ananda Weise
     position: CyberPatriot NCO
-    img: Maheshwari, Aarav.jpg
+    img: Weise, Ananda.JPG
  
 
 # Clients information. Shown on Home and About pages.
