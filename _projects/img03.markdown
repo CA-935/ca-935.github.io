@@ -1,4 +1,4 @@
 ---
-title:  "Cyber Patriot wins All-Service National Competition"
-img: IMG_9695.jpg
+title:  "Sweetwater Drill Competition 2023"
+img: Sweatwater 2023.jpg.JPG
 ---
