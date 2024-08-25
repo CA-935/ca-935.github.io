@@ -136,32 +136,32 @@ charliemembers:
         url: mailto:ashpham2008@gmail.com
 
 deltamembers:
-  - name: Nicholas Bai
+  - name: Hailey Shin
     position: Delta Flight Commander
-    img: Bai, Nicholas.jpg
+    img: Shin, Hailey.JPG
     social:
       - title: envelope
-        url: mailto:nicholaszybai@gmail.com
-  - name: Yoonah Lee
+        url: mailto:haileyshin2008@gmail.com
+  - name: Saanvi Iyer
     position: Delta Flight Sergeant
-    img: Lee, Yoonah.jpg
+    img: Iyer, Saanvi.JPG
     social:
       - title: envelope
-        url: mailto:2808ylee@gmail.com
+        url: mailto:iyersaanvi20@gmail.com
         
 echomembers:
-  - name: Rithvik Manikandan
+  - name: Sean Anthony
     position: Echo Flight Commander
-    img: Manikandan, Rithvik.jpg
+    img: Anthony, Sean.JPG
     social:
       - title: envelope
-        url: mailto:rithviks84@gmail.com
-  - name: Sahana Balu
+        url: mailto:sean06anthony@gmail.com
+  - name: Saanvi Kowda
     position: Echo Flight Sergeant
-    img: Balu, Sahana.jpg
+    img: Kowda, Saanvi.jpg
     social:
       - title: envelope
-        url: mailto:balusahana@gmail.com
+        url: mailto:saanvikowda@gmail.com
 
 foxtrotmembers:
   - name: Crystal Hooi
