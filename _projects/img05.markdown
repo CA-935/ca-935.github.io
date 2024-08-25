@@ -1,4 +1,4 @@
 ---
-title:  "I-fly 2023"
-img: Ifly (1).jpeg
+title:  "San Diego Zoo Field Trip"
+img: SD Zoo 2023.jpg.JPG
 ---
