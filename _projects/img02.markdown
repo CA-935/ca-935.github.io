@@ -1,4 +1,4 @@
 ---
-title:  "Congressman Scott Peters Visit"
-img: congressmanpetersvisit.jpeg
+title:  "Cadet Picnic 2023"
+img: Cadet Picnic 2023.jpg.JPG
 ---
