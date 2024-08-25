@@ -278,12 +278,12 @@ kittyhawkmembers:
     img: Nguyen, Isabella2.jpg
     
 educationmembers:
-  - name: Mia Canales
-    position: Education Officer in Charge
-    img: Canales, Mia2.jpg
   - name: Bowie Murthy
+    position: Education Officer in Charge
+    img: Murthy, Bowie.JPG
+  - name: Aryahi Jogi
     position: Education NCO
-    img: Murthy, Bowie2.jpg
+    img: Jogi, Aryahi.JPG
      
     
 
