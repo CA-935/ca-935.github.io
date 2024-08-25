@@ -1,4 +1,4 @@
 ---
-title:  "Best Drilled Platoon/Squadron 2019"
-img: bdpandbds2019.jpeg
+title:  "Awards Banquet 2024"
+img: Awards Banquet 2024.jpg.JPG
 ---
