@@ -7,6 +7,13 @@
   position: relative;
 }
 
+.row gx-2 {
+	float: right;
+  padding:10px;
+  overflow:auto;
+  clear:both;
+}
+
 /* Hide the images by default */
 .mySlides {
   display: none;
