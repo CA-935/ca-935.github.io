@@ -138,16 +138,16 @@ charliemembers:
 deltamembers:
   - name: Harini Sreeraman
     position: Delta Flight Commander
-    img: Sreeraman, Harini25.jpg
+    img: Sreeraman, Harini25.JPG
     social:
       - title: envelope
         url: mailto: harinis1729@gmail.com
-  - name: Saanvi Iyer
+  - name: Chloe Jiang
     position: Delta Flight Sergeant
-    img: Iyer, Saanvi.JPG
+    img: Jiang, Chloe.JPG
     social:
       - title: envelope
-        url: mailto:iyersaanvi20@gmail.com
+        url: mailto:chloej7749@gmail.com
         
 echomembers:
   - name: Sean Anthony
