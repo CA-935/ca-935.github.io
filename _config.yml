@@ -241,15 +241,12 @@ academicmembers:
     img: Liu, Kamryn.JPG
  
 stellarmembers:
-  - name: Sofia Danylova
-    position: Stellar Xplorers Officer in Charge
-    img: Danylova, Sofia.JPG
-  - name: Calvin Corbett
-    position: Stellar Xplorers Assistant Officer in Charge
-    img: Corbett, Calvin.JPG
   - name: Heather Ngo
+    position: Stellar Xplorers Officer in Charge
+    img: Ngo, Heather25.jpg
+  - name: Sarah Zheng
     position: Stellar Xplorers NCO
-    img: Ngo, Heather.JPG
+    img: Zheng, Sarah25.jpg
 
      
 kittyhawkmembers:
