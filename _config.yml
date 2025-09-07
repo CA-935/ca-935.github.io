@@ -338,12 +338,15 @@ staffmembers:
         url: mailto:kathii.kwon81408@gmail.com
 
 ypfmembers:
-  - name: Tiendat Banh
+  - name: Gael Perez
     position: GPF/YPF Officer
-    img: Banh, Tiendat.JPG
-  - name: Gael Perez 
-    position: GPF/YPF NCO
-    img: Perez, Gael.JPG
+    img: Perez, Gael25.jpg
+  - name: Matthew Tran 
+    position: GPF NCO
+    img: Tran, Matthew25.jpg
+  - name: Liu, Olivia
+    position: YPF/GPF/Raiders NCO
+    img: Liu, Olivia25.jpg
 
 aptmembers:
   - name: Kaitlyn Ly
