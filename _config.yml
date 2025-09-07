@@ -195,9 +195,9 @@ armedmembers:
   - name: Bridge Han
     position: Armed Team Officer in Charge
     img: Han, Bridge25.jpg
-  - name: Joseph Tram-Malan
+  - name: Joseph Tran-Malan
     position: Armed Team NCO
-    img: Tran-Malan, Joseph.jpg
+    img: Tran-Malan, Joseph25.jpg
 
 cgmembers:
   - name: David Nasi
@@ -216,7 +216,7 @@ flagdetailmembers:
     img: Ju, Alyssa25.jpg
 
 sabermembers:
-  - name: Daniel, Yang
+  - name: Daniel Yang
     position: Saber Team Officer in Charge
     img: Yang, Daniel25.jpg
   - name: Alice Kim
