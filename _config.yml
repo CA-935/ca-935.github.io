@@ -122,18 +122,18 @@ bravomembers:
         url: mailto:jadelynnd2009@gmail.com
     
 charliemembers:
-  - name: Julia Zou
-    position: Charlie Flight Commander
-    img: Zou, Julia.JPG
-    social:
-      - title: envelope
-        url: mailto:juliazou71@gmail.com
   - name: Sol Pham
-    position: Charlie Flight Sergeant
-    img: Pham, Sol.JPG
+    position: Charlie Flight Commander
+    img: Pham, Sol2025.jpg
     social:
       - title: envelope
         url: mailto:ashpham2008@gmail.com
+  - name: Kyan Bach
+    position: Charlie Flight Sergeant
+    img: Bach, Kyan25.jpg
+    social:
+      - title: envelope
+        url: kyan123redpepper@gmail.com
 
 deltamembers:
   - name: Harini Sreeraman
