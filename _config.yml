@@ -164,86 +164,72 @@ echomembers:
         url: mailto:saanvikowda@gmail.com
 
 foxtrotmembers:
-  - name: Crystal Hooi
+  - name: Heather Ngo
     position: Foxtrot Flight Commander
-    img: Hooi, Crystal.JPG
+    img: Ngo, Heather25.jpg
     social:
       - title: envelope
-        url: mailto:cry.h837@gmail.com
-  - name: Noah Beyer
+        url: mailto:heather448448@gmail.com
+  - name: Hasini Thamidala
     position: Foxtrot Flight Sergeant
-    img: Beyer, Noah.JPG
+    img: Thamidala, Hasini25.jpg
     social:
        - title: envelope
-         url: mailto:noahrbeyer@gmail.com 
+         url: mailto:hasinit21@gmail.com 
 
 golfmembers:
-  - name: Sonakshi Kanakala
+  - name: Jadelynn Doan
     position: Golf Flight Commander
-    img: Kanakala, Sonakshi.JPG
+    img: Doan, Jadelynn25.jpg
     social:
       - title: envelope
-        url: mailto:sonakshikanakala@gmail.com
-  - name: Monica Chan
+        url: mailto:jadelynnd2009@gmail.com
+  - name: Ashley Kim
     position: Golf Flight Sergeant
-    img: Chan, Monica.JPG
+    img: Kim, Ashley25.jpg
     social:
       - title: envelope
-        url: mailto:monicayschan@gmail.com 
-
-hotelmembers:
-  - name: Isabella Nguyen
-    position: Hotel Flight Commander
-    img: Nguyen, Isabella.JPG
-    social:
-      - title: envelope
-        url: mailto:isabellanguyen.10.26.2@gmail.com
-  - name: Shayne Maddox
-    position: Hotel Flight Sergeant
-    img: Maddox, Shayne.JPG
-    social:
-      - title: envelope
-        url: mailto:smadman4811@gmail.com
+        url: mailto:ashleyjkimsd@gmail.com
     
 armedmembers:
-  - name: Julian Schiff
-    position: Armed Team Officer in Charge
-    img: Schiff, Julian.JPG
   - name: Bridge Han
+    position: Armed Team Officer in Charge
+    img: Han, Bridge25.jpg
+  - name: Joseph Tram-Malan
     position: Armed Team NCO
-    img: Han, Bridge.JPG
+    img: Tran-Malan, Joseph.jpg
 
 cgmembers:
-  - name: Maya Rudi
-    position: Color Guard Officer in Charge
-    img: Rudi, Maya.JPG
   - name: David Nasi
+    position: Color Guard Officer in Charge
+    img: Nasi, David25.jpg
+  - name: Chase Hebert
     position: Color Guard NCO
-    img: Nasi, David.JPG
+    img: Hebert, Chase25.jpg
 
 flagdetailmembers:
-  - name: Tiffany Le
-    img: Le, Tiffany.JPG
+  - name: Maverick Capiendo
+    img: Capiendo, Maverick.jpg
     position: Flag Detail Officer in Charge
-  - name: Jadelynn Doan
+  - name: Alyssa Ju
     position: Flag Detail NCO
-    img: Doan, Jadelynn.JPG
+    img: Ju, Alyssa25.jpg
 
 sabermembers:
-  - name: Bella Phan
+  - name: Daniel, Yang
     position: Saber Team Officer in Charge
-    img: Phan, Bella.JPG
-  - name: Daniel Yang
+    img: Yang, Daniel25.jpg
+  - name: Alice Kim
     position: Saber Team NCO
-    img: Yang, Daniel.JPG
+    img: Kim, Alice25.jpg
 
 unarmedmembers:
-  - name: Katherine Kwon
+  - name: Ethan Sim
     position: Unarmed Team Officer in Charge
-    img: Kwon, Katherine.JPG
-  - name: Ryan Mansour
+    img: Sim, Ethan25.jpg
+  - name: Arya Deshmukh
     position: Unarmed Team NCO
-    img: Mansour, Ryan.JPG
+    img: Deshmukh, Arya25.jpg
 
 
 academicmembers:
@@ -288,68 +274,68 @@ educationmembers:
     
 
 staffmembers:
-  - name: Ryan Min
+  - name: Julia Zou
     position: Group Commander
-    img: Min, Ryan.JPG
+    img: Zou, Julia25.jpg
     social:
       - title: envelope
-        url: mailto:ryankmin7@gmail.com
+        url: mailto:juliazou71@gmail.com
  
-  - name: Jackeline Du
+  - name: Sonakshi Kanakala
     position: Deputy Commander
-    img: Du, Jackeline.JPG
+    img: Kanakala, Sonakshi25.jpg
     social:
       - title: envelope
-        url: mailto:jaqqiedu8@gmail.com
+        url: mailto:sonakshikanakala@gmail.com
  
-  - name: Rithvik Manikandan
+  - name: Bella Phan
     position: First Sergeant
-    img: Manikandan, Rithvik.JPG
+    img: Phan, Bella25.jpg
     social:
       - title: envelope
-        url: mailto:rithviks84@gmail.com
+        url: mailto:bellaphan08@gmail.com
         
-  - name: Vianna Loam
+  - name: Isabella Nguyen
     position: Mission Support Commander
-    img: Loam, Vianna.JPG
+    img: Nguyen, Isabella25.jpg
     social:
       - title: envelope
-        url: mailto:veloam312@gmail.com
+        url: mailto:isabellanguyen.10.26.2@gmail.com
   
-  - name: Amanda Nguyen
+  - name: Hailey Shin
     position: Operations Commander
-    img: Nguyen, Amanda.JPG
+    img: Shin, Hailey25.jpg
     social:
       - title: envelope
-        url: mailto:amanda.d.nguyenn@gmail.com
+        url: mailto:haileyshin2008@gmail.com
   
-  - name: Isabella Lo
+  - name: Crystal Hooi
     position: Logistics Commander
-    img: Lo, Isabella.JPG
+    img: Hooi, Crystal25.jpg
     social:
       - title: envelope
-        url: mailto:isabellalo2025@gmail.com
+        url: mailto:cry.h837@gmail.com 
   
-  - name: Veer Chopra
+  - name: Yoonah Lee
     position: Plans and Programs Commander
-    img: Chopra, Veer.JPG
+    img: Lee, Yoonah25.jpg
     social:
       - title: envelope
-        url: mailto:veerchopra28@gmail.com
+        url: mailto:2808ylee@gmail.com
   
-  - name: Valencia Dinh
+  - name: Morgan Kwee
     position: Public Affairs Commander
-    img: Dinh, Valencia.JPG
+    img: Kwee, Morgan25.jpg
     social:
       - title: envelope
-        url: mailto:dinhvalencia@gmail.com
+        url: mailto:morganjrotc08@gmail.com 
   
-  - name: Angie Dinh
+  - name: Katherine Kwon
     position: Teams Commander
-    img: Dinh, Angie.JPG
+    img: Kwon, Katherine25.jpg
     social:
       - title: envelope
-        url: mailto:adinh726@gmail.com
+        url: mailto:kathii.kwon81408@gmail.com
 
 ypfmembers:
   - name: Tiendat Banh
