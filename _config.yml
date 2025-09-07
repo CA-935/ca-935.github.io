@@ -150,18 +150,18 @@ deltamembers:
         url: mailto:chloej7749@gmail.com
         
 echomembers:
-  - name: Sean Anthony
+  - name: Noah Beyer
     position: Echo Flight Commander
-    img: Anthony, Sean.JPG
+    img: Beyer, Noah25.jpg
     social:
       - title: envelope
-        url: mailto:sean06anthony@gmail.com
+        url: mailto:noahrbeyer@gmail.com
   - name: Zoya Qureshi
     position: Echo Flight Sergeant
-    img: Qureshi, Zoya.jpg
+    img: Qureshi, Zoya25.jpg
     social:
       - title: envelope
-        url: mailto:saanvikowda@gmail.com
+        url: mailto:20zoyaq09@gmail.com
 
 foxtrotmembers:
   - name: Heather Ngo
