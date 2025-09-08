@@ -233,12 +233,12 @@ unarmedmembers:
 
 
 academicmembers:
-  - name: Yoonah Lee
-    position: Academic Team Officer in Charge
-    img: Lee, Yoonah.JPG
   - name: Kamryn Liu
+    position: Academic Team Officer in Charge
+    img: Liu, Kamryn25.jpg
+  - name: Alyssa Zhou
     position: Academic Team NCO
-    img: Liu, Kamryn.JPG
+    img: Zhou, Alyssa25.jpg
  
 stellarmembers:
   - name: Heather Ngo
