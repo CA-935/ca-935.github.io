@@ -358,11 +358,11 @@ aptmembers:
 
 cyberpatriotmembers:
   - name: Audrey Li
-    position: CyberPatriot Senior NCO
-    img: Li, Audrey.JPG
-  - name: Ananda Weise
+    position: CyberPatriot Officer
+    img: Li, Audrey25.JPG
+  - name: Arush Sastry
     position: CyberPatriot NCO
-    img: Weise, Ananda.JPG
+    img: 
  
 
 # Clients information. Shown on Home and About pages.
