@@ -346,15 +346,15 @@ ypfmembers:
     img: Liu, Olivia25.jpg
 
 aptmembers:
-  - name: Kaitlyn Ly
-    position: APT Officer in Charge
-    img: Ly, Kaitlyn.JPG
-  - name: Sonakshi Kanakala
-    position: APT Assistant Officer in Charge
-    img: Kanakala, Sonakshi.JPG
   - name: Siri Chiruta
+    position: APT Officer in Charge
+    img: Chiruta, Siri25.jpt
+  - name: Kaitlyn Ly
+    position: APT Assistant Officer in Charge
+    img: Ly, Kaitlyn25.jpt
+  - name: Zoya Qureshi
     position: APT NCO
-    img: Chiruta, Siri.JPG
+    img: Qureshi, Zoya25.jpg
 
 cyberpatriotmembers:
   - name: Audrey Li
