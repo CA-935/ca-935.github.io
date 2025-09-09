@@ -67,59 +67,56 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Valencia Dinh
+  - name: Morgan Kwee
     position: Public Affairs Officer
-    img: Dinh, Valencia.JPG
+    img: Kwee, Morgan25.jpg
     
-  - name: Anisha Chaudhari
-    position: Public Affairs Asst. Officer in Charge
+  - name: Di Nguyen
+    position: Public Affairs SNCO
     img: Chaudhari, Anisha.JPG
     
-  - name: Leah Freeman
-    position: Public Affairs NCO
-    img: Freeman, Leah (1).JPG
-    
-  - name: Morgan Kwee
+  - name: Bianca Chan 
     position: Technology Officer in Charge
-    img: Kwee, Morgan (2).jpg
+    img: Chan, Bianca25.jpg
     
-  - name: Julian Schiff
-    position: Technology Asst. Officer in Charge
-    img: Schiff, Julian (1).JPG
-    
-  - name: Bianca Chan
+  - name: Mithali Bagirthi
     position: Technology NCO
-    img: Chan, Bianca.JPG
+    img: Bagirthi, Mithali25.jpg
+    
+  - name: Disha Ranjan
+    position: Technology NCO
+    img: Ranjan, Disha25.jpg
+
     
  
     
 alphamembers: 
-  - name: Samiya Soman
+  - name: Shayne Maddox
     position: Alpha Flight Commander
-    img: Soman, Samiya.JPG
+    img: Maddox, Shayne25.jpg
     social:
       - title: envelope
-        url: mailto:samiyasoman@gmail.com
-  - name: Ethan Sim
+        url: mailto:smadman4811@gmail.com
+  - name: Haasini Akurathi 
     position: Alpha Flight Sergeant
-    img: Sim, Ethan.JPG
+    img: Akurathi, Haasini25.jpg
     social:
       - title: envelope
-        url: mailto:iethansim21@gmail.com
+        url: mailto:haasini0527@gmail.com 
    
 bravomembers:
-  - name: Liana Wong
+  - name: Saanvi Iyer
     position: Bravo Flight Commander
-    img: Wong, Liana.JPG
+    img: Iyer, Saanvi25.jpg
     social:
       - title: envelope
-        url: mailto:liliwongg25@gmail.com
-  - name: Jadelynn Doan
+        url: mailto:iyersaanvi20@gmail.com
+  - name: Aritri Banerjee
     position: Bravo Flight Sergeant
-    img: Doan, Jadelynn.JPG
+    img: Banerjee, Aritri25.jpg
     social:
       - title: envelope
-        url: mailto:jadelynnd2009@gmail.com
+        url: mailto:tukkib3009@gmail.com
     
 charliemembers:
   - name: Sol Pham
@@ -261,12 +258,12 @@ kittyhawkmembers:
     img: Udas, Akshar25.jpg
     
 educationmembers:
-  - name: Bowie Murthy
-    position: Education Officer in Charge
-    img: Murthy, Bowie.JPG
   - name: Aryahi Jogi
+    position: Education Officer in Charge
+    img: Jogi, Aryahi25.jpg
+  - name: Samvrutha Ashok
     position: Education NCO
-    img: Jogi, Aryahi.JPG
+    img: Ashok, Samvrutha25.jpg 
      
     
 
