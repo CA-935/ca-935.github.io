@@ -250,15 +250,15 @@ stellarmembers:
 
      
 kittyhawkmembers:
-  - name: Mia Canales
-    position: Kitty Hawk Officer in Charge
-    img: Canales, Mia.JPG
-  - name: Harini Sreeraman
-    position: Kitty Hawk Assistant Officer in Charge
-    img: Sreeraman, Harini.JPG
   - name: Annalisa Boquiren
+    position: Kitty Hawk Officer in Charge
+    img: Boquiren, Annalisa25.JPG
+  - name: Bowie Murthy 
+    position: Kitty Hawk Assistant Officer in Charge
+    img: Murthy, Bowie25.JPG
+  - name: Akshar Udas 
     position: Kitty Hawk NCO
-    img: Boquiren, Annalisa.JPG
+    img: Udas, Akshar25.JPG
     
 educationmembers:
   - name: Bowie Murthy
