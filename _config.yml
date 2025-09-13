@@ -374,9 +374,9 @@ cadets not only to be their best, but also to perform their best."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "It's not what you have or what you know; it's what you do with your talent, skills, knowledge, and education that will determine your perfomance and give you the competitive edge!"
-    author: MSgt. Toledo
-    position: Aerospace Science Instructor - SRHS AFJROTC
+    message: "At CA-935, we are forging risk takers.  We are enabling cadets to step outside their comfort zones and venture into the unknown; to learn from their successes and failures without fear of negative consequences. These trials create a common bond, enabling the cadets to trust the process of resilience building. Cadets, we have work to do, the next challenge is coming…."
+    author: Major Francis
+    position: Senior Aerospace Science Instructor - SRHS AFJROTC
 
 prose:
   rooturl: '_posts'
