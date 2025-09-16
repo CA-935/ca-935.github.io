@@ -333,12 +333,12 @@ staffmembers:
 
 ypfmembers:
   - name: Gael Perez
-    position: GPF/YPF Officer
+    position: GPF/Raiders Officer
     img: Perez, Gael25.jpg
   - name: Matthew Tran 
-    position: GPF NCO
+    position: GPF Officer
     img: Tran, Matthew25.jpg
-  - name: Liu, Olivia
+  - name: Olivia Liu
     position: YPF/GPF/Raiders NCO
     img: Liu, Olivia25.jpg
 
