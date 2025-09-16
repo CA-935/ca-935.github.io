@@ -345,10 +345,10 @@ ypfmembers:
 aptmembers:
   - name: Siri Chiruta
     position: APT Officer in Charge
-    img: Chiruta, Siri25.jpt
+    img: Chiruta, Siri25.jpg
   - name: Kaitlyn Ly
     position: APT Assistant Officer in Charge
-    img: Ly, Kaitlyn25.jpt
+    img: Ly, Kaitlyn25.jpg
   - name: Zoya Qureshi
     position: APT NCO
     img: Qureshi, Zoya25.jpg
@@ -356,7 +356,7 @@ aptmembers:
 cyberpatriotmembers:
   - name: Audrey Li
     position: CyberPatriot Officer
-    img: Li, Audrey25.JPG
+    img: Li, Audrey25.jpg
   - name: Arush Sastry
     position: CyberPatriot NCO
     img: 
