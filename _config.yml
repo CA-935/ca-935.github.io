@@ -135,13 +135,13 @@ charliemembers:
 deltamembers:
   - name: Ashley Kim
     position: Delta Flight Commander
-    img: Akurathi, Haasini.jpg
+    img: Kim, Ashley.jpg
     social:
       - title: envelope
         url: mailto:ashleyjkimsd@gmail.com
   - name: Sai Vijay
     position: Delta Flight Sergeant
-    img: Jiang, Chloe.jpg
+    img: Vijay, Sai.jpg
     social:
       - title: envelope
         url: mailto:exoflier@gmail.com
