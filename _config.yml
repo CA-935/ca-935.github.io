@@ -119,32 +119,32 @@ bravomembers:
         url: mailto:selinasoman@gmail.com
     
 charliemembers:
-  - name: Sol Pham
+  - name: Haasini Akurathi
     position: Charlie Flight Commander
-    img: Pham, Sol2025.jpg
+    img: Akurathi, Haasini.jpg
     social:
       - title: envelope
-        url: mailto:ashpham2008@gmail.com
-  - name: Kyan Bach
+        url: mailto:haasini0527@gmail.com
+  - name: Arjun Jarapati
     position: Charlie Flight Sergeant
-    img: Bach, Kyan25.jpg
+    img: Jarapati, Arjun.jpg
     social:
       - title: envelope
-        url: kyan123redpepper@gmail.com
+        url: mailto:arjun.jarapati@gmail.com
 
 deltamembers:
-  - name: Harini Sreeraman
+  - name: Ashley Kim
     position: Delta Flight Commander
-    img: Sreeraman, Harini25.jpg
+    img: Akurathi, Haasini.jpg
     social:
       - title: envelope
-        url: mailto:harinis1729@gmail.com
-  - name: Chloe Jiang
+        url: mailto:ashleyjkimsd@gmail.com
+  - name: Sai Vijay
     position: Delta Flight Sergeant
     img: Jiang, Chloe.jpg
     social:
       - title: envelope
-        url: mailto:chloej7749@gmail.com
+        url: mailto:exoflier@gmail.com
         
 echomembers:
   - name: Noah Beyer
