@@ -67,25 +67,29 @@ address:
 #        url: http://twitter.com/handle
 
 members:
-  - name: Morgan Kwee
-    position: Public Affairs Officer
-    img: Kwee, Morgan25.jpg
-    
   - name: Di Nguyen
+    position: Public Affairs Officer
+    img: Nguyen, Di.jpg
+    
+  - name: Kaylee Nguyen
+    position: Public Affairs Officer In Charge
+    img: Nguyen, Kaylee.jpg
+
+  - name: Nuja Nameirakpam
     position: Public Affairs SNCO
-    img: Nguyen, Di25.jpg
+    img: Nameirakpam, Nuja.jpg
     
   - name: Bianca Chan 
     position: Technology Officer in Charge
-    img: Chan, Bianca25.jpg
+    img: Chan, Bianca.jpg
     
-  - name: Mithali Bagirthi
+  - name: Maya Castellanos
     position: Technology NCO
-    img: Bagirthi, Mithali25.jpg
+    img: Castellanos, Maya.jpg
     
-  - name: Disha Ranjan
+  - name: Siddharth Singh
     position: Technology NCO
-    img: Ranjan, Disha25.jpg
+    img: Singh, Siddharth.jpg
 
     
  
@@ -147,46 +151,46 @@ deltamembers:
         url: mailto:exoflier@gmail.com
         
 echomembers:
-  - name: Noah Beyer
+  - name: Aritri Banerjee
     position: Echo Flight Commander
-    img: Beyer, Noah25.jpg
+    img: Banerjee, Aritri.jpg
     social:
       - title: envelope
-        url: mailto:noahrbeyer@gmail.com
-  - name: Zoya Qureshi
+        url: mailto:tukkib3009@gmail.com
+  - name: David Trinh
     position: Echo Flight Sergeant
-    img: Qureshi, Zoya25.jpg
+    img: Lu, David.jpg
+    social:
+      - title: envelope
+        url: mailto:davidlu495@gmail.com
+
+foxtrotmembers:
+  - name: Zoya Qureshi
+    position: Foxtrot Flight Commander
+    img: Qureshi, Zoya.jpg
     social:
       - title: envelope
         url: mailto:20zoyaq09@gmail.com
-
-foxtrotmembers:
-  - name: Heather Ngo
-    position: Foxtrot Flight Commander
-    img: Ngo, Heather25.jpg
-    social:
-      - title: envelope
-        url: mailto:heather448448@gmail.com
-  - name: Hasini Thamidala
+  - name: Gavin Guo
     position: Foxtrot Flight Sergeant
-    img: Thamidala, Hasini25.jpg
+    img: Guo, Gavin.jpg
     social:
        - title: envelope
-         url: mailto:hasinit21@gmail.com 
+         url: mailto:gaving1181@gmail.com
 
 golfmembers:
-  - name: Jadelynn Doan
+  - name: Chloe Jiang
     position: Golf Flight Commander
-    img: Doan, Jadelynn25.jpg
+    img: Jiang, Chloe.jpg
     social:
       - title: envelope
-        url: mailto:jadelynnd2009@gmail.com
-  - name: Ashley Kim
+        url: mailto:chloej7749@gmail.com
+  - name: Aidan Min
     position: Golf Flight Sergeant
-    img: Kim, Ashley25.jpg
+    img: Min, Aidan.jpg
     social:
       - title: envelope
-        url: mailto:ashleyjkimsd@gmail.com
+        url: mailto:aidanmin11@gmail.com
     
 armedmembers:
   - name: Bridge Han
@@ -268,68 +272,68 @@ educationmembers:
     
 
 staffmembers:
-  - name: Julia Zou
+  - name: Sol Pham
     position: Group Commander
-    img: Zou, Julia25.jpg
+    img: Pham, Sol.jpg
     social:
       - title: envelope
-        url: mailto:juliazou71@gmail.com
+        url: mailto:soleils.thuyvy@gmail.com
  
-  - name: Sonakshi Kanakala
+  - name: Ethan Sim
     position: Deputy Commander
-    img: Kanakala, Sonakshi25.jpg
+    img: Sim, Ethan.jpg
     social:
       - title: envelope
-        url: mailto:sonakshikanakala@gmail.com
+        url: mailto:iethansim21@gmail.com
  
-  - name: Bella Phan
+  - name: Shayne Maddox
     position: First Sergeant
-    img: Phan, Bella25.jpg
+    img: Maddox, Shayne.jpg
     social:
       - title: envelope
-        url: mailto:bellaphan08@gmail.com
+        url: mailto:smadman4811@gmail.com
         
-  - name: Isabella Nguyen
+  - name: Annalisa Boquiren
     position: Mission Support Commander
-    img: Nguyen, Isabella25.jpg
+    img: Boquiren, Annalisa.jpg
     social:
       - title: envelope
-        url: mailto:isabellanguyen.10.26.2@gmail.com
+        url: mailto:annalisab.sdfan@gmail.com
   
-  - name: Hailey Shin
+  - name: Jadelynn Doan
     position: Operations Commander
-    img: Shin, Hailey25.jpg
+    img: Doan, Jadelynn.jpg
     social:
       - title: envelope
-        url: mailto:haileyshin2008@gmail.com
+        url: mailto:jadelynnd2009@gmail.com
   
-  - name: Crystal Hooi
+  - name: Saanvi Kowda
     position: Logistics Commander
-    img: Hooi, Crystal25.jpg
+    img: Kowda, Saanvi.jpg
     social:
       - title: envelope
-        url: mailto:cry.h837@gmail.com 
+        url: mailto:saanvikowda@gmail.com 
   
-  - name: Yoonah Lee
+  - name: Heather Ngo
     position: Plans and Programs Commander
-    img: Lee, Yoonah25.jpg
+    img: Ngo, Heather.jpg
     social:
       - title: envelope
-        url: mailto:2808ylee@gmail.com
+        url: mailto:heather448448@gmail.com
   
-  - name: Morgan Kwee
+  - name: Di Nguyen
     position: Public Affairs Commander
-    img: Kwee, Morgan25.jpg
+    img: Nguyen, Di.jpg
     social:
       - title: envelope
-        url: mailto:morganjrotc08@gmail.com 
+        url: mailto:Di.xny22@gmail.com 
   
-  - name: Katherine Kwon
+  - name: Bridge Han
     position: Teams Commander
-    img: Kwon, Katherine25.jpg
+    img: Han, Bridge.jpg
     social:
       - title: envelope
-        url: mailto:kathii.kwon81408@gmail.com
+        url: mailto:bridgehfam@gmail.com
 
 ypfmembers:
   - name: Gael Perez
