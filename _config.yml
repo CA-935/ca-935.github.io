@@ -193,12 +193,12 @@ golfmembers:
         url: mailto:aidanmin11@gmail.com
     
 armedmembers:
-  - name: Bridge Han
-    position: Armed Team Officer in Charge
-    img: Han, Bridge25.jpg
   - name: Joseph Tran-Malan
+    position: Armed Team Officer in Charge
+    img: Tran-Malan, Joseph.jpg
+  - name: Havish Korat
     position: Armed Team NCO
-    img: Tran-Malan, Joseph25.jpg
+    img: Korat, Havish (1).jpg
 
 cgmembers:
   - name: David Nasi
@@ -225,21 +225,21 @@ sabermembers:
     img: Kim, Alice25.jpg
 
 unarmedmembers:
-  - name: Ethan Sim
-    position: Unarmed Team Officer in Charge
-    img: Sim, Ethan25.jpg
   - name: Arya Deshmukh
+    position: Unarmed Team Officer in Charge
+    img: Deshmukh, Arya.jpg
+  - name: Mahi Vyas
     position: Unarmed Team NCO
-    img: Deshmukh, Arya25.jpg
+    img: Vyas, Mahi.jpg
 
 
 academicmembers:
-  - name: Kamryn Liu
-    position: Academic Team Officer in Charge
-    img: Liu, Kamryn25.jpg
-  - name: Alyssa Zhou
+  - name: Manit Chauhan
+    position: Academic Team SNCO
+    img: Chauhan, Manit.jpg
+  - name: Aidan Min
     position: Academic Team NCO
-    img: Zhou, Alyssa25.jpg
+    img: Min, Aidan.jpg
  
 stellarmembers:
   - name: Heather Ngo
@@ -347,15 +347,15 @@ ypfmembers:
     img: Liu, Olivia25.jpg
 
 aptmembers:
-  - name: Siri Chiruta
+  - name: Zoya Qureshi
     position: APT Officer in Charge
-    img: Chiruta, Siri25.jpg
-  - name: Kaitlyn Ly
+    img: Qureshi, Zoya.jpg
+  - name: Siri Chiruta
     position: APT Assistant Officer in Charge
     img: Ly, Kaitlyn25.jpg
-  - name: Zoya Qureshi
+  - name: Aaroh Patil
     position: APT NCO
-    img: Qureshi, Zoya25.jpg
+    img: Patil, Aaroh.jpg
 
 cyberpatriotmembers:
   - name: Audrey Li
