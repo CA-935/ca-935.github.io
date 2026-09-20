@@ -201,12 +201,12 @@ armedmembers:
     img: Korat, Havish (1).jpg
 
 cgmembers:
-  - name: David Nasi
-    position: Color Guard Officer in Charge
-    img: Nasi, David25.jpg
   - name: Chase Hebert
+    position: Color Guard Officer in Charge
+    img: Hebert, Chase.jpg
+  - name: Colin Fox
     position: Color Guard NCO
-    img: Hebert, Chase25.jpg
+    img: Fox, Colin.jpg
 
 flagdetailmembers:
   - name: Maverick Capiendo
@@ -217,12 +217,12 @@ flagdetailmembers:
     img: Ju, Alyssa25.jpg
 
 sabermembers:
-  - name: Daniel Yang
-    position: Saber Team Officer in Charge
-    img: Yang, Daniel25.jpg
   - name: Alice Kim
+    position: Saber Team Officer in Charge
+    img: Kim, Alice.jpg
+  - name: Natalie Ta
     position: Saber Team NCO
-    img: Kim, Alice25.jpg
+    img: Ta, Natalie.jpg
 
 unarmedmembers:
   - name: Arya Deshmukh
