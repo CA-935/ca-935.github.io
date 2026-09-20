@@ -242,12 +242,12 @@ academicmembers:
     img: Min, Aidan.jpg
  
 stellarmembers:
-  - name: Heather Ngo
-    position: Stellar Xplorers Officer in Charge
-    img: Ngo, Heather25.jpg
   - name: Sarah Zheng
+    position: Stellar Xplorers Officer in Charge
+    img: Zheng, Sarah.jpg
+  - name: Krish Patel
     position: Stellar Xplorers NCO
-    img: Zheng, Sarah25.jpg
+    img: Patel, Krish.jpg
 
      
 kittyhawkmembers:
@@ -358,12 +358,15 @@ aptmembers:
     img: Patil, Aaroh.jpg
 
 cyberpatriotmembers:
-  - name: Audrey Li
+  - name: Teetawat Tinnakornsrisuphap
     position: CyberPatriot Officer
-    img: Li, Audrey25.jpg
-  - name: Arush Sastry
+    img: Tinnakornsrisuphap, Teetawat.jpg
+  - name: Audrey Li
+    position: CyberPatriot Assistant Officer in Charge
+    img: Li, Audrey.jpg
+  - name: Ahbinav Nayak
     position: CyberPatriot NCO
-    img: 
+    img: Nayak, Ahbinav.jpg
  
 
 # Clients information. Shown on Home and About pages.
