@@ -209,12 +209,12 @@ cgmembers:
     img: Fox, Colin.jpg
 
 flagdetailmembers:
-  - name: Maverick Capiendo
-    img: Capiendo, Maverick.jpg
+  - name: Colin Lichvar
+    img: Lichvar, Colin.jpg
     position: Flag Detail Officer in Charge
-  - name: Alyssa Ju
+  - name: Joshua Pun
     position: Flag Detail NCO
-    img: Ju, Alyssa25.jpg
+    img: Pun, Joshua.jpg
 
 sabermembers:
   - name: Alice Kim
@@ -251,23 +251,23 @@ stellarmembers:
 
      
 kittyhawkmembers:
-  - name: Annalisa Boquiren
+  - name: Akshar Udas
     position: Kitty Hawk Officer in Charge
-    img: Boquiren, Annalisa25.jpg
-  - name: Bowie Murthy 
+    img: Udas, Akshar.jpg
+  - name: Sahasra Kinnera 
     position: Kitty Hawk Assistant Officer in Charge
-    img: Murthy, Bowie25.jpg
-  - name: Akshar Udas 
+    img: Kinnera, Sahasra.jpg
+  - name: Hasini Thamidala 
     position: Kitty Hawk NCO
-    img: Udas, Akshar25.jpg
+    img: Thamidala, Hasini.jpg
     
 educationmembers:
-  - name: Aryahi Jogi
+  - name: Lilian Tran
     position: Education Officer in Charge
-    img: Jogi, Aryahi25.jpg
-  - name: Samvrutha Ashok
+    img: Tran, Lilian.jpg
+  - name: Shasvitha Gubba
     position: Education NCO
-    img: Ashok, Samvrutha25.jpg 
+    img: Gubba, Shasvitha.jpg 
      
     
 
@@ -336,15 +336,18 @@ staffmembers:
         url: mailto:bridgehfam@gmail.com
 
 ypfmembers:
-  - name: Gael Perez
-    position: GPF/Raiders Officer
-    img: Perez, Gael25.jpg
-  - name: Matthew Tran 
-    position: GPF Officer
-    img: Tran, Matthew25.jpg
   - name: Olivia Liu
-    position: YPF/GPF/Raiders NCO
-    img: Liu, Olivia25.jpg
+    position: Raiders Officer
+    img: Liu, Olivia.jpg
+  - name: Hansini Mukthavaram
+    position: Raiders NCO
+    img: Mukthavaram, Hansini.jpg
+  - name: Eric Min 
+    position: GPF Officer
+    img: Min, Eric.jpg
+  - name: Dyllan Chou
+    position: GPF NCO
+    img: Chou, Dyllan.jpg
 
 aptmembers:
   - name: Zoya Qureshi
