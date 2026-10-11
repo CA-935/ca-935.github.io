@@ -363,13 +363,13 @@ aptmembers:
 cyberpatriotmembers:
   - name: Jazz Tinnakornsrisuphap
     position: CyberPatriot Officer
-    img: Tinnakornsrisuphap, Teetawat.jpg
+    img: Tinnakornsrisuphap, Teetawat(1).jpg
   - name: Audrey Li
     position: CyberPatriot Assistant Officer in Charge
-    img: Li, Audrey.jpg
+    img: Li, Audrey(1).jpg
   - name: Ahbinav Nayak
     position: CyberPatriot NCO
-    img: Nayak, Ahbinav.jpg
+    img: Nayak, Ahbinav(1).jpg
  
 
 # Clients information. Shown on Home and About pages.
